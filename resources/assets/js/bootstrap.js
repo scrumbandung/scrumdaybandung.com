@@ -1,5 +1,5 @@
 
-window._ = require('lodash');
+//window._ = require('lodash');
 
 /**
  * We'll load jQuery and the Bootstrap jQuery plugin which provides support
@@ -9,6 +9,7 @@ window._ = require('lodash');
 
 window.$ = window.jQuery = require('jquery');
 require('bootstrap-sass');
+//require('foundation-sites');
 
 /**
  * Vue is a modern JavaScript library for building interactive web interfaces
@@ -16,8 +17,8 @@ require('bootstrap-sass');
  * and simple, leaving you to focus on building your next great project.
  */
 
-window.Vue = require('vue');
-require('vue-resource');
+// window.Vue = require('vue');
+// require('vue-resource');
 
 /**
  * We'll register a HTTP interceptor to attach the "CSRF" header to each of
@@ -25,11 +26,11 @@ require('vue-resource');
  * included with Laravel will automatically verify the header's value.
  */
 
-Vue.http.interceptors.push((request, next) => {
-    request.headers.set('X-CSRF-TOKEN', Laravel.csrfToken);
+// Vue.http.interceptors.push((request, next) => {
+//     request.headers.set('X-CSRF-TOKEN', Laravel.csrfToken);
 
-    next();
-});
+//     next();
+// });
 
 /**
  * Echo exposes an expressive API for subscribing to channels and listening
