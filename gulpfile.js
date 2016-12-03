@@ -2,6 +2,7 @@ const elixir = require('laravel-elixir');
 elixir.config.sourcemaps = false;
 
 //require('laravel-elixir-vue-2');
+require('laravel-elixir-rollup-official');
 
 /*
  |--------------------------------------------------------------------------
@@ -14,7 +15,7 @@ elixir.config.sourcemaps = false;
  |
  */
 
-elixir((mix) => {
-    mix.sass('app.scss')
-       .rollup('app.js');
+elixir(function(mix) {
+	mix.sass('app.scss')
+  		.rollup('app.js');
 });

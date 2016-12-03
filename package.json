@@ -7,7 +7,6 @@
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
     "buble": "^0.14.2",
-    "foundation-sites": "^6.2.4",
     "gulp": "^3.9.1",
     "jquery": "^3.1.0",
     "laravel-elixir": "^6.0.0-14",
