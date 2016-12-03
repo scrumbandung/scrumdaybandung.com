@@ -7,7 +7,7 @@ window._ = require('lodash');
  */
 
 // window.$ = window.jQuery = require('jquery');
-require('jquery');
+require('./jquery-3.1.1');
 require('bootstrap-sass');
 //require('foundation-sites');
 
