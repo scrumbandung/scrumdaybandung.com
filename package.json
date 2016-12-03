@@ -6,16 +6,18 @@
   },
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
+    "buble": "^0.14.2",
+    "foundation-sites": "^6.2.4",
     "gulp": "^3.9.1",
     "jquery": "^3.1.0",
     "laravel-elixir": "^6.0.0-14",
     "laravel-elixir-vue-2": "^0.2.0",
     "laravel-elixir-webpack-official": "^1.0.2",
     "lodash": "^4.16.2",
+    "motion-ui": "^1.1.1",
+    "normalize-scss": "^6.0.0",
     "vue": "^2.0.1",
-    "vue-resource": "^1.0.3",
-    "normalize-scss" : "^6.0.0",
-    "foundation-sites" : "^6.2.4",
-    "motion-ui" : "^1.1.1"
+    "vue-loader": "^10.0.2",
+    "vue-resource": "^1.0.3"
   }
 }
