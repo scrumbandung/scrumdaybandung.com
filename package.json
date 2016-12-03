@@ -15,6 +15,7 @@
     "lodash": "^4.16.2",
     "node-sass": "^3.13.0",
     "normalize-scss": "^6.0.0",
+    "rollup-plugin-babel": "^2.6.1",
     "sass": "^0.5.0",
     "sass-loader": "^4.0.2",
     "underscore": "^1.8.3"
