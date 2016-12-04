@@ -46,19 +46,33 @@
     </nav>
 
     @yield('content')
+
+    <hr/>
+
+    <footer>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-6 col-xs-12">
+            <ul class="nav nav-pills">
+                <li><a href="#">Terms</a></li>
+                <li><a href="#">Privacy</a></li>
+                <li><a href="#">FAQ</a></li>
+                <li><a href="#">Blog</a></li>
+            </ul>
+          </div>
+          <div class="col-md-6 col-xs-12">
+            <h3>Social Media</h3>
+
+          </div>
+
+          <div class="col-md-12">
+            &copy; 2016-2017 Scrum Chapter Bandung Community 
+          </div>
+        </div>
+      </div>
+    </footer>
+
     </body>
 
     <script src="/js/app.js" type="text/javascript"></script>
-    <!--
-    <script src="/js/jquery.min.js" type="text/javascript"></script>
-    <script src="/js/foundation.min.js" type="text/javascript"></script>
-    <script src="/js/foundation.util.box.js" type="text/javascript"></script>
-    <script src="/js/foundation.util.keyboard.js" type="text/javascript"></script>
-    <script src="/js/foundation.util.motion.js" type="text/javascript"></script>
-    <script src="/js/foundation.util.nest.js" type="text/javascript"></script>
-    <script src="/js/foundation.core.js" type="text/javascript"></script>
-    <script src="/js/foundation.dropdown.js" type="text/javascript"></script>
-    <script src="/js/foundation.dropdownMenu.js" type="text/javascript"></script>
-    <script src="/js/foundation.sticky.js" type="text/javascript"></script>
-    -->
 </html>

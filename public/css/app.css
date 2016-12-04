@@ -7687,3 +7687,11 @@ button.close {
     display: none !important;
   }
 }
+
+footer {
+  background: #333;
+  margin-bottom: 0;
+  color: #ccc;
+  min-height: 5em;
+  padding: 2em;
+}
