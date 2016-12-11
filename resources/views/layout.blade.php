@@ -47,8 +47,6 @@
 
     @yield('content')
 
-    <hr/>
-
     <footer>
       <div class="container-fluid">
         <div class="row">
@@ -57,7 +55,6 @@
                 <li><a href="#">Terms</a></li>
                 <li><a href="#">Privacy</a></li>
                 <li><a href="#">FAQ</a></li>
-                <li><a href="#">Blog</a></li>
             </ul>
           </div>
           <div class="col-md-6 col-xs-12">

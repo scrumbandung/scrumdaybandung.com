@@ -43,7 +43,7 @@
     </div>
 
     <hr/>
-
+    <!--
     <div id="speakers" class="container">
         <div class="row">
             <div class="col-md-12">
@@ -61,7 +61,7 @@
             </div>
         </div>
     </div>
-
+    -->
     <hr/>
 
     <div id="schedule" class="container">
