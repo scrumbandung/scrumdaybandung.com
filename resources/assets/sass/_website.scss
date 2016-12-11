@@ -1,9 +1,29 @@
-
-
-footer { 
-	background: #333; 
-	margin-bottom:0; 
-	color: #ccc; 
+footer {
+	color: $footer-text-color;
+	background: $footer-color; 
+	margin-bottom:0;
 	min-height: 5em;
 	padding: 2em;
+
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	li {
+		float: left;
+		margin-right: 10px; 
+
+		a {
+			color: $footer-text-color;
+
+			&:hover, 
+			&:focus {
+				text-decoration: none;
+				background-color: none;
+				color: $text-color;
+			}
+		}
+	}
 }

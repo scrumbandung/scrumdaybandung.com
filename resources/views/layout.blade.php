@@ -51,8 +51,8 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-6 col-xs-12">
-            <ul class="nav nav-pills">
-                <li><a href="#">Terms</a></li>
+            <ul class="">
+                <li><a href="">Terms</a></li>
                 <li><a href="#">Privacy</a></li>
                 <li><a href="#">FAQ</a></li>
             </ul>
@@ -60,6 +60,12 @@
           <div class="col-md-6 col-xs-12">
             <h3>Social Media</h3>
 
+            <ul class="">
+              <li><a class="btn btn-social-icon btn-twitter" href="http://twitter.com/ScrumDayBandung"><span class="fa fa-twitter fa-3x"></span></a></li>
+              <li><a class="btn btn-social-icon btn-facebook" href="http://facebook.com/ScrumDayBandung"><span class="fa fa-facebook fa-3x"></span></a></li>
+              <li><a class="btn btn-social-icon btn-instagram" href="http://instagram.com/ScrumDayBandung"><span class="fa fa-instagram fa-3x"></span></a></li>
+              <li><a class="btn btn-social-icon btn-youtube" href="https://www.youtube.com/channel/UCRt916JY7GHN-b2b5GPa3Fw"><span class="fa fa-youtube fa-3x"></span></a></li>
+            </ul>
           </div>
 
           <div class="col-md-12">
