@@ -23,7 +23,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/"><img src="/img/logo_header_web.png" alt="scrum day bandung logo"/></a>
+          <a class="navbar-brand" href="/"><img src="/img/logo_header_web.png" class="img-responsive" alt="scrum day bandung logo"/></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">          
             <ul class="nav navbar-nav" data-dropdown-menu>
