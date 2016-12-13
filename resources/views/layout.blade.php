@@ -23,11 +23,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Scrum Day Bandung 2017</a>
+          <a class="navbar-brand" href="/"><img src="/img/logo_header_web.png" alt="scrum day bandung logo"/></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">          
             <ul class="nav navbar-nav" data-dropdown-menu>
-                <li><a href="#">Home</a></li>
+                <li><a href="#">Home</a></li> <!--
                 <li role="presentation" class="dropdown">
                     <a href="#">About</a>
                     <ul class="dropdown-menu">
@@ -39,7 +39,7 @@
                 <li><a href="#">Schedule</a></li>
                 <li><a href="#">Venue</a></li>
                 <li><a href="#">Sponsors</a></li>
-                <li><a href="#">Travel Guide</a></li>
+                <li><a href="#">Travel Guide</a></li> -->
             </ul>
         </div><!--/.navbar-collapse -->
       </div>

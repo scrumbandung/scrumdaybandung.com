@@ -1,3 +1,21 @@
+body {
+	padding-top: $body-margin-top;
+}
+
+#banner {
+	background: $dark-blue;
+}
+
+#welcome {
+	margin-top: 25px;
+}
+
+.navbar-nav {
+  > li > a {
+    font-size:    1.25em;
+  }
+}
+
 footer {
 	color: $footer-text-color;
 	background: $footer-color; 
