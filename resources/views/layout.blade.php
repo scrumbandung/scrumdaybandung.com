@@ -52,13 +52,13 @@
         <div class="row">
           <div class="col-md-6 col-xs-12">
             <ul class="">
-                <li><a href="">Terms</a></li>
+                <li><a href="#">Terms</a></li>
                 <li><a href="#">Privacy</a></li>
                 <li><a href="#">FAQ</a></li>
             </ul>
           </div>
           <div class="col-md-6 col-xs-12">
-            <h3>Social Media</h3>
+            <h3>Connect With Us</h3>
 
             <ul class="">
               <li><a class="btn btn-social-icon btn-twitter" href="http://twitter.com/ScrumDayBandung"><span class="fa fa-twitter fa-3x"></span></a></li>

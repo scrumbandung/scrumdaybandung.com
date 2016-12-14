@@ -5,8 +5,8 @@
 @section('content')
 
     <div id="banner" class="container-fluid">
-         <div class="row">
-            <div class="col-md-12"><img src="/img/comingsoon-web_youtube-acc.jpg" alt="coming soon banner" class="img-responsive" /></div>
+        <div class="row">
+            <div class="col-md-12"><img src="/img/comingsoon-web.jpg" alt="coming soon banner" class="img-responsive" /></div>
         </div>
     </div>
 
