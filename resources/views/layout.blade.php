@@ -27,14 +27,14 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">          
             <ul class="nav navbar-nav" data-dropdown-menu>
-                <li><a href="#">Home</a></li> <!--
+                <li><a href="#">Home</a></li> 
                 <li role="presentation" class="dropdown">
-                    <a href="#">About</a>
+                    <a href="#"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">The Scrum Team</a></li>
-                        <li><a href="#">The Event</a></li>
+                        <li><a href="/about/team">The Scrum Team</a></li>
+                        <li><a href="/about/event">The Event</a></li>
                     </ul>
-                </li>
+                </li> <!--
                 <li><a href="#">Speakers</a></li>
                 <li><a href="#">Schedule</a></li>
                 <li><a href="#">Venue</a></li>
@@ -47,20 +47,29 @@
 
     @yield('content')
 
+    <nav class="navbar navbar-default navbar-fixed-bottom">
+      <div class="container">
+        <ul class="nav navbar-nav" data-dropdown-menu>
+          <li><a href="#"></a></li>
+        </ul>
+        <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button">Buy Ticket &raquo;</a>
+      </div>
+    </nav>
+
     <footer>
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-6 col-xs-12">
-            <ul class="">
+            <!--<ul class="">
                 <li><a href="#">Terms</a></li>
                 <li><a href="#">Privacy</a></li>
                 <li><a href="#">FAQ</a></li>
-            </ul>
+            </ul>-->
           </div>
           <div class="col-md-6 col-xs-12">
             <h3>Connect With Us</h3>
 
-            <ul class="">
+            <ul>
               <li><a class="btn btn-social-icon btn-twitter" href="http://twitter.com/ScrumDayBandung"><span class="fa fa-twitter fa-3x"></span></a></li>
               <li><a class="btn btn-social-icon btn-facebook" href="http://facebook.com/ScrumDayBandung"><span class="fa fa-facebook fa-3x"></span></a></li>
               <li><a class="btn btn-social-icon btn-instagram" href="http://instagram.com/ScrumDayBandung"><span class="fa fa-instagram fa-3x"></span></a></li>

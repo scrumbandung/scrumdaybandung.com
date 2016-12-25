@@ -15,7 +15,7 @@
             <div class="col-md-12 text-center">
                 <h3 class="">Sponsors</h3>
 
-                <a class="btn btn-primary btn-lg" href="http://www.facebook.com/ScrumDayBandung" role="button">Become a sponsor &raquo;</a>
+                <a class="btn btn-primary btn-lg" href="/Proposal_Sponsor_en.pdf" role="button">Become a sponsor &raquo;</a>
             </div>            
         </div>
     </div>
@@ -62,6 +62,13 @@
         <div class="row">
             <div class="col-md-12">
                 <h3 class="text-center">Venue</h3>
+
+                <p>
+                    <strong>Hotel Novotel Bandung</strong>
+                </p>
+                <p>
+                    Jl. Cihampelas No.23, Tamansari, Bandung Wetan, Bandung City, West Java 40171
+                </p>
             </div>     
             <div class="col-md-12">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1980.440889644751!2d107.60309779364012!3d-6.90473806744511!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x87181e433bf2ec24!2sHotel+Novotel+Bandung!5e0!3m2!1sen!2sid!4v1481452241905" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

@@ -28,6 +28,12 @@ $navbar-height: 60px;
 $navbar-default-bg: #fff;
 $navbar-margin-bottom: 15px;
 $navbar-padding-vertical: 12px;
+$navbar-default-color: #fff;
+$navbar-default-bg: #0b3c5d; 
+$navbar-default-border: #328cc1;
+$navbar-default-link-color: #fff;
+$navbar-default-link-hover-color: #328cc1;
+$navbar-default-link-active-color: #328cc1; 
 
 // Buttons
 $btn-default-color: $text-color;
@@ -41,8 +47,10 @@ $input-color-placeholder: lighten($text-color, 30%);
 $panel-default-heading-bg: #fff;
 
 // Footer
-$footer-color: #333;
-$footer-text-color: #ccc; 
+$footer-color: #1d2731;
+$footer-text-color: #328cc1; 
+$footer-link-color: #fff;
+$footer-link-hover-color: #328cc1;
 
 // Color Themes
 $dark-blue: #1d2731;

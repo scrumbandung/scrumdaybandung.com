@@ -1,5 +1,6 @@
 body {
 	padding-top: $body-margin-top;
+	padding-bottom: $body-margin-top;
 }
 
 #banner {
@@ -34,13 +35,13 @@ footer {
 		margin-right: 10px; 
 
 		a {
-			color: $footer-text-color;
+			color: $footer-link-color;
 
 			&:hover, 
 			&:focus {
 				text-decoration: none;
 				background-color: none;
-				color: $text-color;
+				color: $footer-link-hover-color;
 			}
 		}
 	}
