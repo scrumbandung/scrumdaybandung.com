@@ -15,6 +15,11 @@ Route::get('/landing', function () {
     return view('welcome');
 });
 
+Route::get('/about/event', function () {
+    return view('event');
+});
+
+
 Route::get('/', function(){
 	return view('welcome');
 });

@@ -1,14 +1,23 @@
 body {
 	padding-top: $body-margin-top;
 	padding-bottom: $body-margin-top;
+	color: $text-color;
 }
 
 #banner {
 	background: $dark-blue;
 }
 
-#welcome {
+.first {
 	margin-top: 25px;
+}
+
+.navbar {
+	padding: $navbar-padding-vertical $navbar-padding-horizontal;
+}
+
+.navbar-fixed-bottom {
+	color: $navbar-bottom-color;
 }
 
 .navbar-nav {

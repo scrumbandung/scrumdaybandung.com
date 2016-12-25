@@ -22,21 +22,16 @@
 
     <hr/>
     
-    <div id="welcome" class="container-fluid">
+    <div id="event" class="container-fluid first">
         <div class="row">
             <div class="col-md-5">
                 <h2>Theme</h2>
                 <p>Professionalism in software development</p>
 
                 <h2>Our Goals</h2>
-                <p>Igniting change in software industry, inspiring future leaders</p>
-                <!--
-                <h2>Our Mission</h2>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul> -->
+                <p>Igniting change in software ecosystem, inspiring future leaders</p>
+                
+
             </div>
             <div class="col-md-7">
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/8QEpESit11s" frameborder="0" allowfullscreen></iframe>
@@ -60,8 +55,8 @@
     -->
     <div id="venue" class="container-fluid">
         <div class="row">
-            <div class="col-md-12">
-                <h3 class="text-center">Venue</h3>
+            <div class="col-md-12 text-center">
+                <h3>Venue</h3>
 
                 <p>
                     <strong>Hotel Novotel Bandung</strong>

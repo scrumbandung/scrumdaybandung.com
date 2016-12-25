@@ -23,15 +23,15 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/"><img src="/img/logo_header_web.png" width="80%" class="img-responsive" alt="scrum day bandung logo"/></a>
+          <a href="/"><img src="/img/logo_header_web.png" width="80%" class="img-responsive" alt="scrum day bandung logo"/></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">          
             <ul class="nav navbar-nav" data-dropdown-menu>
-                <li><a href="#">Home</a></li> 
+                <li><a href="/">Home</a></li> 
                 <li role="presentation" class="dropdown">
                     <a href="#"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/about/team">The Scrum Team</a></li>
+                        <li><a href="#team">The Scrum Team</a></li>
                         <li><a href="/about/event">The Event</a></li>
                     </ul>
                 </li> <!--
@@ -48,24 +48,26 @@
     @yield('content')
 
     <nav class="navbar navbar-default navbar-fixed-bottom">
-      <div class="container">
-        <ul class="nav navbar-nav" data-dropdown-menu>
-          <li><a href="#"></a></li>
-        </ul>
-        <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button">Buy Ticket &raquo;</a>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-3">
+            <strong>Early Bird</strong>
+            <p>IDR 500,000,- until 25 January 2017</p>
+          </div>
+          <div class="col-md-3">
+            <strong>Regular</strong>
+            <p>IDR 700,000,- until 28 February 2017</p>
+          </div>
+          <div class="col-md-6 text-right">
+            <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button">Buy Ticket &raquo;</a>
+          </div>
+        </div>
       </div>
     </nav>
 
     <footer>
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-6 col-xs-12">
-            <!--<ul class="">
-                <li><a href="#">Terms</a></li>
-                <li><a href="#">Privacy</a></li>
-                <li><a href="#">FAQ</a></li>
-            </ul>-->
-          </div>
           <div class="col-md-6 col-xs-12">
             <h3>Connect With Us</h3>
 
@@ -76,7 +78,13 @@
               <li><a class="btn btn-social-icon btn-youtube" href="https://www.youtube.com/channel/UCRt916JY7GHN-b2b5GPa3Fw"><span class="fa fa-youtube fa-3x"></span></a></li>
             </ul>
           </div>
-
+          <div class="col-md-6 col-xs-12">
+            <!--<ul class="">
+                <li><a href="#">Terms</a></li>
+                <li><a href="#">Privacy</a></li>
+                <li><a href="#">FAQ</a></li>
+            </ul>-->
+          </div>
           <div class="col-md-12">
             &copy; 2016-2017 Scrum Chapter Bandung Community 
           </div>
