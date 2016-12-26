@@ -7714,12 +7714,18 @@ body {
   font-size: 1.25em;
 }
 
+.schedule-box {
+  background: #d9b310;
+  border: 1px solid #0b3c5d;
+}
+
 footer {
   color: #328cc1;
   background: #1d2731;
+  margin-top: 20px;
   margin-bottom: 0;
   min-height: 5em;
-  padding: 2em;
+  padding: 3.5em;
 }
 
 footer ul {

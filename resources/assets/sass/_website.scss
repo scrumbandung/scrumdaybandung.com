@@ -26,12 +26,18 @@ body {
   }
 }
 
+.schedule-box {
+	background: #d9b310;
+	border: 1px solid #0b3c5d;
+}
+
 footer {
 	color: $footer-text-color;
 	background: $footer-color; 
+	margin-top: 20px;
 	margin-bottom:0;
 	min-height: 5em;
-	padding: 2em;
+	padding: 3.5em;
 
 	ul {
 		list-style-type: none;

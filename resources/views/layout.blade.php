@@ -52,7 +52,7 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-3">
-            <strong>Early Bird</strong>
+            <strong>Early Bird (limited)</strong>
             <p>IDR 500,000,- until 25 January 2017</p>
           </div>
           <div class="col-md-3">
