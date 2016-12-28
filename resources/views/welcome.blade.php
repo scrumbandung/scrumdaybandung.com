@@ -12,17 +12,17 @@
                 <h3>The Date: 28 February 2017</h3>
 
                 <div class="row">
-                <div class="col-md-3">
-                    <strong>Early Bird (limited)</strong>
-                    <p>IDR 500,000,- until 25 January 2017</p>
-                  </div>
-                  <div class="col-md-3 hidden-xs">
-                    <strong>Regular</strong>
-                    <p>IDR 700,000,- until 28 February 2017</p>
-                  </div>
-                  <div class="col-md-6 text-right">
-                    <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button">Purchase Ticket Now &raquo;</a>
-                  </div>
+                    <div class="col-md-4">
+                        <strong>Early Bird (limited)</strong>
+                        <p>IDR 500,000,- until 25 January 2017</p>
+                    </div>
+                    <div class="col-md-4">
+                        <strong>Regular</strong>
+                        <p>IDR 700,000,- until 28 February 2017</p>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button">Purchase Ticket Now &raquo;</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -33,7 +33,7 @@
             <div class="col-md-12 text-center">
                 <h3 class="">Sponsors</h3>
 
-                <p>We are looking for like minded companies who would like to sponsor our mission to bring agility and professionalism into software development ecosystem in Indonesia.
+                <p>We are looking for like minded companies or individuals who would like to sponsor our mission to bring agility and professionalism into software development ecosystem in Indonesia.
                 </p>
 
                 <a class="btn btn-primary btn-lg" href="/Proposal_Sponsor_en.pdf" role="button">Support Our Mission &raquo;</a>
