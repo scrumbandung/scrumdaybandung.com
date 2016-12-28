@@ -1,6 +1,5 @@
 body {
 	padding-top: $body-margin-top;
-	padding-bottom: $body-margin-top;
 	color: $text-color;
 }
 
@@ -8,16 +7,14 @@ body {
 	background: $dark-blue;
 }
 
-.first {
+.push-top {
 	margin-top: 25px;
 }
 
-.navbar {
-	padding: $navbar-padding-vertical $navbar-padding-horizontal;
-}
-
-.navbar-fixed-bottom {
-	color: $navbar-bottom-color;
+#ticket {
+	.btn-primary {
+		background: $dark-blue;
+	}
 }
 
 .navbar-nav {
@@ -31,13 +28,18 @@ body {
 	border: 1px solid #0b3c5d;
 }
 
+.ticket-box {
+	background: #328cc1;
+	color: #fff;
+}
+
 footer {
 	color: $footer-text-color;
 	background: $footer-color; 
 	margin-top: 20px;
 	margin-bottom:0;
 	min-height: 5em;
-	padding: 3.5em;
+	padding-bottom: 3.5em;
 
 	ul {
 		list-style-type: none;

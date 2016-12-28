@@ -47,7 +47,7 @@
     </nav>
 
     @yield('content')
-
+<!--
     <nav class="navbar navbar-default navbar-fixed-bottom">
       <div class="container-fluid">
         <div class="row">
@@ -55,7 +55,7 @@
             <strong>Early Bird (limited)</strong>
             <p>IDR 500,000,- until 25 January 2017</p>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-3 hidden-xs">
             <strong>Regular</strong>
             <p>IDR 700,000,- until 28 February 2017</p>
           </div>
@@ -65,19 +65,23 @@
         </div>
       </div>
     </nav>
-
+-->
     <footer>
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-6 col-xs-12">
             <h3>Connect With Us</h3>
 
+            <div class="fb-like" data-href="https://facebook.com/scrumdaybandung" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
+            <a href="https://twitter.com/scrumdaybandung" class="twitter-follow-button" data-show-count="true">Follow @scrumdaybandung</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <!--
             <ul>
-              <li><a class="btn btn-social-icon btn-twitter" href="http://twitter.com/ScrumDayBandung"><span class="fa fa-twitter fa-3x"></span></a></li>
-              <li><a class="btn btn-social-icon btn-facebook" href="http://facebook.com/ScrumDayBandung"><span class="fa fa-facebook fa-3x"></span></a></li>
-              <li><a class="btn btn-social-icon btn-instagram" href="http://instagram.com/ScrumDayBandung"><span class="fa fa-instagram fa-3x"></span></a></li>
-              <li><a class="btn btn-social-icon btn-youtube" href="https://www.youtube.com/channel/UCRt916JY7GHN-b2b5GPa3Fw"><span class="fa fa-youtube fa-3x"></span></a></li>
+              <li><a class="btn btn-social-icon btn-twitter" href="http://twitter.com/ScrumDayBandung"><span class="fa fa-twitter fa-2x"></span></a></li>
+              <li><a class="btn btn-social-icon btn-facebook" href="http://facebook.com/ScrumDayBandung"><span class="fa fa-facebook fa-2x"></span></a></li>
+              <li><a class="btn btn-social-icon btn-instagram" href="http://instagram.com/ScrumDayBandung"><span class="fa fa-instagram fa-2x"></span></a></li>
+              <li><a class="btn btn-social-icon btn-youtube" href="https://www.youtube.com/channel/UCRt916JY7GHN-b2b5GPa3Fw"><span class="fa fa-youtube fa-2x"></span></a></li>
             </ul>
+            -->
           </div>
           <div class="col-md-6 col-xs-12">
             <!--<ul class="">
@@ -86,7 +90,7 @@
                 <li><a href="#">FAQ</a></li>
             </ul>-->
           </div>
-          <div class="col-md-12">
+          <div class="col-md-12 push-top">
             &copy; 2016-2017 Scrum Chapter Bandung Community 
           </div>
         </div>
@@ -104,5 +108,14 @@
 
       ga('create', 'UA-89487135-1', 'auto');
       ga('send', 'pageview');
+    </script>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
     </script>
 </html>

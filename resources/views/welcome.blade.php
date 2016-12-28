@@ -4,32 +4,53 @@
 
 @section('content')
 
-    <div id="banner" class="container-fluid">
+    <img src="/img/comingsoon-web.jpg" alt="coming soon banner" class="img-responsive"  />
+
+    <div id="ticket" class="container-fluid ticket-box">
         <div class="row">
-            <div class="col-md-12"><img src="/img/comingsoon-web.jpg" alt="coming soon banner" class="img-responsive" /></div>
+            <div class="col-md-12">
+                <h3>The Date: 28 February 2017</h3>
+
+                <div class="row">
+                <div class="col-md-3">
+                    <strong>Early Bird (limited)</strong>
+                    <p>IDR 500,000,- until 25 January 2017</p>
+                  </div>
+                  <div class="col-md-3 hidden-xs">
+                    <strong>Regular</strong>
+                    <p>IDR 700,000,- until 28 February 2017</p>
+                  </div>
+                  <div class="col-md-6 text-right">
+                    <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button">Purchase Ticket Now &raquo;</a>
+                  </div>
+                </div>
+            </div>
         </div>
     </div>
 
-    <div id="sponsors" class="container-fluid">
+    <div id="sponsors" class="container-fluid push-top">
         <div class="row">
             <div class="col-md-12 text-center">
                 <h3 class="">Sponsors</h3>
 
-                <a class="btn btn-primary btn-lg" href="/Proposal_Sponsor_en.pdf" role="button">Become a sponsor &raquo;</a>
+                <p>We are looking for like minded companies who would like to sponsor our mission to bring agility and professionalism into software development ecosystem in Indonesia.
+                </p>
+
+                <a class="btn btn-primary btn-lg" href="/Proposal_Sponsor_en.pdf" role="button">Support Our Mission &raquo;</a>
             </div>            
         </div>
     </div>
 
     <hr/>
     
-    <div id="event" class="container-fluid first">
+    <div id="event" class="container first">
         <div class="row">
             <div class="col-md-5">
                 <h2>Theme</h2>
                 <p>Professionalism in software development</p>
 
                 <h2>Our Goals</h2>
-                <p>Igniting change in software ecosystem, inspiring future leaders</p>
+                <p>Igniting change in software development ecosystem, inspiring future leaders</p>
                 
 
             </div>
@@ -53,7 +74,7 @@
 
     <hr/>
     -->
-    <div id="venue" class="container-fluid">
+    <div id="venue" class="container">
         <div class="row">
             <div class="col-md-12 text-center">
                 <h3>Venue</h3>
