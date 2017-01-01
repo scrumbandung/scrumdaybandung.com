@@ -32,7 +32,7 @@
                 <li role="presentation" class="dropdown">
                     <a href="#"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#team">The Scrum Team</a></li>
+                        <li><a href="/about/team">The Scrum Team</a></li>
                         <li><a href="/about/event">The Event</a></li>
                     </ul>
                 </li> <!--

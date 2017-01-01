@@ -15,7 +15,7 @@
 </p>
 
                 <p>
-Scrum Day Bandung 2017 is an intense 1-day business agility &amp; management conference with Scrum as its framework. But we think Scrum Day Bandung is more than just a conference. We think it is a community movement towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. 
+Scrum Day Bandung 2017 is an intense 1-day business agility &amp; modern management conference with Scrum as its framework. But we think Scrum Day Bandung is more than just a conference. We think it is a community movement towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. 
 </p>
 <p>
 Scrum Day Bandung is a perfect place to be for leaders, managers and change agents who have concerns about business agility and profesionalism in software development ecosystem to meet, exchange experiences and support each other. Unlike other conferences in the region where participants only leave the event with information or knowledge, in this event participants will feel inspired and empowered to make changes in their respective companies knowing that others will walk alongside them. 
@@ -33,7 +33,7 @@ This event will be an exclusive event and the first business &amp; management co
             		<strong>Time</strong>: 09:00-17:00<br/>
 
             		<h4>Admission Fee</h4>
-            		<p>Free introduction to Scrum Training limited to 20 persons who have registered for the conference.</p>
+            		<p>Free introduction to Scrum Training limited to 30 persons who have registered for the conference.</p>
             	</div>
             	<div class="col-md-6 col-md-offset-1 schedule-box">
             		<h3>Scrum Day Bandung 2017</h3>

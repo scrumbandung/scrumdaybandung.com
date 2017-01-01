@@ -19,6 +19,9 @@ Route::get('/about/event', function () {
     return view('event');
 });
 
+Route::get('/about/team', function () {
+    return view('team');
+});
 
 Route::get('/', function(){
 	return view('welcome');

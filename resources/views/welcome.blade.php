@@ -4,13 +4,11 @@
 
 @section('content')
 
-    <img src="/img/comingsoon-web.jpg" alt="coming soon banner" class="img-responsive"  />
+    <img src="/img/web-banner.jpg" alt="coming soon banner" class="img-responsive"  />
 
     <div id="ticket" class="container-fluid ticket-box">
         <div class="row">
             <div class="col-md-12">
-                <h3>The Date: 28 February 2017</h3>
-
                 <div class="row">
                     <div class="col-md-4">
                         <strong>Early Bird (limited)</strong>
@@ -61,7 +59,7 @@
     </div>
 
     <hr/>
-    <!--
+
     <div id="schedule" class="container-fluid">
         <div class="row">
             <div class="col-md-12">
@@ -73,7 +71,7 @@
     </div>
 
     <hr/>
-    -->
+    
     <div id="venue" class="container">
         <div class="row">
             <div class="col-md-12 text-center">
