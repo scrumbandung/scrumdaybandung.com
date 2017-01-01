@@ -31,7 +31,7 @@
             <div class="col-md-12 text-center">
                 <h3 class="">Sponsors</h3>
 
-                <p>We are looking for like minded companies or individuals who would like to sponsor our mission to bring agility and professionalism into software development ecosystem in Indonesia.
+                <p>We are looking for like minded companies and individuals who would like to sponsor our mission to bring agility and professionalism into software development ecosystem in Indonesia.
                 </p>
 
                 <a class="btn btn-primary btn-lg" href="/Proposal_Sponsor_en.pdf" role="button">Support Our Mission &raquo;</a>
