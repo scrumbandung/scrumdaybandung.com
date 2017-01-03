@@ -8,19 +8,23 @@
 
     <div id="ticket" class="container-fluid ticket-box">
         <div class="row">
-            <div class="container">
-                <div class="col-md-12">
+            <div class="col-md-12">
+                <div class="container">
                     <div class="row">
-                        <div class="col-md-4">
-                            <strong>Early Bird (limited)</strong>
-                            <p>IDR 500,000,- until 25 January 2017</p>
-                        </div>
-                        <div class="col-md-4">
-                            <strong>Regular</strong>
-                            <p>IDR 700,000,- until 28 February 2017</p>
-                        </div>
-                        <div class="col-md-4 text-center">
-                            <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button">Purchase Ticket Now &raquo;</a>
+                        <div class="col-md-12">
+                            <div class="row text-center">
+                                <div class="col-md-4">
+                                    <strong>Early Bird (limited)</strong>
+                                    <p>IDR 500,000,- until 25 January 2017</p>
+                                </div>
+                                <div class="col-md-4">
+                                    <strong>Regular</strong>
+                                    <p>IDR 700,000,- until 28 February 2017</p>
+                                </div>
+                                <div class="col-md-4">
+                                    <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button" target="_blank">Purchase Ticket Now &raquo;</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -30,12 +34,23 @@
 
     <div id="event" class="container push-top">
         <div class="row">
-            <div class="col-md-5">
+            <div class="col-md-6">
+                <h3>What is Scrum Day Bandung</h3>
+                <p>In brief, Scrum Day Bandung 2017 is an intense 1-day business agility &amp; modern management conference with Scrum as its framework. But we think Scrum Day Bandung 2017 is more than just a conference. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. Scrum Day Bandung is one of that event in 2017 you do not want to miss.
+                </p>
                 <h3>Theme</h3>
                 <p>Professionalism in software development</p>
 
-                <h3>Our Goals</h3>
+                <h3>Goals</h3>
                 <p>Igniting change in software development ecosystem, inspiring future leaders</p>
+
+                <h3>Target Audience</h3>
+                <ul>
+                    <li>Senior Leaders (CxO)</li>
+                    <li>Managers</li>
+                    <li>Scrum Masters</li>
+                    <li>Scrum Product Owners</li>
+                </ul>
                 
                 <h3>Date &amp; Time</h3>
                 <p>February, 28<sup>th</sup> 2017 at 08:30 AM - 05:45 PM WIB</p>
@@ -44,12 +59,15 @@
                 <p>
                     Hotel Novotel Bandung <br>
                     Jl. Cihampelas No.23, Tamansari, Bandung Wetan, Bandung City, West Java 40171 
+                </p>
+                <p>                    
                     <a href="https://www.google.co.id/maps/place/Hotel+Novotel+Bandung/@-6.9048974,107.6019924,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68e646d68f1315:0x87181e433bf2ec24!8m2!3d-6.9048974!4d107.6041865" target="_blank" class="btn btn-social btn-primary">
                         <span class="fa fa-map-marker"></span> View on Google Map
                     </a>
                 </p>
             </div>
-            <div class="col-md-7">
+            <div class="col-md-6">
+                <h3>What is Scrum</h3>
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <div class="embed-responsive embed-responsive-16by9">
@@ -65,8 +83,8 @@
 
     <div id="schedule" class="container-fluid text-center">
         <div class="row">
-            <div class="col-md-12">
-                <h2>Schedule</h2>
+            <div class="col-xs-12">
+                <h2>Schedule &amp; Speakers</h2>
 
                 <a id="sched-embed" href="http://scrumdaybandung2017.sched.org/">View the Scrum Day Bandung 2017 schedule & directory.</a><script type="text/javascript" src="//scrumdaybandung2017.sched.org/js/embed.js"></script>
             </div>            
@@ -75,28 +93,74 @@
 
     <hr/>
 
-    <div id="sponsors" class="container-fluid push-top text-center">
+    <div id="sponsors" class="container push-top text-center">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="">Sponsors</h2>
+                <h2>Sponsors</h2>
 
                 <p>We are looking for like minded companies and individuals who would like to sponsor our mission to bring agility and professionalism into software development ecosystem in Indonesia.
                 </p>
 
-
-
-                <a class="btn btn-primary btn-social btn-lg" href="/Proposal_Sponsor_en.pdf" role="button"><span class="fa fa-handshake-o"></span> Support Our Mission &raquo;</a>
+                <a class="btn btn-primary btn-social btn-lg" href="/Proposal_Sponsor_en.pdf" role="button"><span class="fa fa-handshake-o"></span> Support Our Mission Financially &raquo;</a>
             </div>        
             <div class="col-md-12">
-                <h3>Silver Sponsors</h3>
                 <div class="row">
+                    <h3>Gold Sponsors</h3>
+
                     <div class="col-xs-6">
-                        <a href="http://www.scrum.org"><img src="/img/sponsors/scrum_org.png" class="img-responsive" /></a>
+                        <a href="http://www.scrum.org"><img src="/img/sponsors/scrum_org.png" class="img-responsive" target="_blank" /></a>
                     </div>
-                    <div class="col-xs-6">
+                    <div class="col-xs-6 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Gold</b> sponsors</span>
                     </div>
                 </div>
-            </div>    
+            </div>
+            <div class="col-md-12">
+                <div class="row">
+                    <h3>Silver Sponsors</h3>
+
+                    <div class="col-xs-4 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Silver</b> sponsor</span>
+                    </div>
+                    <div class="col-xs-4 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Silver</b> sponsor</span>
+                    </div>              
+                    <div class="col-xs-4 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Silver</b> sponsor</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="row">
+                    <h3>Bronze Sponsors</h3>
+
+                    <div class="col-xs-3 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Bronze</b> sponsor</span>
+                    </div>
+                    <div class="col-xs-3 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Bronze</b> sponsor</span>
+                    </div>
+                    <div class="col-xs-3 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Bronze</b> sponsor</span>
+                    </div>
+                    <div class="col-xs-3 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Bronze</b> sponsor</span>
+                    </div>
+                </div>
+            </div>     
+        </div>
+    </div>
+    
+    <hr/>
+
+    <div id="media" class="container push-top text-center">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Media Partners</h2>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfy4JPTYPx6VhC249I8px2rTYVEDwWrXJKXnJFPWABLjwUG8w/viewform" target="_blank" class="btn btn-social btn-primary">
+                    <span class="fa fa-camera"></span> Become Our Media Partner
+                </a>
+            </div>
         </div>
     </div>
 @endsection

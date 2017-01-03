@@ -34,14 +34,9 @@
                         <li><a href="/about/team">The Scrum Team</a></li>
                         <li><a href="/about/event">The Event</a></li>
                     </ul>
-                </li> <!--
-                <li><a href="#">Speakers</a></li>
-                <li><a href="#">Schedule</a></li>
-                <li><a href="#">Venue</a></li>
-                <li><a href="#">Sponsors</a></li>
-                <li><a href="#">Travel Guide</a></li> -->
+                </li> 
             </ul>
-        </div><!--/.navbar-collapse -->
+        </div>
       </div>
     </nav>
 
