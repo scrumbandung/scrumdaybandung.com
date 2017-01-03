@@ -23,8 +23,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-          </button>
-          <a href="/"><img src="/img/logo_header_web.png" width="80%" class="img-responsive" alt="scrum day bandung logo"/></a>
+          </button><a class="navbar-brand" href="#home"></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">          
             <ul class="nav navbar-nav" data-dropdown-menu>
@@ -47,56 +46,30 @@
     </nav>
 
     @yield('content')
-<!--
-    <nav class="navbar navbar-default navbar-fixed-bottom">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-3">
-            <strong>Early Bird (limited)</strong>
-            <p>IDR 500,000,- until 25 January 2017</p>
-          </div>
-          <div class="col-md-3 hidden-xs">
-            <strong>Regular</strong>
-            <p>IDR 700,000,- until 28 February 2017</p>
-          </div>
-          <div class="col-md-6 text-right">
-            <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button">Buy Ticket &raquo;</a>
-          </div>
-        </div>
-      </div>
-    </nav>
--->
-    <footer>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-6 col-xs-12">
-            <h3>Connect With Us</h3>
 
-            <div class="fb-like" data-href="https://facebook.com/scrumdaybandung" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
-            <a href="https://twitter.com/scrumdaybandung" class="twitter-follow-button" data-show-count="true">Follow @scrumdaybandung</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-            <!--
-            <ul>
-              <li><a class="btn btn-social-icon btn-twitter" href="http://twitter.com/ScrumDayBandung"><span class="fa fa-twitter fa-2x"></span></a></li>
-              <li><a class="btn btn-social-icon btn-facebook" href="http://facebook.com/ScrumDayBandung"><span class="fa fa-facebook fa-2x"></span></a></li>
-              <li><a class="btn btn-social-icon btn-instagram" href="http://instagram.com/ScrumDayBandung"><span class="fa fa-instagram fa-2x"></span></a></li>
-              <li><a class="btn btn-social-icon btn-youtube" href="https://www.youtube.com/channel/UCRt916JY7GHN-b2b5GPa3Fw"><span class="fa fa-youtube fa-2x"></span></a></li>
-            </ul>
-            -->
+    <footer id="contact">
+      <div class="container">
+        <div class="col-sm-8">
+          <div class="col-sm-5 text-right">
+            <h4>Contact Us</h4>
+          
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=scrumdaybandung@gmail.com" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-envelope fa-lg"></i></a>
+            scrumdaybandung@gmail.com
           </div>
-          <div class="col-md-6 col-xs-12">
-            <!--<ul class="">
-                <li><a href="#">Terms</a></li>
-                <li><a href="#">Privacy</a></li>
-                <li><a href="#">FAQ</a></li>
-            </ul>-->
-          </div>
-          <div class="col-md-12 push-top">
-            &copy; 2016-2017 Scrum Chapter Bandung Community 
+          
+        </div>
+        <div class="col-sm-4 text-right">
+          <h4>Connect with Us</h4>
+          <div>
+            <a href="https://www.twitter.com/ScrumDayBandung" target="_blank" class="btn btn-social-icon btn-twitter" role="button"><i class="fa fa-twitter fa-lg"></i></a>
+            <a href="https://www.facebook.com/ScrumDayBandung" target="_blank" class="btn btn-social-icon btn-facebook" role="button"><i class="fa fa-facebook fa-lg"></i></a>
+            <a href="https://www.instagram.com/scrumdaybandung/" target="_blank" class="btn btn-social-icon btn-instagram" role="button"><i class="fa fa-instagram fa-lg"></i></a>
+            <a href="https://www.youtube.com/channel/UCRt916JY7GHN-b2b5GPa3Fw" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-youtube-play fa-lg"></i></a>
           </div>
         </div>
       </div>
+      <div class="copyright">© 2016-2017 Scrum Chapter Bandung Community</div>
     </footer>
-
     </body>
 
     <script src="/js/app.js" type="text/javascript"></script>
