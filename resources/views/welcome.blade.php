@@ -45,6 +45,9 @@
                 <p>Igniting change in software development ecosystem, inspiring future leaders</p>
 
                 <h3>Target Audience</h3>
+                <p>
+                This event is mainly targetted for leaders and managers but not limited to:
+                </p>
                 <ul>
                     <li>Senior Leaders (CxO)</li>
                     <li>Managers</li>

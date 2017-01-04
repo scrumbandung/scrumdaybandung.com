@@ -23,6 +23,10 @@ Route::get('/about/team', function () {
     return view('team');
 });
 
+Route::get('/resources', function(){
+	return view('resources');
+});
+
 Route::get('/', function(){
 	return view('welcome');
 });
