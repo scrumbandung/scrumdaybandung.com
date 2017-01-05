@@ -16,7 +16,7 @@
 			</p>
 
 			<h3>Scrum Guide</h3>
-			<p>There are many different interpretations of Scrum but we only follow the official definition of Scrum written by the Scrum founders. To prevent any confusion during the terms used during the conference, please read Scrum Guide first. Scrum Guide can be downloaded freely from Scrum Guide (<a href="http://www.scrumguides.org">http://www.scrumguides.org</a>).</p>
+			<p>There are many different interpretations of Scrum but we only follow the official definition of Scrum written by the Scrum founders. To prevent any confusion about the terms used during the conference, please read Scrum Guide prior to attending the conference. Scrum Guide can be downloaded freely from Scrum Guide (<a href="http://www.scrumguides.org">http://www.scrumguides.org</a>).</p>
 
 			<h3>Articles</h3>
 			<ul>
