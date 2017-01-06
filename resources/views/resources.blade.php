@@ -21,6 +21,8 @@
 			<h3>Articles</h3>
 			<ul>
 				<li><a href="https://web.facebook.com/notes/scrum-day-bandung/memimpikan-ekosistem-software-development-yang-ideal-di-bandung/1857242881226484">Memimpikan Ekosistem Software Development yang Ideal di Bandung</a></li>
+				<li><a href="https://www.linkedin.com/pulse/membangun-profesionalisme-dalam-industri-software-akhirudin-fahmi">Membangun Profesionalisme Dalam Industri Software Development</a></li>
+				<li><a href="https://web.facebook.com/notes/joshua-partogi/membawa-profesionalisme-ke-industri-software-development-di-indonesia/991004054337202">Membawa profesionalisme ke industri software development di Indonesia</a></li>
 			</ul>
 
 			<h3>Blogs</h3>

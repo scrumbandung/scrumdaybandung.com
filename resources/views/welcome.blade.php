@@ -22,7 +22,7 @@
                                     <p>IDR 700,000,- until 28 February 2017</p>
                                 </div>
                                 <div class="col-md-4">
-                                    <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button" target="_blank">Purchase Ticket Now &raquo;</a>
+                                    <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button" target="_blank"><span class="fa fa-ticket"></span>&nbsp;Purchase Ticket Now &raquo;</a>
                                 </div>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                 <p>We are looking for like minded companies and individuals who would like to sponsor our mission to bring agility and professionalism into software development ecosystem in Indonesia.
                 </p>
 
-                <a class="btn btn-primary btn-social btn-lg" href="/Proposal_Sponsor_en.pdf" role="button"><span class="fa fa-handshake-o"></span> Support Our Mission Financially &raquo;</a>
+                <a class="btn btn-primary btn-social" href="/Proposal_Sponsor_en.pdf" role="button"><span class="fa fa-money"></span> Support Our Mission Financially &raquo;</a>
             </div>        
             <div class="col-md-12">
                 <div class="row">
