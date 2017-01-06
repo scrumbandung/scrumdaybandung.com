@@ -8,8 +8,7 @@
         <meta name="google-site-verification" content="YxougGVxw7Ijf6vnhM68HlUD7nX3pNH1ryw3y-RbG9I" />
         <title>Scrum Day Bandung 2017 - @yield('title')</title>
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+        <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png">
         <link href="/css/app.css" rel="stylesheet" />
        
     </head>
