@@ -15,8 +15,8 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
+        'domain' => 'scrum.co.id',
+        'secret' => 'key-6e835f7d37e35f7ff6dc8fd5689d304e',
     ],
 
     'ses' => [
