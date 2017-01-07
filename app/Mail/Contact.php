@@ -31,6 +31,8 @@ class Contact extends Mailable
     {
         return $this->from('Filipustian@gmail.com')
                     ->cc('Filipustian@gmail.com')
+                    ->cc('scrumdaybandung@gmail.com')
+                    ->replyto('scrumdaybandung@gmail.com')
                     ->view('emails.contact')
                     ->subject($this->contact['subject'])
                     ->with([

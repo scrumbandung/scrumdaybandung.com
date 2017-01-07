@@ -25,17 +25,7 @@ class Controller extends BaseController
         ]);
 
         $req = $request->all();
-      	/*
-        Mail::send('emails.contact', $req, function ($m) use($req){
-            $m->from('Filipustian@gmail.com', 'Filipus Septian');
-            $m->to($req['email'], $req['fullname']);
-            $m->to('scrumdaybandung@gmail.com','Scrum Day Bandung');
-            $m->subject($req['subject']);
-            
-            $m->cc('Filipustian@gmail.com', 'Filipus Septian');
-            $m->replyTo('scrumdaybandung@gmail.com','Scrum Day Bandung');
-        });
-*/
+      	
         Mail::to($req['email'], $req['fullname'])->send(new Contact($req));
 
     	return redirect('/contact/en')->with('status', trans('contact.thanks.message'));

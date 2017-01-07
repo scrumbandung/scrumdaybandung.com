@@ -46,9 +46,9 @@
 	            <fieldset class="form-group">
                     <label for="delivery_method">@lang('contact.subject') (*)</label>
                     <select class="form-control" name="subject">
-                    	<option value="registration">@lang('contact.reg.enquiries')</option>
-                        <option value="sponsor">@lang('contact.req.sponsor')</option>
-                        <option value="media">@lang('contact.req.media')</option>
+                    	<option value="@lang('contact.reg.enquiries')">@lang('contact.reg.enquiries')</option>
+                        <option value="@lang('contact.req.sponsor')">@lang('contact.req.sponsor')</option>
+                        <option value="@lang('contact.req.media')">@lang('contact.req.media')</option>
                     </select>
                 </fieldset>
 	            <fieldset class="form-group">

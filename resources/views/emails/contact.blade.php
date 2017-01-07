@@ -34,4 +34,10 @@
 
 </div>
 
+<p>
+Best Regards, <br/>
+Filipus Septian <br/>
+Product Owner Scrum Day Bandung
+</p>
+
 </body>
