@@ -58,6 +58,7 @@ This event is an exclusive event for managers and business leaders. This event w
                             <h3 class="panel-title text-center">Scrum Day Bandung 2017</h3>
                         </div>
                         <div class="panel-body">
+                            <h4>Grand Royal Panghegar Hotel Bandung</h4>
                             <p><b>February, 28<sup>th</sup> 2017</b> at 08:30 AM - 05:45 PM</p>
                             <p>
                                 <em>VALUE</em> is what we're striving to deliver to you. We have designed this conference not only so that you can feel inspired and empowered to make a change at your workplaces but also can exchange experience with other Scrum practitioners and interact with experienced Scrum coaches from Indonesia.

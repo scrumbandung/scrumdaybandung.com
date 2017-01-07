@@ -56,15 +56,15 @@
                 </ul>
                 
                 <h3>Date &amp; Time</h3>
-                <p>February, 28<sup>th</sup> 2017 at 08:30 AM - 05:45 PM WIB</p>
+                <p>Tuesday, February, 28<sup>th</sup> 2017 at 08:30 AM - 05:45 PM WIB</p>
 
                 <h3>Place</h3>
                 <p>
-                    Hotel Novotel Bandung <br>
-                    Jl. Cihampelas No.23, Tamansari, Bandung Wetan, Bandung City, West Java 40171 
+                    Grand Royal Panghegar Hotel Bandung <br/>
+                    Jl. Merdeka No.2, Braga, Sumur Bandung, Kota Bandung, Jawa Barat 40111
                 </p>
                 <p>                    
-                    <a href="https://www.google.co.id/maps/place/Hotel+Novotel+Bandung/@-6.9048974,107.6019924,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68e646d68f1315:0x87181e433bf2ec24!8m2!3d-6.9048974!4d107.6041865" target="_blank" class="btn btn-social btn-primary">
+                    <a href="https://www.google.co.id/maps/place/Grand+Royal+Panghegar+Hotel+Bandung/@-6.9155317,107.6081916,17z/data=!3m1!4b1!4m5!3m4!1s0x2e68e6306bc7f61b:0xd9e6868069cc79b7!8m2!3d-6.915537!4d107.6103803" target="_blank" class="btn btn-social btn-primary">
                         <span class="fa fa-map-marker"></span> View on Google Map
                     </a>
                 </p>
@@ -87,8 +87,6 @@
     <div id="schedule" class="container-fluid text-center">
         <div class="row">
             <div class="col-xs-12">
-                <h2>Schedule &amp; Speakers</h2>
-
                 <a id="sched-embed" href="http://scrumdaybandung2017.sched.org/">View the Scrum Day Bandung 2017 schedule & directory.</a><script type="text/javascript" src="//scrumdaybandung2017.sched.org/js/embed.js"></script>
             </div>            
         </div>
