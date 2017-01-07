@@ -27,6 +27,14 @@ Route::get('/resources', function(){
 	return view('resources');
 });
 
+Route::get('/contact/{locale}', function ($locale) {
+	App::setLocale($locale);
+
+	return view('contact');
+});
+
+Route::post('/contact', "Controller@contact")->name('contact');;
+
 Route::get('/', function(){
 	return view('welcome');
 });

@@ -35,6 +35,7 @@
                         <li><a href="/about/event">The Event</a></li>
                     </ul>
                 </li> 
+                <li><a href="/contact/en">Contact Us</a></li>
                 <li><a href="/resources">Resources</a></li>
             </ul>
         </div>
