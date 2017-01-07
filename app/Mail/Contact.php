@@ -29,7 +29,11 @@ class Contact extends Mailable
      */
     public function build()
     {
-        return $this->view('emails.contact')->with([
+        return $this->from('Filipustian@gmail.com')
+                    ->cc('Filipustian@gmail.com')
+                    ->view('emails.contact')
+                    ->subject($this->contact['subject'])
+                    ->with([
                         'fullname' => $this->contact['fullname'],
                         'content' => $this->contact['message'],
                     ]);
