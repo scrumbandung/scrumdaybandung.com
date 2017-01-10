@@ -1381,7 +1381,7 @@ html {
 body {
   font-family: "Open Sans", Helvetica, "PT Sans Narrow", "Raleway", sans-serif;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.8;
   color: #0b3c5d;
   background-color: #f5f8fa;
 }
@@ -1430,7 +1430,7 @@ img {
 
 .img-thumbnail {
   padding: 4px;
-  line-height: 1.5;
+  line-height: 1.8;
   background-color: #f5f8fa;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -1446,8 +1446,8 @@ img {
 }
 
 hr {
-  margin-top: 21px;
-  margin-bottom: 21px;
+  margin-top: 25px;
+  margin-bottom: 25px;
   border: 0;
   border-top: 1px solid #eeeeee;
 }
@@ -1506,8 +1506,8 @@ h6 .small,
 h1, .h1,
 h2, .h2,
 h3, .h3 {
-  margin-top: 21px;
-  margin-bottom: 10.5px;
+  margin-top: 25px;
+  margin-bottom: 12.5px;
 }
 
 h1 small,
@@ -1525,8 +1525,8 @@ h3 .small, .h3 small,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  margin-top: 10.5px;
-  margin-bottom: 10.5px;
+  margin-top: 12.5px;
+  margin-bottom: 12.5px;
 }
 
 h4 small,
@@ -1566,11 +1566,11 @@ h6, .h6 {
 }
 
 p {
-  margin: 0 0 10.5px;
+  margin: 0 0 12.5px;
 }
 
 .lead {
-  margin-bottom: 21px;
+  margin-bottom: 25px;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.4;
@@ -1724,15 +1724,15 @@ a.bg-danger:focus {
 }
 
 .page-header {
-  padding-bottom: 9.5px;
-  margin: 42px 0 21px;
+  padding-bottom: 11.5px;
+  margin: 50px 0 25px;
   border-bottom: 1px solid #eeeeee;
 }
 
 ul,
 ol {
   margin-top: 0;
-  margin-bottom: 10.5px;
+  margin-bottom: 12.5px;
 }
 
 ul ul,
@@ -1761,12 +1761,12 @@ ol ol {
 
 dl {
   margin-top: 0;
-  margin-bottom: 21px;
+  margin-bottom: 25px;
 }
 
 dt,
 dd {
-  line-height: 1.5;
+  line-height: 1.8;
 }
 
 dt {
@@ -1812,8 +1812,8 @@ abbr[data-original-title] {
 }
 
 blockquote {
-  padding: 10.5px 21px;
-  margin: 0 0 21px;
+  padding: 12.5px 25px;
+  margin: 0 0 25px;
   font-size: 17.5px;
   border-left: 5px solid #eeeeee;
 }
@@ -1829,7 +1829,7 @@ blockquote small,
 blockquote .small {
   display: block;
   font-size: 80%;
-  line-height: 1.5;
+  line-height: 1.8;
   color: #777777;
 }
 
@@ -1867,9 +1867,9 @@ blockquote.pull-right .small:after {
 }
 
 address {
-  margin-bottom: 21px;
+  margin-bottom: 25px;
   font-style: normal;
-  line-height: 1.5;
+  line-height: 1.8;
 }
 
 code,
@@ -1905,10 +1905,10 @@ kbd kbd {
 
 pre {
   display: block;
-  padding: 10px;
-  margin: 0 0 10.5px;
+  padding: 12px;
+  margin: 0 0 12.5px;
   font-size: 13px;
-  line-height: 1.5;
+  line-height: 1.8;
   word-break: break-all;
   word-wrap: break-word;
   color: #333333;
@@ -2705,7 +2705,7 @@ th {
 .table {
   width: 100%;
   max-width: 100%;
-  margin-bottom: 21px;
+  margin-bottom: 25px;
 }
 
 .table > thead > tr > th,
@@ -2715,7 +2715,7 @@ th {
 .table > tfoot > tr > th,
 .table > tfoot > tr > td {
   padding: 8px;
-  line-height: 1.5;
+  line-height: 1.8;
   vertical-align: top;
   border-top: 1px solid #ddd;
 }
@@ -2913,7 +2913,7 @@ table th[class*="col-"] {
 @media screen and (max-width: 767px) {
   .table-responsive {
     width: 100%;
-    margin-bottom: 15.75px;
+    margin-bottom: 18.75px;
     overflow-y: hidden;
     -ms-overflow-style: -ms-autohiding-scrollbar;
     border: 1px solid #ddd;
@@ -2967,7 +2967,7 @@ legend {
   display: block;
   width: 100%;
   padding: 0;
-  margin-bottom: 21px;
+  margin-bottom: 25px;
   font-size: 21px;
   line-height: inherit;
   color: #333333;
@@ -3018,17 +3018,17 @@ output {
   display: block;
   padding-top: 7px;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.8;
   color: #555555;
 }
 
 .form-control {
   display: block;
   width: 100%;
-  height: 35px;
+  height: 39px;
   padding: 6px 12px;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.8;
   color: #555555;
   background-color: #fff;
   background-image: none;
@@ -3087,7 +3087,7 @@ input[type="search"] {
   input[type="time"].form-control,
   input[type="datetime-local"].form-control,
   input[type="month"].form-control {
-    line-height: 35px;
+    line-height: 39px;
   }
   input[type="date"].input-sm, .input-group-sm > input[type="date"].form-control,
   .input-group-sm > input[type="date"].input-group-addon,
@@ -3153,7 +3153,7 @@ input[type="search"] {
 
 .radio label,
 .checkbox label {
-  min-height: 21px;
+  min-height: 25px;
   padding-left: 20px;
   margin-bottom: 0;
   font-weight: normal;
@@ -3220,7 +3220,7 @@ fieldset[disabled]
   padding-top: 7px;
   padding-bottom: 7px;
   margin-bottom: 0;
-  min-height: 35px;
+  min-height: 39px;
 }
 
 .form-control-static.input-lg, .input-group-lg > .form-control-static.form-control,
@@ -3279,7 +3279,7 @@ select[multiple].input-sm,
 
 .form-group-sm .form-control-static {
   height: 30px;
-  min-height: 33px;
+  min-height: 37px;
   padding: 6px 10px;
   font-size: 12px;
   line-height: 1.5;
@@ -3332,7 +3332,7 @@ select[multiple].input-lg,
 
 .form-group-lg .form-control-static {
   height: 46px;
-  min-height: 39px;
+  min-height: 43px;
   padding: 11px 16px;
   font-size: 18px;
   line-height: 1.3333333;
@@ -3343,7 +3343,7 @@ select[multiple].input-lg,
 }
 
 .has-feedback .form-control {
-  padding-right: 43.75px;
+  padding-right: 48.75px;
 }
 
 .form-control-feedback {
@@ -3352,9 +3352,9 @@ select[multiple].input-lg,
   right: 0;
   z-index: 2;
   display: block;
-  width: 35px;
-  height: 35px;
-  line-height: 35px;
+  width: 39px;
+  height: 39px;
+  line-height: 39px;
   text-align: center;
   pointer-events: none;
 }
@@ -3479,7 +3479,7 @@ select[multiple].input-lg,
 }
 
 .has-feedback label ~ .form-control-feedback {
-  top: 26px;
+  top: 30px;
 }
 
 .has-feedback label.sr-only ~ .form-control-feedback {
@@ -3555,7 +3555,7 @@ select[multiple].input-lg,
 
 .form-horizontal .radio,
 .form-horizontal .checkbox {
-  min-height: 28px;
+  min-height: 32px;
 }
 
 .form-horizontal .form-group {
@@ -3611,7 +3611,7 @@ select[multiple].input-lg,
   white-space: nowrap;
   padding: 6px 12px;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.8;
   border-radius: 4px;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -4112,7 +4112,7 @@ tbody.collapse.in {
 
 .dropdown-menu .divider {
   height: 1px;
-  margin: 9.5px 0;
+  margin: 11.5px 0;
   overflow: hidden;
   background-color: #e5e5e5;
 }
@@ -4122,7 +4122,7 @@ tbody.collapse.in {
   padding: 3px 20px;
   clear: both;
   font-weight: normal;
-  line-height: 1.5;
+  line-height: 1.8;
   color: #333333;
   white-space: nowrap;
 }
@@ -4174,7 +4174,7 @@ tbody.collapse.in {
   display: block;
   padding: 3px 20px;
   font-size: 12px;
-  line-height: 1.5;
+  line-height: 1.8;
   color: #777777;
   white-space: nowrap;
 }
@@ -4624,7 +4624,7 @@ tbody.collapse.in {
 
 .nav .nav-divider {
   height: 1px;
-  margin: 9.5px 0;
+  margin: 11.5px 0;
   overflow: hidden;
   background-color: #e5e5e5;
 }
@@ -4644,7 +4644,7 @@ tbody.collapse.in {
 
 .nav-tabs > li > a {
   margin-right: 2px;
-  line-height: 1.5;
+  line-height: 1.8;
   border: 1px solid transparent;
   border-radius: 4px 4px 0 0;
 }
@@ -4907,9 +4907,9 @@ tbody.collapse.in {
 
 .navbar-brand {
   float: left;
-  padding: 14.5px 15px;
+  padding: 12.5px 15px;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 25px;
   height: 50px;
 }
 
@@ -4963,13 +4963,13 @@ tbody.collapse.in {
 }
 
 .navbar-nav {
-  margin: 7.25px -15px;
+  margin: 6.25px -15px;
 }
 
 .navbar-nav > li > a {
   padding-top: 10px;
   padding-bottom: 10px;
-  line-height: 21px;
+  line-height: 25px;
 }
 
 @media (max-width: 767px) {
@@ -4987,7 +4987,7 @@ tbody.collapse.in {
     padding: 5px 15px 5px 25px;
   }
   .navbar-nav .open .dropdown-menu > li > a {
-    line-height: 21px;
+    line-height: 25px;
   }
   .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
@@ -5003,8 +5003,8 @@ tbody.collapse.in {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 14.5px;
-    padding-bottom: 14.5px;
+    padding-top: 12.5px;
+    padding-bottom: 12.5px;
   }
 }
 
@@ -5015,8 +5015,8 @@ tbody.collapse.in {
   border-top: 1px solid transparent;
   border-bottom: 1px solid transparent;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
-  margin-top: 7.5px;
-  margin-bottom: 7.5px;
+  margin-top: 5.5px;
+  margin-bottom: 5.5px;
 }
 
 @media (min-width: 768px) {
@@ -5106,8 +5106,8 @@ tbody.collapse.in {
 }
 
 .navbar-btn {
-  margin-top: 7.5px;
-  margin-bottom: 7.5px;
+  margin-top: 5.5px;
+  margin-bottom: 5.5px;
 }
 
 .navbar-btn.btn-sm, .btn-group-sm > .navbar-btn.btn {
@@ -5121,8 +5121,8 @@ tbody.collapse.in {
 }
 
 .navbar-text {
-  margin-top: 14.5px;
-  margin-bottom: 14.5px;
+  margin-top: 12.5px;
+  margin-bottom: 12.5px;
 }
 
 @media (min-width: 768px) {
@@ -5352,7 +5352,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 
 .breadcrumb {
   padding: 8px 15px;
-  margin-bottom: 21px;
+  margin-bottom: 25px;
   list-style: none;
   background-color: #f5f5f5;
   border-radius: 4px;
@@ -5375,7 +5375,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination {
   display: inline-block;
   padding-left: 0;
-  margin: 21px 0;
+  margin: 25px 0;
   border-radius: 4px;
 }
 
@@ -5388,7 +5388,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   position: relative;
   float: left;
   padding: 6px 12px;
-  line-height: 1.5;
+  line-height: 1.8;
   text-decoration: none;
   color: #3097D1;
   background-color: #fff;
@@ -5481,7 +5481,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 
 .pager {
   padding-left: 0;
-  margin: 21px 0;
+  margin: 25px 0;
   list-style: none;
   text-align: center;
 }
@@ -5716,8 +5716,8 @@ a.badge:hover, a.badge:focus {
 .thumbnail {
   display: block;
   padding: 4px;
-  margin-bottom: 21px;
-  line-height: 1.5;
+  margin-bottom: 25px;
+  line-height: 1.8;
   background-color: #f5f8fa;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -5747,7 +5747,7 @@ a.thumbnail.active {
 
 .alert {
   padding: 15px;
-  margin-bottom: 21px;
+  margin-bottom: 25px;
   border: 1px solid transparent;
   border-radius: 4px;
 }
@@ -5859,8 +5859,8 @@ a.thumbnail.active {
 
 .progress {
   overflow: hidden;
-  height: 21px;
-  margin-bottom: 21px;
+  height: 25px;
+  margin-bottom: 25px;
   background-color: #f5f5f5;
   border-radius: 4px;
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
@@ -5871,7 +5871,7 @@ a.thumbnail.active {
   width: 0%;
   height: 100%;
   font-size: 12px;
-  line-height: 21px;
+  line-height: 25px;
   color: #fff;
   text-align: center;
   background-color: #3097D1;
@@ -6208,7 +6208,7 @@ button.list-group-item-danger.active:focus {
 }
 
 .panel {
-  margin-bottom: 21px;
+  margin-bottom: 25px;
   background-color: #fff;
   border: 1px solid transparent;
   border-radius: 4px;
@@ -6460,7 +6460,7 @@ button.list-group-item-danger.active:focus {
 }
 
 .panel-group {
-  margin-bottom: 21px;
+  margin-bottom: 25px;
 }
 
 .panel-group .panel {
@@ -6802,7 +6802,7 @@ button.close {
 
 .modal-title {
   margin: 0;
-  line-height: 1.5;
+  line-height: 1.8;
 }
 
 .modal-body {
@@ -6874,7 +6874,7 @@ button.close {
   font-weight: normal;
   letter-spacing: normal;
   line-break: auto;
-  line-height: 1.5;
+  line-height: 1.8;
   text-align: left;
   text-align: start;
   text-decoration: none;
@@ -7008,7 +7008,7 @@ button.close {
   font-weight: normal;
   letter-spacing: normal;
   line-break: auto;
-  line-height: 1.5;
+  line-height: 1.8;
   text-align: left;
   text-align: start;
   text-decoration: none;

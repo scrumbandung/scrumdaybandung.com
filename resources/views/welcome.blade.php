@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-md-6">
                 <h3>What is Scrum Day Bandung</h3>
-                <p>In brief, Scrum Day Bandung 2017 is an intense 1-day business agility &amp; modern management conference with Scrum as its framework. But we think Scrum Day Bandung 2017 is more than just a conference. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. Scrum Day Bandung is one of that event in 2017 you do not want to miss.
+                <p>In brief, Scrum Day Bandung 2017 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference. But we think Scrum Day Bandung 2017 is more than just a conference. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. Scrum Day Bandung is one of that event in 2017 you do not want to miss.
                 </p>
                 <h3>Theme</h3>
                 <p>Professionalism in software development</p>
@@ -120,8 +120,8 @@
                 <div class="row">
                     <h3>Silver Sponsors</h3>
 
-                    <div class="col-xs-4 well well-sm">
-                        <span class="text-muted">Spot still available for <b>Silver</b> sponsor</span>
+                    <div class="col-xs-4">
+                        <a href="http://www.intens.co.id/"><img src="/img/sponsors/intens.jpg" class="img-responsive" target="_blank" /></a>
                     </div>
                     <div class="col-xs-4 well well-sm">
                         <span class="text-muted">Spot still available for <b>Silver</b> sponsor</span>
@@ -158,9 +158,35 @@
         <div class="row">
             <div class="col-md-12">
                 <h2>Media Partners</h2>
+                <p>
+                    We are looking for like minded medias who would like to help us spread the message abour our mission to bring agility and professionalism into software development ecosystem in Indonesia. Let's join the movement.
+                </p>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfy4JPTYPx6VhC249I8px2rTYVEDwWrXJKXnJFPWABLjwUG8w/viewform" target="_blank" class="btn btn-social btn-primary">
                     <span class="fa fa-camera"></span> Become Our Media Partner
                 </a>
+            </div>
+            <br/>
+            <div class="col-md-12 push-top">
+                <div class="row">
+                    <div class="col-xs-2">
+                        <a href="https://www.codepolitan.com/"><img src="/img/sponsors/codepolitan.png" class="img-responsive" target="_blank" /></a>
+                    </div>
+                    <div class="col-xs-2">
+                        <a href="http://indonesianetizen.com/"><img src="/img/sponsors/indonesia-netizen.png" class="img-responsive" target="_blank" /></a>
+                    </div>
+                    <div class="col-xs-2">
+                        <a href="http://kreasitv.com"><img src="/img/sponsors/kreasitv.png" class="img-responsive" target="_blank" /></a>
+                    </div>
+                    <div class="col-xs-2 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Media partner</b></span>
+                    </div>
+                    <div class="col-xs-2 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Media partner</b></span>
+                    </div>
+                    <div class="col-xs-2 well well-sm">
+                        <span class="text-muted">Spot still available for <b>Media partner</b></span>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
