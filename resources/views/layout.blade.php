@@ -50,8 +50,8 @@
           <div class="col-sm-5 text-right">
             <h4>Contact Us</h4>
           
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=scrumdaybandung@gmail.com" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-envelope fa-lg"></i></a>
-            scrumdaybandung@gmail.com
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=scrumdaybandung[at]gmail.com" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-envelope fa-lg"></i></a>
+            scrumdaybandung [at] gmail.com
           </div>
           
         </div>
