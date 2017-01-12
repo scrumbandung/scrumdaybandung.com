@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-md-6">
                 <h3>What is Scrum Day Bandung</h3>
-                <p>In brief, Scrum Day Bandung 2017 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference. But we think Scrum Day Bandung 2017 is more than just a conference. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. Scrum Day Bandung is one of that event in 2017 you do not want to miss.
+                <p>In brief, Scrum Day Bandung 2017 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference. But we think Scrum Day Bandung 2017 is more than just a conference. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. Scrum Day Bandung is one of that event in 2017 you do not want to miss. [&nbsp;<a href="/about/event">Read More <span class="fa fa-arrow-right"></span></a></a>&nbsp;]
                 </p>
                 <h3>Theme</h3>
                 <p>Professionalism in software development</p>
