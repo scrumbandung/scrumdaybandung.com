@@ -12,11 +12,17 @@
 			</p>
 
 			<h2>Readings</h2>
-			<p>Scrum Day Bandung is designed for Scrum practitioners who are using Scrum daily so participants are expected to have used Scrum before. Scrum Day Bandung is not a conference about Scrum basics or Scrum mechanics, this is a conference about business agility &amp; modern management using Scrum framework. Please read the followings prior to attending the conference.
+			<p>Scrum Day Bandung is designed for Scrum practitioners who are using Scrum daily so participants are expected to have used Scrum before. Scrum Day Bandung is not a conference about Scrum basics or Scrum mechanics, this is a conference about business agility &amp; modern management using Scrum framework. Please read the followings prior to attending the conference so that you can get the most out of this conference.
 			</p>
 
 			<h3>Scrum Guide</h3>
-			<p>There are many different interpretations of Scrum in the market but we only follow the official definition of Scrum written by the Scrum founders themselves. To prevent any confusion about the terms used during the conference, please read Scrum Guide prior to attending the conference. Scrum Guide can be downloaded freely from Scrum Guide's Website <a href="http://www.scrumguides.org">http://www.scrumguides.org</a>&nbsp;<span class="fa fa-arrow-right">.</p>
+			<p>There are many different interpretations of Scrum in the market but we only follow the official definition of Scrum written by the Scrum founders themselves. To prevent any confusion about the terms used during the conference, please read Scrum Guide prior to attending the conference. Scrum Guide can be downloaded freely from Scrum Guide's Website <a href="http://www.scrumguides.org">http://www.scrumguides.org</a>&nbsp;<span class="fa fa-arrow-right">.
+			</p>
+
+			<h3>Agility Guide</h3>
+			<p>Many people see Agile as a software development methodology. We see Agile as business capability to improve outcomes, reduce risk and optimize investment. Agility Guide can be downloaded freely from  <a href="http://www.ebmgt.org/agility-guide">its website</a>&nbsp;<span class="fa fa-arrow-right">.
+
+			</p>
 
 			<h3>Articles</h3>
 			<ul>
@@ -39,6 +45,12 @@
 			<ul>
 				<li></li>
 			</ul> -->
+
+			<h3>Other Scrum Day Events</h3>
+			<ul>
+				<li><a href="http://scrumdayeurope.com/">Scrum Day Europe</a></li>
+				<li><a href="http://scrumdaylondon.com/">Scrum Day London</a></li>
+			</ul>
 
 			<h2>Downloads</h2>
 			<h3>Invitation Letter</h3>
