@@ -31,6 +31,7 @@
 				<li><a href="https://web.facebook.com/notes/joshua-partogi/membawa-profesionalisme-ke-industri-software-development-di-indonesia/991004054337202">Membawa profesionalisme ke industri software development di Indonesia</a></li>
 				<li><a href="https://www.linkedin.com/pulse/kuli-bangunan-aja-bisa-agile-sofware-developer-akhirudin-fahmi">Kuli Bangunan aja bisa Agile!! Sofware Developer???</a></li>
 				<li><a href="https://www.linkedin.com/pulse/10-reasons-why-being-scrum-master-sucks-rob-lambert">10 Reasons Why Being A Scrum Master Sucks</a></li>
+				<li><a href="http://www.cio.com/article/3156565/developer/should-software-developers-have-a-code-of-ethics.html">Should software developers have a code of ethics?</a></li>
 			</ul>
 
 			<h3>Blogs</h3>
