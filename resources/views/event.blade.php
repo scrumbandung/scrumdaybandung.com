@@ -16,13 +16,13 @@
             </p>
 
                 <p>
-Scrum Day Bandung 2017 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference. But we think Scrum Day Bandung 2017 is more than just a conference. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. 
+Scrum Day Bandung 2017 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference specifically for corporate leaders and managers. But we think Scrum Day Bandung 2017 is more than just a conference. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. 
 </p>
 <p>
 Scrum Day Bandung is where great minds come together. Scrum Day Bandung is a perfect place to be for leaders, managers and change agents who have concerns about business agility and profesionalism in software development ecosystem to meet, exchange experiences and support each other. Unlike other conferences in Indonesia where participants only leave the event with information or knowledge, at Scrum Day Bandung participants will feel inspired and empowered to make changes in their respective companies knowing that others will walk alongside them. 
                 </p>
                                 <p>
-This event is an exclusive event for managers and business leaders. It will be the first business agility &amp; modern management conference with Scrum framework in Indonesia. We believe Scrum Day Bandung will set a new standard in Indonesia's software development ecosystem where professionalism is not an option. If you share our mission for a software development ecosystem that emphasizes agility and professionalism, join the movement and attend this 1-day annual event. We would like to meet and interact with you at the event. Together we can make changes for the better future.                 
+This event is an exclusive event for corporate leaders and managers. It will be the first business agility &amp; modern management conference with Scrum framework in Indonesia. We believe Scrum Day Bandung will set a new standard in Indonesia's software development ecosystem where professionalism is not an option. If you share our mission for a software development ecosystem that emphasizes agility and professionalism, join the movement and attend this 1-day annual event. We would like to meet and interact with you at the event. Together we can make changes for the better future.                 
                 </p>
         </div>
         <div class="col-md-12">
@@ -41,7 +41,7 @@ This event is an exclusive event for managers and business leaders. It will be t
 
             <h3>Managers</h3>
             <p>
-            Managers role is <em>very important</em> in Agile transformation. Any managers who are not Scrum Masters and not Scrum Product Owners are invited to join us.
+            Managers role is <em>very important</em> and can not be ignored in Agile transformation. Any managers who are not Scrum Masters and not Scrum Product Owners are invited to join us.
             </p>
         </div>
         <div class="col-md-12">
@@ -132,7 +132,7 @@ More specifically, you need to attend this event because we see management role 
         <div class="col-md-12">
             <h2>Merchandises</h2>
             <p>
-            Not only we work hard to make sure you get an awesome experience during the conference and an inspiration to make a change at your workplaces, we will also give you these merchandises as a proof that you were there to support our mission to create an ideal software development ecosystem in Bandung and in Indonesia. 
+            Not only we will work hard to make sure you get an awesome experience during the conference and an inspiration to make a change at your workplaces, we will also give you these merchandises as a proof that you were there to support our mission to create an ideal software development ecosystem in Bandung and in Indonesia. 
             </p>
             <div class="row push-top">
                 <div class="col-xs-3 text-center">

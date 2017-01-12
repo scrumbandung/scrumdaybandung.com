@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-md-6">
                 <h3>What is Scrum Day Bandung</h3>
-                <p>In brief, Scrum Day Bandung 2017 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference. But we think Scrum Day Bandung 2017 is more than just a conference. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. Scrum Day Bandung is one of that event in 2017 you do not want to miss. [&nbsp;<a href="/about/event">Read More <span class="fa fa-arrow-right"></span></a></a>&nbsp;]
+                <p>In brief, Scrum Day Bandung 2017 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference specifically for corporate leaders and managers. But we think Scrum Day Bandung 2017 is <em>more than just a conference</em>. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We also think agility should be extended beyond IT because agility is a business requirement <em>NOT a software development methodology</em>. Scrum Day Bandung is one of that event in 2017 you do not want to miss. [&nbsp;<a href="/about/event">Read More <span class="fa fa-arrow-right"></span></a></a>&nbsp;]
                 </p>
                 <h3>Theme</h3>
                 <p>Professionalism in software development</p>
@@ -46,7 +46,7 @@
 
                 <h3>Target Audience</h3>
                 <p>
-                This event is mainly targetted for leaders and managers but not limited to:
+                This event is mainly targetted for corporate leaders and managers but not limited to:
                 </p>
                 <ul>
                     <li>Senior Leaders (CxO)</li>
@@ -102,14 +102,14 @@
                 <p>We are looking for like minded companies and individuals who would like to sponsor our mission to bring agility and professionalism into software development ecosystem in Indonesia.
                 </p>
 
-                <a class="btn btn-primary btn-social" href="/Proposal_Sponsor_en.pdf" role="button"><span class="fa fa-money"></span> Support Our Mission Financially &raquo;</a>
+                <a class="btn btn-primary btn-social" href="/Proposal_Sponsor_en.pdf" role="button" target="_blank"><span class="fa fa-money"></span> Support Our Mission Financially &raquo;</a>
             </div>        
             <div class="col-md-12">
                 <div class="row">
                     <h3>Gold Sponsors</h3>
 
                     <div class="col-xs-6">
-                        <a href="http://www.scrum.org"><img src="/img/sponsors/scrum_org.png" class="img-responsive" target="_blank" /></a>
+                        <a href="http://www.scrum.org" target="_blank"><img src="/img/sponsors/scrum_org.png" class="img-responsive"/></a>
                     </div>
                     <div class="col-xs-6 well well-sm">
                         <span class="text-muted">Spot still available for <b>Gold</b> sponsors</span>
@@ -121,7 +121,7 @@
                     <h3>Silver Sponsors</h3>
 
                     <div class="col-xs-4">
-                        <a href="http://www.intens.co.id/"><img src="/img/sponsors/intens.jpg" class="img-responsive" target="_blank" /></a>
+                        <a href="http://www.intens.co.id/" target="_blank"><img src="/img/sponsors/intens.jpg" class="img-responsive" /></a>
                     </div>
                     <div class="col-xs-4 well well-sm">
                         <span class="text-muted">Spot still available for <b>Silver</b> sponsor</span>
@@ -169,13 +169,13 @@
             <div class="col-md-12 push-top">
                 <div class="row">
                     <div class="col-xs-2">
-                        <a href="https://www.codepolitan.com/"><img src="/img/sponsors/codepolitan.png" class="img-responsive" target="_blank" /></a>
+                        <a href="https://www.codepolitan.com/" target="_blank"><img src="/img/sponsors/codepolitan.png" class="img-responsive" /></a>
                     </div>
                     <div class="col-xs-2">
-                        <a href="http://indonesianetizen.com/"><img src="/img/sponsors/indonesia-netizen.png" class="img-responsive" target="_blank" /></a>
+                        <a href="http://indonesianetizen.com/" target="_blank"><img src="/img/sponsors/indonesia-netizen.png" class="img-responsive" /></a>
                     </div>
                     <div class="col-xs-2">
-                        <a href="http://kreasitv.com"><img src="/img/sponsors/kreasitv.png" class="img-responsive" target="_blank" /></a>
+                        <a href="http://kreasitv.com" target="_blank"><img src="/img/sponsors/kreasitv.png" class="img-responsive" /></a>
                     </div>
                     <div class="col-xs-2 well well-sm">
                         <span class="text-muted">Spot still available for <b>Media partner</b></span>
