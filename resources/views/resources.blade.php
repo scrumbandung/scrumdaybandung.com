@@ -30,6 +30,7 @@
 				<li><a href="https://www.linkedin.com/pulse/membangun-profesionalisme-dalam-industri-software-akhirudin-fahmi">Membangun Profesionalisme Dalam Industri Software Development</a></li>
 				<li><a href="https://web.facebook.com/notes/joshua-partogi/membawa-profesionalisme-ke-industri-software-development-di-indonesia/991004054337202">Membawa profesionalisme ke industri software development di Indonesia</a></li>
 				<li><a href="https://www.linkedin.com/pulse/kuli-bangunan-aja-bisa-agile-sofware-developer-akhirudin-fahmi">Kuli Bangunan aja bisa Agile!! Sofware Developer???</a></li>
+				<li><a href="https://medium.com/tahubulat/deadline-lagi-dffa1aa2489e">Deadline Lagi?</a></li>
 				<li><a href="https://www.linkedin.com/pulse/10-reasons-why-being-scrum-master-sucks-rob-lambert">10 Reasons Why Being A Scrum Master Sucks</a></li>
 				<li><a href="http://www.cio.com/article/3156565/developer/should-software-developers-have-a-code-of-ethics.html">Should software developers have a code of ethics?</a></li>
 			</ul>
@@ -37,6 +38,7 @@
 			<h3>Blogs</h3>
 			<ul>
 				<li><a href="http://blog.scrum.org/">Scrum.org Blog</a></li>
+				<li><a href="https://kenschwaber.wordpress.com/">Ken Schwaber's Blog</a></li>
 				<li><a href="http://www.scrumcrazy.com/All+Articles">Scrum Crazy</a></li>
 				<li><a href="https://guntherverheyen.com/tag/scrum/">Gunther Verheyen's Blog</a></li>
 				<li><a href="https://medium.com/modern-management">Blog Manajemen Modern</a></li>
