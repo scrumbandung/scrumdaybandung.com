@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('title', 'Welcome Home')
+@section('title', 'Welcome Home. You are invited.')
 
 @section('content')
 
@@ -163,6 +163,9 @@
                 </p>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfy4JPTYPx6VhC249I8px2rTYVEDwWrXJKXnJFPWABLjwUG8w/viewform" target="_blank" class="btn btn-social btn-primary">
                     <span class="fa fa-camera"></span> Become Our Media Partner
+                </a>
+                <a href="https://www.dropbox.com/s/r5w1mve55lwdflc/Press%20Release.pdf" target="_blank" class="btn btn-social btn-primary">
+                    <span class="fa fa-newspaper-o"></span> Press Release
                 </a>
             </div>
             <br/>
