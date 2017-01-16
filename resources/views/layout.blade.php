@@ -31,8 +31,8 @@
                 <li role="presentation" class="dropdown">
                     <a href="#"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/about/team">The Scrum Team</a></li>
                         <li><a href="/about/event">The Event</a></li>
+                        <li><a href="/about/team">The Scrum Team</a></li>             
                     </ul>
                 </li> 
                 <li><a href="/contact/en">Contact Us</a></li>
@@ -46,29 +46,45 @@
 
     <footer id="contact">
       <div class="container">
-        <div class="col-sm-8">
-          <div class="col-sm-5 text-right">
-            <h4>Contact Us</h4>
-          
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=scrumdaybandung[at]gmail.com" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-envelope fa-lg"></i></a>
-            scrumdaybandung [at] gmail.com
-          </div>
-          
+        <div class="col-sm-6">
+            <div class="row">
+              <div class="col-sm-12">
+                  <h4>About</h4>
+                  <ul>
+                      <li><a href="/about/event">The Event</a></li>
+                      <li><a href="/about/team">The Scrum Team</a></li>
+                  </ul>
+              </div>
+              <div class="col-sm-12">
+                  <h4>Contact Us</h4>
+                  <ul>
+                  <li>
+                  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=scrumdaybandung[at]gmail.com" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-envelope fa-lg"></i></a>&nbsp;<a href="/contact/en">Contact Form</a>
+                  </li>
+                  </ul>
+              </div>
+              <div class="col-sm-12">
+                  <h4>Connect with Us</h4>
+
+                  <a href="https://www.twitter.com/ScrumDayBandung" target="_blank" class="btn btn-social-icon btn-twitter" role="button"><i class="fa fa-twitter fa-lg"></i></a>
+                  <a href="https://www.instagram.com/scrumdaybandung/" target="_blank" class="btn btn-social-icon btn-instagram" role="button"><i class="fa fa-instagram fa-lg"></i></a>
+                  <a href="https://www.youtube.com/channel/UCRt916JY7GHN-b2b5GPa3Fw" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-youtube-play fa-lg"></i></a>
+                  <a href="https://www.facebook.com/ScrumDayBandung" target="_blank" class="btn btn-social-icon btn-facebook" role="button"><i class="fa fa-facebook fa-lg"></i></a>
+                  <div class="fb-like" data-href="https://www.facebook.com/ScrumDayBandung" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+              </div>
+            </div>
         </div>
-        <div class="col-sm-4 text-right">
-          <h4>Connect with Us</h4>
-          <div>
-            <a href="https://www.twitter.com/ScrumDayBandung" target="_blank" class="btn btn-social-icon btn-twitter" role="button"><i class="fa fa-twitter fa-lg"></i></a>
-            <a href="https://www.facebook.com/ScrumDayBandung" target="_blank" class="btn btn-social-icon btn-facebook" role="button"><i class="fa fa-facebook fa-lg"></i></a>
-            <a href="https://www.instagram.com/scrumdaybandung/" target="_blank" class="btn btn-social-icon btn-instagram" role="button"><i class="fa fa-instagram fa-lg"></i></a>
-            <a href="https://www.youtube.com/channel/UCRt916JY7GHN-b2b5GPa3Fw" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-youtube-play fa-lg"></i></a>
-          </div>
+        <div class="col-sm-6">
+            <h4 class="text-right">Latest Buzz</h4>
+            <a class="twitter-timeline" href="https://twitter.com/ScrumDayBandung" data-theme="dark" data-tweet-limit="1" data-chrome="nofooter noheader noborder transparent" data-conversation="none" data-cards="hidden"></a> 
         </div>
       </div>
-      <div class="copyright">© 2016-2017 Scrum Chapter Bandung Community</div>
+
+      <div class="col-sm-12 copyright">© 2016-2017 Scrum Chapter Bandung Community</div>
     </footer>
     </body>
 
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     <script src="/js/app.js" type="text/javascript"></script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

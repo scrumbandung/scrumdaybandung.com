@@ -77,7 +77,6 @@ footer {
 	}
 
 	li {
-		float: left;
 		margin-right: 10px;
 
 		a {
@@ -85,7 +84,7 @@ footer {
 
 			&:hover,
 			&:focus {
-				text-decoration: none;
+				text-decoration: underline;
 				background-color: none;
 				color: $footer-link-hover-color;
 			}

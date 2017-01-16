@@ -7750,7 +7750,7 @@ body {
 }
 
 footer {
-  color: #328cc1;
+  color: #fff;
   background: #1d2731;
   margin-top: 20px;
   margin-bottom: 0;
@@ -7765,18 +7765,17 @@ footer ul {
 }
 
 footer li {
-  float: left;
   margin-right: 10px;
 }
 
 footer li a {
-  color: #fff;
+  color: #328cc1;
 }
 
 footer li a:hover, footer li a:focus {
-  text-decoration: none;
+  text-decoration: underline;
   background-color: none;
-  color: #328cc1;
+  color: #0b3c5d;
 }
 
 footer .copyright {

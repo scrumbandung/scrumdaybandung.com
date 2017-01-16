@@ -51,7 +51,7 @@ $input-color-placeholder: lighten($text-color, 30%);
 $panel-default-heading-bg: #fff;
 
 // Footer
-$footer-color: #1d2731;
-$footer-text-color: #328cc1; 
-$footer-link-color: #fff;
-$footer-link-hover-color: #328cc1;
+$footer-color: $very-dark-blue;
+$footer-text-color: #fff; 
+$footer-link-color: $light-blue;
+$footer-link-hover-color: $dark-blue;
