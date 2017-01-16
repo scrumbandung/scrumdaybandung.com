@@ -19,7 +19,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <strong>Regular</strong>
-                                    <p>IDR 700,000,- until 28 February 2017</p>
+                                    <p>IDR 700,000,- until 25 February 2017</p>
                                 </div>
                                 <div class="col-md-4">
                                     <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button" target="_blank"><span class="fa fa-ticket"></span>&nbsp;Purchase Ticket Now &raquo;</a>

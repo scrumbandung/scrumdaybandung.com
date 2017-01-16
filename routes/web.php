@@ -27,10 +27,20 @@ Route::get('/resources', function(){
 	return view('resources');
 });
 
-Route::get('/contact/{locale}', function ($locale) {
+Route::get('/downloads', function(){
+	return view('downloads');
+});
+
+Route::get('/{locale}/contact', function ($locale) {
 	App::setLocale($locale);
 
 	return view('contact');
+});
+
+Route::get('/{locale}/faq', function ($locale) {
+	App::setLocale($locale);
+
+	return view('faq');
 });
 
 Route::post('/contact', "Controller@contact")->name('contact');;

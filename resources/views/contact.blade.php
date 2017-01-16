@@ -4,7 +4,7 @@
 
 @section('content')
 
-<div id="resources" class="container first">
+<div id="resources" class="container push-top">
 	<div class="row">
 		<div class="panel col-md-12">
 			@if (session('status'))
@@ -47,6 +47,7 @@
                     <label for="delivery_method">@lang('contact.subject') (*)</label>
                     <select class="form-control" name="subject">
                     	<option value="@lang('contact.reg.enquiries')">@lang('contact.reg.enquiries')</option>
+                    	<option value="@lang('contact.reg.preconf')">@lang('contact.reg.preconf')</option>
                         <option value="@lang('contact.req.sponsor')">@lang('contact.req.sponsor')</option>
                         <option value="@lang('contact.req.media')">@lang('contact.req.media')</option>
                     </select>

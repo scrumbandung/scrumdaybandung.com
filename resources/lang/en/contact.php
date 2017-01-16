@@ -8,6 +8,7 @@ return [
     'message' => 'Message',
     'send' => 'Send',
     'reg.enquiries' => 'Registration Enquiries',
+    'reg.preconf' => 'Pre-conference Training Registration',
     'req.sponsor' => 'Request to become a sponsor',
     'req.media' => 'Request to become media partner',
     'thanks.message' => 'Thank you for the enquiries. We will get back to you as soon as possible.'
