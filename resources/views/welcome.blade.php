@@ -13,16 +13,23 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="row text-center">
-                                <div class="col-md-4">
+                                <div class="col-md-3">
                                     <strong>Early Bird (limited)</strong>
                                     <p>IDR 500,000,- until 25 January 2017</p>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-3">
                                     <strong>Regular</strong>
                                     <p>IDR 700,000,- until 25 February 2017</p>
                                 </div>
-                                <div class="col-md-4">
-                                    <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button" target="_blank"><span class="fa fa-ticket"></span>&nbsp;Purchase Ticket Now &raquo;</a>
+                                <div class="col-md-6">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <a class="btn btn-primary btn-lg" href="/Invitation.pdf" role="button" target="_blank"><span class="fa fa-envelope-o"></span>&nbsp;Invite Your Managers &raquo;</a>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button" target="_blank"><span class="fa fa-ticket"></span>&nbsp;Purchase Ticket Now &raquo;</a>
+                                        </div>
+                                    </div>                                   
                                 </div>
                             </div>
                         </div>
