@@ -53,7 +53,7 @@
 
     <footer id="contact">
       <div class="container">
-        <div class="col-sm-3">
+        <div class="col-sm-3 text-right">
             <div class="row">
               <div class="col-sm-12">
                 <h4>About</h4>
@@ -72,7 +72,7 @@
               </div>
             </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-4 text-right">
           <div class="row">
               <div class="col-sm-12">
                 <h4>Contact Us</h4>

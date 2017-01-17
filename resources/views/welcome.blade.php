@@ -170,7 +170,7 @@
                 </p>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfy4JPTYPx6VhC249I8px2rTYVEDwWrXJKXnJFPWABLjwUG8w/viewform" target="_blank" class="btn btn-social btn-primary">
                     <span class="fa fa-camera"></span> Become Our Media Partner
-                </a>
+                </a>&nbsp;
                 <a href="https://www.dropbox.com/s/r5w1mve55lwdflc/Press%20Release.pdf" target="_blank" class="btn btn-social btn-primary">
                     <span class="fa fa-newspaper-o"></span> Press Release
                 </a>
@@ -178,22 +178,22 @@
             <br/>
             <div class="col-md-12 push-top">
                 <div class="row">
-                    <div class="col-xs-2">
+                    <div class="col-sm-2 col-xs-3">
                         <a href="https://www.codepolitan.com/" target="_blank"><img src="/img/sponsors/codepolitan.png" class="img-responsive" /></a>
                     </div>
-                    <div class="col-xs-2">
+                    <div class="col-sm-2 col-xs-3">
                         <a href="http://indonesianetizen.com/" target="_blank"><img src="/img/sponsors/indonesia-netizen.png" class="img-responsive" /></a>
                     </div>
-                    <div class="col-xs-2">
+                    <div class="col-sm-2 col-xs-3">
                         <a href="http://kreasitv.com" target="_blank"><img src="/img/sponsors/kreasitv.png" class="img-responsive" /></a>
                     </div>
-                    <div class="col-xs-2 well well-sm">
+                    <div class="col-sm-2 col-xs-3 well well-sm">
                         <span class="text-muted">Spot still available for <b>Media partner</b></span>
                     </div>
-                    <div class="col-xs-2 well well-sm">
+                    <div class="col-sm-2 col-xs-3 well well-sm">
                         <span class="text-muted">Spot still available for <b>Media partner</b></span>
                     </div>
-                    <div class="col-xs-2 well well-sm">
+                    <div class="col-sm-2 col-xs-3 well well-sm">
                         <span class="text-muted">Spot still available for <b>Media partner</b></span>
                     </div>
                 </div>
