@@ -10,7 +10,7 @@
 			<h1 class="page-header">Frequently Asked Questions</h1>
 
 			<p>
-				Do you have any questions regarding Scrum Day Bandung conference? Please read the following frequently asked questions that we have received so far. Can not find the answers to your question about the conference? Please do not hesitate to send us your questions using the <a href="/en/contact">contact form</a>.
+				Do you have any questions regarding Scrum Day Bandung conference? Please read the following frequently asked questions that we have received so far. Can not find the answers to your questions about the conference? Please do not hesitate to send us your questions using the <a href="/en/contact">contact form</a>.
 			</p>
 
 			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -25,7 +25,7 @@
 			    </div>
 			    <div id="scrum-simulation" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 			      <div class="panel-body">
-			        Scrum Day Bandung conference is not a conference about methodology that discusses Scrum basics or Scrum mechanics. This is a conference about business agility and modern management that is targeted at managers and corporate leaders. The Scrum simulation session will not be held during the conference. We advise you to attend the pre-conference Scrum training for a Scrum simulation session. Every conference attendants will get a complimentary seat to attend the pre-conference Scrum training. Please contact us after you have made the payment for the conference if you wish to participate in the pre-conference training.
+			        Scrum Day Bandung conference is not a conference about methodology that discusses Scrum basics or Scrum mechanics. Scrum Day Bandung is a conference about business agility and modern management that is targeted at managers and corporate leaders. The Scrum simulation session will not be held during the conference. We encourage you to attend the pre-conference Scrum training for a Scrum simulation session. Every conference attendants will get a complimentary seat to attend the pre-conference Scrum training. Please contact us after you have made the payment for the conference if you wish to participate in the pre-conference training.
 			      </div>
 			    </div>
 			  </div>
@@ -34,7 +34,7 @@
 			    <div class="panel-heading" role="tab" id="headingThree">
 			      <h4 class="panel-title">
 			        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#prerequisites" aria-expanded="false" aria-controls="prerequisites">
-			          Are there any prerequisites prior to attending this course?
+			          Are there any prerequisites prior to attending this conference?
 			        </a>
 			      </h4>
 			    </div>
@@ -100,7 +100,7 @@
 			    </div>
 			    <div id="cert-attendance" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
 			      <div class="panel-body">
-			         No. We do not provide certificate of attendance for attending the conference.
+			         Unfortunately no. We do not provide certificate of attendance for attending Scrum Day Bandung conference.
 			      </div>
 			    </div>
 			  </div>
@@ -115,7 +115,7 @@
 			    </div>
 			    <div id="on-spot-payment" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
 			      <div class="panel-body">
-			         No. We do have payment on the spot as this is an exclusive event for managers and corporate leaders where the number of seats is limited and the tickets may already sold out before the event.
+			         Unfortunately no. We do not have payment on the spot as Scrum Day Bandung conference is an exclusive event for managers and corporate leaders hence the number of seats is limited. Due to the popularity of this event, tickets may already be sold out days before the event.
 			      </div>
 			    </div>
 			  </div>
