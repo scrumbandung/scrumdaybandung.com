@@ -152,7 +152,8 @@
                     <li>to meet customers who wants to collaborate and believe working in Agile contracts;</li>
                     <li>to connect with other like-minded business leaders who already reaped benefits from Agility</li>
                     <li>to hire great Scrum Masters and Scrum Product Owners;</li>
-                    <li>to find companies who has Agile culture embedded as corporate culture;</li>
+                    <li>to find companies who has Agile culture embedded in the corporate culture;</li>
+                    <li>to collaborate with other companies on the next big thing;</li>
                 </ul>
             </div>
 
@@ -189,7 +190,7 @@
 
             <h3>Foods &amp; Beverages</h3>
             <p>
-                What good is a conference without great food and great drinks? The conference is an exclusive event at an exclusive venue. We will also work hard to ensure that your stomach is well looked after. Exquisite foods and drinks made by well-known chefs in Bandung will be available throughout the event. 
+                What good is a conference without great foods and great drinks? The conference is an exclusive event at an exclusive venue. We will also work hard to ensure that your stomach is well looked after. Exquisite foods and drinks made by well-known chefs in Bandung will be available throughout the event. 
             </p>
         </div>
     </div>
