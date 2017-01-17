@@ -148,9 +148,11 @@
             <div>
                 Scrum Day Bandung is where like minded people who believe in Agility come and meet together to share their experiences. The event is not only a great event to be inspired and get unique experience, it is also a great event 
                 <ul>
-                    <li>to meet software vendors who can offer Agile contracts;</li>
-                    <li>to meet customers who wants to collaborate and accepts Agile contracts;</li>
+                    <li>to meet software vendors who can offer working in Agile contracts;</li>
+                    <li>to meet customers who wants to collaborate and believe working in Agile contracts;</li>
+                    <li>to connect with other like-minded business leaders who already reaped benefits from Agility</li>
                     <li>to hire great Scrum Masters and Scrum Product Owners;</li>
+                    <li>to find companies who has Agile culture embedded as corporate culture;</li>
                 </ul>
             </div>
 
