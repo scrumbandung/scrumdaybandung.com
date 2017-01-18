@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('title', 'About the Event')
+@section('title', 'About Scrum Day Bandung')
 
 @section('content')
 
@@ -21,7 +21,7 @@
                 Scrum Day Bandung is where great minds come together. Scrum Day Bandung is a perfect place to be for leaders, managers and change agents who have concerns about business agility and profesionalism in software development ecosystem to meet, exchange experiences and support each other. Unlike other conferences in Indonesia where participants only leave the event with information or knowledge, at Scrum Day Bandung participants will feel inspired and empowered to make changes in their respective companies knowing that others will walk alongside them. 
             </p>
             <p>
-                This event is an exclusive event for corporate leaders and managers. It will be the first business agility &amp; modern management conference with Scrum framework in Indonesia. We believe Scrum Day Bandung will set a new standard in Indonesia's software development ecosystem where professionalism is not an option. If you share our mission for a software development ecosystem that emphasizes agility and professionalism, join the movement and attend this 1-day annual event. We would like to meet and interact with you at the event. Together we can make changes for the better future.                 
+                Scrum Day Bandung is an exclusive event for corporate leaders and managers. It will be the first business agility &amp; modern management conference with Scrum framework in Indonesia. We believe Scrum Day Bandung will set a new standard in Indonesia's software development ecosystem where professionalism is not an option. If you share our mission for a software development ecosystem that emphasizes agility and professionalism, join the movement and attend this 1-day annual conference. We would like to meet and interact with you at the conference. Together we can make changes for the better future.                 
             </p>
         </div>
         <div class="col-md-12">
@@ -43,17 +43,17 @@
 
             <h3>Managers</h3>
             <p>
-                Managers role is <em>very important</em> and can not be ignored in Agile transformation. Any managers who are not Scrum Masters and not Scrum Product Owners are invited to join us.
+                Managers role is <em>very important</em> and can not be ignored in Agile transformation. Any managers who are not Scrum Masters and not Scrum Product Owners are invited to join us. The higher your position in the organisation, the more you need to attend this conference.
             </p>
         </div>
         <div class="col-md-12">
             <h2>Why should I attend</h2>
 
             <p>
-                In brief, this will be the first event about business agility &amp; modern management conference in Indonesia so by attending this event you will be part of the historical moment in software development ecosystem revolution in Indonesia. 
+                In brief, Scrum Day Bandung will be the first conference about business agility &amp; modern management in Indonesia so by attending this conference you will be part of the historical moment in software development ecosystem revolution in Indonesia. 
             </p>
             <p>
-                More specifically, you need to attend this event because we see management role in turning an organisation to be Agile and maintaining Agile culture is pivotal. Agility requires a different mindset and a different management model. The higher up your position in the organisation structure, the more you need to attend this event. Change is hard. Change requires humility, courage and persistence. But change is required in software development ecosystem in Indonesia today. And as a manager you have the resources to help us make a change in the ecosystem by making a change in your organisation. If you see that software development ecosystem in Indonesia and in your organisation needs to change like we do, then come and join us by attending this 1-day event.  
+                More specifically, you need to attend this conference because we see management role in turning an organisation to be Agile and maintaining Agile culture is pivotal and can not be underestimated. Agility requires a different mindset and a different management model. The higher up your position in the organisation structure, the more you need to attend this conference. Change is hard. Change requires humility, courage and persistence. But change is required in software development ecosystem in Indonesia today. And as a manager you have the resources to help us make a change in the ecosystem by making a change in the organisation you are leading. If you see that software development ecosystem in your organisation needs to change like we do, then come and join us by attending this 1-day conference.  
             </p>
 
 
@@ -136,30 +136,30 @@
 
             <h3>Experience</h3>
             <p>
-                Scrum Day Bandung does not only offer you information and knowledge. The organisers are working hard to offer you a unique experience that you will not get in other conferences in the region. The session has been designed so that you will feel excited, inspired and empowered to make changes in the company.
+                Scrum Day Bandung does not only offer you information and knowledge. We are working hard to offer you a unique experience that you will not get in other conferences held in Indonesia. The session has been designed so that you will feel excited, inspired and empowered to make changes in the company. By attending Scrum Day Bandung you will experience being part of the historical moment in software development ecosystem in Indonesia where all attendants will stand up for professionalism in software development.
             </p>
 
             <h3>Inspiration</h3>
             <p>
-                Scrum Day Bandung is packed with inspiring speakers, experienced Scrum coaches and like minded people. After Scrum Day Bandung you will get lots of inspiration to start making changes in your organisation to make it Agile. You will also be part of a network that will support you in becoming change agent in your company.
+                Scrum Day Bandung is packed with inspiring speakers, well-trained &amp; experienced Scrum coaches and energetic &amp; positive minded people. Scrum Day Bandung is where like minded people share ideas and challenges in turning an organisation to move towards Agility using Scrum. After Scrum Day Bandung you will get lots of inspiration to start making changes in your organisation to make it Agile. You will also be part of a change agent network that will support you in making changes in your company.
             </p>
 
             <h3>Networking</h3>
             <div>
-                Scrum Day Bandung is where like minded people who believe in Agility come and meet together to share their experiences. The event is not only a great event to be inspired and get unique experience, it is also a great event 
+                Scrum Day Bandung is where energetic &amp; positive minded people who believe in Agility come and meet together to share their experiences implementing Scrum. The conference is not only a great event to be inspired and get unique experience, it is also a great event 
                 <ul>
                     <li>to meet software vendors who can offer working in Agile contracts;</li>
-                    <li>to meet customers who wants to collaborate and believe working in Agile contracts;</li>
-                    <li>to connect with other like-minded business leaders who already reaped benefits from Agility</li>
+                    <li>to meet customers who wants to collaborate and believe in working in Agile contracts;</li>
+                    <li>to connect and exchange ideas with other like-minded corporate leaders &amp; managers who already reaped benefits from Agility;</li>
                     <li>to hire great Scrum Masters and Scrum Product Owners;</li>
-                    <li>to find companies who has Agile culture embedded in the corporate culture;</li>
-                    <li>to collaborate with other companies on the next big thing;</li>
+                    <li>to find companies who has Agile culture embedded in the corporate culture and apply for a job there;</li>
+                    <li>to collaborate with other companies to work on the next big thing;</li>
                 </ul>
             </div>
 
             <h3>Merchandises</h3>
             <p>
-                Not only we will work hard to make sure you get an awesome experience during the conference and an inspiration to make a change at your workplaces, we will also give you these merchandises as a proof that you were there to support our mission to create an ideal software development ecosystem in Bandung and in Indonesia. 
+                Not only we will work hard to make sure you get an awesome experience during the conference and an inspiration to make changes at your organisation, we will also give you these merchandises as a proof that you were present to support our mission to create an ideal software development ecosystem in Bandung and in Indonesia. 
             </p>
             <div class="row push-top">
                 <div class="col-xs-3 text-center">
@@ -190,7 +190,7 @@
 
             <h3>Foods &amp; Beverages</h3>
             <p>
-                What good is a conference without great foods and great drinks? The conference is an exclusive event at an exclusive venue. We will also work hard to ensure that your stomach is well looked after. Exquisite foods and drinks made by well-known chefs in Bandung will be available throughout the event. 
+                What good is a conference without great foods and great drinks? The conference is an exclusive event at an exclusive venue &amp; one of the most iconic hotel in Bandung. We will work hard to ensure that your stomach is well looked after. Exquisite foods and drinks made by well-known chefs in Bandung will be available throughout the conference. 
             </p>
         </div>
     </div>
