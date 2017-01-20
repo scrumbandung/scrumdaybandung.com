@@ -187,6 +187,9 @@
                     <div class="col-sm-2 col-xs-3">
                         <a href="http://kreasitv.com" target="_blank"><img src="/img/sponsors/kreasitv.png" class="img-responsive" /></a>
                     </div>
+                    <div class="col-sm-2 col-xs-3">
+                        <a href="http://id.techinasia.com" target="_blank"><img src="/img/sponsors/techinasia.png" class="img-responsive" /></a>
+                    </div>
                     <div class="col-sm-2 col-xs-3 well well-sm">
                         <span class="text-muted">Spot still available for <b>Media partner</b></span>
                     </div>
