@@ -11,40 +11,54 @@
 |
 */
 
+Route::get('/', function(){
+	return view('welcome');
+});
+
+Route::get('/{locale}', function($locale){
+	App::setLocale($locale);
+
+	return view('welcome');
+})->name('landing');
+
 Route::get('/landing', function () {
     return view('welcome');
 });
 
-Route::get('/about/event', function () {
+Route::get('/{locale}/about/event', function ($locale) {
+	App::setLocale($locale);
+
     return view('event');
-});
+})->name('about-event');
 
-Route::get('/about/team', function () {
+Route::get('/{locale}/about/team', function ($locale) {
+	App::setLocale($locale);
+
     return view('team');
-});
+})->name('about-team');
 
-Route::get('/resources', function(){
+Route::get('/{locale}/resources', function($locale){
+	App::setLocale($locale);
+
 	return view('resources');
-});
+})->name('resources');
 
-Route::get('/downloads', function(){
+Route::get('/{locale}/downloads', function($locale){
+	App::setLocale($locale);
+
 	return view('downloads');
-});
+})->name('downloads');
+
+Route::post('/contact', "Controller@contact")->name('contact');;
 
 Route::get('/{locale}/contact', function ($locale) {
 	App::setLocale($locale);
 
 	return view('contact');
-});
+})->name('contact');
 
 Route::get('/{locale}/faq', function ($locale) {
 	App::setLocale($locale);
 
 	return view('faq');
-});
-
-Route::post('/contact', "Controller@contact")->name('contact');;
-
-Route::get('/', function(){
-	return view('welcome');
-});
+})->name('faq');

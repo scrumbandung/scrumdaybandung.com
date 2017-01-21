@@ -31,17 +31,17 @@
                 <li role="presentation" class="dropdown">
                     <a href="#"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/about/event">The Event</a></li>
-                        <li><a href="/about/team">The Scrum Team</a></li>             
+                        <li><a href="{{ route('about-event', ['locale' => 'en']) }}">The Event</a></li>
+                        <li><a href="{{ route('about-team', ['locale' => 'en']) }}">The Scrum Team</a></li>             
                     </ul>
                 </li> 
-                <li><a href="/en/contact">Contact Us</a></li>
+                <li><a href="{{ route('contact', ['locale' => 'en']) }}">Contact Us</a></li>
                 <li role="presentation" class="dropdown">
                   <a href="#"  class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></a>
                   <ul class="dropdown-menu">
-                        <li><a href="/resources">Scrum Resources</a></li>
-                        <li><a href="/downloads">Downloads</a></li>
-                        <li><a href="/en/faq">F.A.Q</a></li>             
+                        <li><a href="{{ route('resources', ['locale' => 'en']) }}">Scrum Resources</a></li>
+                        <li><a href="{{ route('downloads', ['locale' => 'en']) }}">Downloads</a></li>
+                        <li><a href="{{ route('faq', ['locale' => 'en']) }}">F.A.Q</a></li>             
                     </ul>
                 </li>
             </ul>
@@ -58,16 +58,16 @@
               <div class="col-sm-12">
                 <h4>About</h4>
                 <ul>
-                    <li><a href="/about/event">The Event</a></li>
-                    <li><a href="/about/team">The Scrum Team</a></li>
+                    <li><a href="{{ route('about-event', ['locale' => 'en']) }}">The Event</a></li>
+                    <li><a href="{{ route('about-team', ['locale' => 'en']) }}">The Scrum Team</a></li>  
                 </ul>
               </div>
               <div class="col-sm-12">
                 <h4>Resources</h4>
                 <ul>
-                  <li><a href="/resources">Scrum Resources</a></li>
-                  <li><a href="/downloads">Downloads</a></li>
-                  <li><a href="/en/faq">F.A.Q</a></li>
+                  <li><a href="{{ route('resources', ['locale' => 'en']) }}">Scrum Resources</a></li>
+                  <li><a href="{{ route('downloads', ['locale' => 'en']) }}">Downloads</a></li>
+                  <li><a href="{{ route('faq', ['locale' => 'en']) }}">F.A.Q</a></li>   
                 </ul>
               </div>
             </div>
@@ -78,7 +78,7 @@
                 <h4>Contact Us</h4>
                 <ul>
                   <li>
-                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=scrumdaybandung[at]gmail.com" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-envelope fa-lg"></i></a>&nbsp;<a href="/en/contact">Contact Form</a>
+                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=scrumdaybandung[at]gmail.com" target="_blank" class="btn btn-social-icon btn-google" role="button"><i class="fa fa-envelope fa-lg"></i></a>&nbsp;<a href="{{ route('contact', ['locale' => 'en']) }}">Contact Form</a>
                   </li>
                 </ul>
               </div>

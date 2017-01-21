@@ -10,7 +10,7 @@
 			<h1 class="page-header">Frequently Asked Questions</h1>
 
 			<p>
-				Do you have any questions regarding Scrum Day Bandung conference? Please read the following frequently asked questions that we have received so far. Can not find the answers to your questions about the conference? Please do not hesitate to send us your questions using the <a href="/en/contact">contact form</a>.
+				Do you have any questions regarding Scrum Day Bandung conference? Please read the following frequently asked questions that we have received so far. Can not find the answers to your questions about the conference? Please do not hesitate to send us your questions using the <a href="{{ route('contact', ['locale' => 'en']) }}">contact form</a>.
 			</p>
 
 			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -25,7 +25,7 @@
 			    </div>
 			    <div id="scrum-simulation" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 			      <div class="panel-body">
-			        Scrum Day Bandung conference is not a conference about methodology that discusses Scrum basics or Scrum mechanics. Scrum Day Bandung is a conference about business agility and modern management that is targeted at managers and corporate leaders. The Scrum simulation session will not be held during the conference. We encourage you to attend the pre-conference Scrum training for a Scrum simulation session. Every conference attendants will get a complimentary seat to attend the pre-conference Scrum training. Please contact us after you have made the payment for the conference if you wish to participate in the pre-conference training.
+			        Scrum Day Bandung conference is not a conference about methodology that discusses Scrum basics or Scrum mechanics. Scrum Day Bandung is a conference about business agility and modern management that is targeted at managers and corporate leaders. The Scrum simulation session will not be held during the conference. We encourage you to attend the pre-conference Scrum training for a Scrum simulation session. Every conference attendants will get a complimentary seat to attend the pre-conference Scrum training. Please contact us using the <a href="{{ route('contact', ['locale' => 'en']) }}">contact form</a> after you have made the payment for the conference if you wish to participate in the pre-conference training.
 			      </div>
 			    </div>
 			  </div>
@@ -40,7 +40,7 @@
 			    </div>
 			    <div id="prerequisites" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 			      <div class="panel-body">
-			        Ideally Scrum Day Bandung conference attendants are already using Scrum in the company. If you have not already used Scrum or unsure whether you are currently using the official Scrum as defined in <a href="http://www.scrumguides.org" target="_blank">Scrum Guide</a>, please read the <a href="/resources">Scrum Resources</a> section on our website for information that you need to know prior to attending Scrum Day Bandung conference.
+			        Ideally Scrum Day Bandung conference attendants are already using Scrum in the company. If you have not already used Scrum or unsure whether you are currently using the official Scrum as defined in <a href="http://www.scrumguides.org" target="_blank">Scrum Guide</a>, please read the <a href="{{ route('resources', ['locale' => 'en']) }}">Scrum Resources</a> section on our website for information that you need to know prior to attending Scrum Day Bandung conference.
 			      </div>
 			    </div>
 			  </div>
@@ -85,7 +85,7 @@
 			    </div>
 			    <div id="hotel-special-price" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
 			      <div class="panel-body">
-			         Yes you will. Please contact us using the contact form to get a special price staying at Pangheghar Hotel.
+			         Yes you will. Please contact us using the <a href="{{ route('contact', ['locale' => 'en']) }}">contact form</a> to get a special price staying at Pangheghar Hotel.
 			      </div>
 			    </div>
 			  </div>
@@ -115,7 +115,7 @@
 			    </div>
 			    <div id="on-spot-payment" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
 			      <div class="panel-body">
-			         Unfortunately no. We do not have payment on the spot as Scrum Day Bandung conference is an exclusive event for managers and corporate leaders hence the number of seats is limited. Due to the popularity of this event, tickets may already be sold out days before the event.
+			         Unfortunately no. We do not have payment on the spot as Scrum Day Bandung conference is an exclusive event for managers and corporate leaders hence the number of seats is very limited. Due to the popularity of this event, tickets may already be sold out days before the event.
 			      </div>
 			    </div>
 			  </div>

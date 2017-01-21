@@ -179,10 +179,10 @@
             <div class="col-md-12 push-top">
                 <div class="row">
                     <div class="col-sm-2 col-xs-3">
-                        <a href="https://www.codepolitan.com/" target="_blank"><img src="/img/sponsors/codepolitan.png" class="img-responsive" /></a>
+                        <a href="https://www.codepolitan.com/event/scrum-day-bandung-2017-5878875396880" target="_blank"><img src="/img/sponsors/codepolitan.png" class="img-responsive" /></a>
                     </div>
                     <div class="col-sm-2 col-xs-3">
-                        <a href="http://indonesianetizen.com/" target="_blank"><img src="/img/sponsors/indonesia-netizen.png" class="img-responsive" /></a>
+                        <a href="http://indonesianetizen.com/cant-wait-scrum-day-bandung-2017/" target="_blank"><img src="/img/sponsors/indonesia-netizen.png" class="img-responsive" /></a>
                     </div>
                     <div class="col-sm-2 col-xs-3">
                         <a href="http://kreasitv.com" target="_blank"><img src="/img/sponsors/kreasitv.png" class="img-responsive" /></a>
