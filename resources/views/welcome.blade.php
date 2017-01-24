@@ -15,7 +15,7 @@
                             <div class="row text-center">
                                 <div class="col-md-3">
                                     <strong>Early Bird (limited)</strong>
-                                    <p>IDR 500,000,- until 25 January 2017</p>
+                                    <p>IDR 500,000,- until 28 January 2017</p>
                                 </div>
                                 <div class="col-md-3">
                                     <strong>Regular</strong>
