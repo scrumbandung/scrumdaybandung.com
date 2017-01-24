@@ -190,8 +190,8 @@
                     <div class="col-sm-2 col-xs-3">
                         <a href="http://id.techinasia.com" target="_blank"><img src="/img/sponsors/techinasia.jpg" class="img-responsive" /></a>
                     </div>
-                    <div class="col-sm-2 col-xs-3 well well-sm">
-                        <span class="text-muted">Spot still available for <b>Media partner</b></span>
+                    <div class="col-sm-2 col-xs-3">
+                        <a href="http://www.dailysocial.id" target="_blank"><img src="/img/sponsors/dailysocial.jpg" class="img-responsive" /></a>
                     </div>
                     <div class="col-sm-2 col-xs-3 well well-sm">
                         <span class="text-muted">Spot still available for <b>Media partner</b></span>
