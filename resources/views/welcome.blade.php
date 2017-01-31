@@ -145,17 +145,15 @@
                 <div class="row">
                     <h3>Bronze Sponsors</h3>
 
-                    <div class="col-xs-3 well well-sm">
-                        <span class="text-muted">Spot still available for <b>Bronze</b> sponsor</span>
+                    <div class="col-xs-3">
+                    </div>
+                    <div class="col-xs-3">
+                        <a href="http://www.scrum.co.id/" target="_blank"><img src="/img/sponsors/scrumcoid.png" class="img-responsive" /></a>
                     </div>
                     <div class="col-xs-3 well well-sm">
                         <span class="text-muted">Spot still available for <b>Bronze</b> sponsor</span>
                     </div>
-                    <div class="col-xs-3 well well-sm">
-                        <span class="text-muted">Spot still available for <b>Bronze</b> sponsor</span>
-                    </div>
-                    <div class="col-xs-3 well well-sm">
-                        <span class="text-muted">Spot still available for <b>Bronze</b> sponsor</span>
+                    <div class="col-xs-3">
                     </div>
                 </div>
             </div>     
