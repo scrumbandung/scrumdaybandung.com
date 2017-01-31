@@ -28,6 +28,6 @@ class Controller extends BaseController
       	
         Mail::to($req['email'], $req['fullname'])->send(new Contact($req));
 
-    	return redirect('/contact/en')->with('status', trans('contact.thanks.message'));
+    	return redirect('/en/contact')->with('status', trans('contact.thanks.message'));
     }
 }
