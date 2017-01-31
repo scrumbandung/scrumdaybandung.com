@@ -115,11 +115,12 @@
                 <div class="row">
                     <h3>Gold Sponsors</h3>
 
+                    <div class="col-xs-3">
+                    </div>
                     <div class="col-xs-6">
                         <a href="http://www.scrum.org" target="_blank"><img src="/img/sponsors/scrum_org.png" class="img-responsive"/></a>
                     </div>
-                    <div class="col-xs-6 well well-sm">
-                        <span class="text-muted">Spot still available for <b>Gold</b> sponsors</span>
+                    <div class="col-xs-3">
                     </div>
                 </div>
             </div>
@@ -127,14 +128,18 @@
                 <div class="row">
                     <h3>Silver Sponsors</h3>
 
+
+                    <div class="col-xs-1">
+                    </div>
                     <div class="col-xs-4">
                         <a href="http://www.intens.co.id/" target="_blank"><img src="/img/sponsors/intens.jpg" class="img-responsive" /></a>
                     </div>
-                    <div class="col-xs-4 well well-sm">
-                        <span class="text-muted">Spot still available for <b>Silver</b> sponsor</span>
-                    </div>              
-                    <div class="col-xs-4 well well-sm">
-                        <span class="text-muted">Spot still available for <b>Silver</b> sponsor</span>
+                    <div class="col-xs-2">
+                    </div>
+                    <div class="col-xs-4">
+                        <a href="http://www.doku.com/" target="_blank"><img src="/img/sponsors/doku.jpg" class="img-responsive" /></a>
+                    </div>
+                    <div class="col-xs-1">
                     </div>
                 </div>
             </div>
