@@ -23,10 +23,10 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <a class="btn btn-primary btn-lg" href="/Invitation.pdf" role="button" target="_blank"><span class="fa fa-envelope-o"></span>&nbsp;Invite Your Managers &raquo;</a>
-                                        </div>
+                                        </div> 
                                         <div class="col-md-6">
-                                            <a class="btn btn-primary btn-lg" href="https://www.tiket.com/scrumday-bandung-2017" role="button" target="_blank"><span class="fa fa-ticket"></span>&nbsp;Purchase Ticket Now &raquo;</a>
-                                        </div>
+                                            <a class="btn btn-primary btn-lg" href="{{ route('contact', ['locale' => 'en']) }}" role="button"><span class="fa fa-ticket"></span>&nbsp;Purchase Ticket Now &raquo;</a>
+                                        </div> 
                                     </div>                                   
                                 </div>
                             </div>

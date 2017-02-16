@@ -18,7 +18,7 @@
             @endif
 
 			<h1>Contact Us</h1>
-			<p>Have you got any enquiries for us? Give us a buzz. We are at your service.</p>
+			<p>Have you got any enquiries for us? Give us a buzz. Registration is already closed, but we still accept limited number of people. Please use the form below to register.</p>
 
 	        <form id="contact_form" method="post" action="/contact">
 	          <input type="hidden" name="_token" value="{{ csrf_token() }}">
