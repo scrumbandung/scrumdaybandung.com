@@ -75,11 +75,10 @@
                 </p>
             </div>
             <div class="col-md-6">
-                <h3>What is Scrum</h3>
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8QEpESit11s"></iframe>
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y3Ixkgh-jkQ"></iframe>
                         </div>
                     </div>
                 </div>
