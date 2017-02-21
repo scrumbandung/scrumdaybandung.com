@@ -5,7 +5,7 @@
 @section('content')
 
     <img src="/img/web-banner.jpg" alt="coming soon banner" class="img-responsive"  />
-
+<!--
     <div id="ticket" class="container-fluid ticket-box">
         <div class="row">
             <div class="col-md-12">
@@ -36,7 +36,7 @@
             </div>
         </div>
     </div>
-
+-->
     <div id="event" class="container push-top">
         <div class="row">
             <div class="col-md-6">
