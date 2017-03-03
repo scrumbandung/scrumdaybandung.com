@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('title', 'Welcome Home. You are invited.')
+@section('title', 'National Gathering for like minded people')
 
 @section('content')
 
@@ -37,6 +37,23 @@
         </div>
     </div>
 -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2>It's a wrap</h2>
+                <div>Scrum Day Bandung 2017 was a success. We would like to thank everyone who has made the first edition of Scrum Day Bandung such a success. We are now preparing for a bigger and better Scrum Day Bandung 2018. 
+
+
+                
+                Scrum Day Bandung will be scheduled on February 2018. We will announce Scrum Day Bandung around Q4 2017. Stay tuned and don't forget to follow us on our social media account.
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <hr/>
+
     <div id="event" class="container push-top">
         <div class="row">
             <div class="col-md-6">
@@ -59,7 +76,7 @@
                     <li>Scrum Masters</li>
                     <li>Scrum Product Owners</li>
                 </ul>
-                
+                <!--
                 <h3>Date &amp; Time</h3>
                 <p>Tuesday, February, 28<sup>th</sup> 2017 at 08:30 AM - 05:45 PM WIB</p>
 
@@ -73,6 +90,7 @@
                         <span class="fa fa-map-marker"></span> View on Google Map
                     </a>
                 </p>
+                -->
             </div>
             <div class="col-md-6">
                 <div class="panel panel-default">
@@ -85,7 +103,7 @@
             </div>
         </div>
     </div>
-
+    <!--
     <hr/>
 
     <div id="schedule" class="container-fluid text-center">
@@ -97,7 +115,8 @@
     </div>
 
     <hr/>
-
+    -->
+    <!--
     <div id="sponsors" class="container push-top text-center">
         <div class="row">
             <div class="col-md-12">
@@ -148,9 +167,10 @@
             </div>     
         </div>
     </div>
-    
     <hr/>
-
+    -->
+    
+    <!--
     <div id="media" class="container push-top text-center">
         <div class="row">
             <div class="col-md-12">
@@ -181,5 +201,6 @@
                 </div>
             </div>
         </div>
+        -->
     </div>
 @endsection

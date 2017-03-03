@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Scrum Day Bandung is a business agility and modern management conference using Scrum as its management framework brought to you by Scrum Bandung community. OUr mission is to bring agility and professionalism into software development ecosystem in Indonesia. Pre-conference Scrum Training is also available for Scrum newbies." >
         <meta name="google-site-verification" content="YxougGVxw7Ijf6vnhM68HlUD7nX3pNH1ryw3y-RbG9I" />
-        <title>Scrum Day Bandung 2017 - @yield('title')</title>
+        <title>Scrum Day Bandung 2018 - @yield('title')</title>
 
         <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png">
         <link href="/css/app.css" rel="stylesheet" />
