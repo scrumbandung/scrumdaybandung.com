@@ -9,19 +9,19 @@
 		<div class="col-md-12">
 			<h1 class="page-header">What is Scrum Day Bandung</h1>
             <p>
-                <strong>Theme</strong>: Professionalism in software development <br/>
-                <strong>Goal</strong>: Igniting change in software ecosystem, inspiring future leaders. <br/>
-                <strong>Scrum Day Bandung 2017 is not a conference about Scrum basics or Scrum mechanics</strong>.
+                <strong>Theme</strong>: Business Agility through Servant Leadership. <br/>
+                <strong>Goal</strong>: Developing Next Generation Leaders. <br/>
+                <strong>Scrum Day Bandung 2018 is not a conference about Scrum basics or Scrum mechanics</strong>.
             </p>
 
             <p>
-                Scrum Day Bandung 2017 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference specifically for corporate leaders and managers. But we think Scrum Day Bandung 2017 is more than just a conference. We think it is a community movement in Indonesia towards software development ecosystem that emphasizes agility and professionalism. We think software is a business need for companies to be competitive in 21st century. We think agility should be extended beyond IT because agility is a business requirement not a software development methodology. 
+                Scrum Day Bandung 2018 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference specifically for corporate leaders and managers. Scrum Day Bandung 2018 will be <em>more than just a conference</em>. We think it is a national gathering for like minded people who wish to make a change in management. At Scrum Day Bandung we will implement some of the feedback that we have received from the previous series. Scrum Day Bandung is one of that event in 2018 you do not want to miss.
             </p>
             <p>
                 Scrum Day Bandung is where great minds come together. Scrum Day Bandung is a perfect place to be for leaders, managers and change agents who have concerns about business agility and profesionalism in software development ecosystem to meet, exchange experiences and support each other. Unlike other conferences in Indonesia where participants only leave the event with information or knowledge, at Scrum Day Bandung participants will feel inspired and empowered to make changes in their respective companies knowing that others will walk alongside them. 
             </p>
             <p>
-                Scrum Day Bandung is an exclusive event for corporate leaders and managers. It will be the first business agility &amp; modern management conference with Scrum framework in Indonesia. We believe Scrum Day Bandung will set a new standard in Indonesia's software development ecosystem where professionalism is not an option. If you share our mission for a software development ecosystem that emphasizes agility and professionalism, join the movement and attend this 1-day annual conference. We would like to meet and interact with you at the conference. Together we can make changes for the better future.                 
+                Scrum Day Bandung is an exclusive event for corporate leaders and managers. It will be the first business agility &amp; modern management conference with Scrum framework in Indonesia. We would like to meet and interact with you at the conference. Together we can make changes for the better future.                 
             </p>
         </div>
         <div class="col-md-12">
@@ -63,37 +63,17 @@
             <h2>The schedule</h2>
 
             <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation"><a href="#tab_1" aria-controls="tab_2" role="tab" data-toggle="tab">Pre-conference Training</a></li>
                 <li role="presentation" class="active"><a href="#tab_2" aria-controls="tab_2" role="tab" data-toggle="tab">Conference</a></li>
             </ul>
             <div class="tab-content">
-                <div role="tabpanel" class="tab-pane fade" id="tab_1">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h3 class="panel-title text-center">Pre-conference</h3>
-                        </div>
-                        <div class="panel-body">
-                            <p><b>February, 27<sup>th</sup> 2017</b> at 09:00 AM - 05:00 PM</p>
-                            <p>
-                                Scrum Day Bandung 2017 is not a conference about Scrum basics or Scrum mechanics. This is a conference on how to turn your business to be agile and how to lead your people with modern leadership model. We provide free introduction to Scrum Training limited to 30 persons who have registered for the conference.
-                            </p>
-                        </div>
-                        <div class="panel-footer">
-                            Free for Ticket Holders
-                            <a href="https://www.tiket.com/scrumday-bandung-2017" target="_blank" class="btn btn-social btn-primary">
-                                <span class="fa fa-ticket"></span> Purchase Ticket Now &raquo;
-                            </a>
-                        </div>
-                    </div>
-                </div>
                 <div role="tabpanel" class="tab-pane fade in active" id="tab_2">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <h3 class="panel-title text-center">Scrum Day Bandung 2017</h3>
+                            <h3 class="panel-title text-center">Scrum Day Bandung 2018</h3>
                         </div>
                         <div class="panel-body">
                             <h4>Grand Royal Panghegar Hotel Bandung</h4>
-                            <p><b>February, 28<sup>th</sup> 2017</b> at 08:30 AM - 05:45 PM</p>
+                            <p><b>Monday, February 26<sup>th</sup> 2018</b> at 08:30 AM - 05:45 PM</p>
                             <p>
                                 <em>VALUE</em> is what we're striving to deliver to you. We have designed this conference not only so that you can feel inspired and empowered to make a change at your workplaces but also can exchange experience with other Scrum practitioners and interact with experienced Scrum coaches from Indonesia.
                             </p>
@@ -120,12 +100,12 @@
                                     Open space is a discussion forum by the participants from the participants about radical or controversial topics around Scrum or Agile management. At open space, the discussion will be facilitated by experienced Scrum coaches. The topic that are discussed during open space are mainly tactics for using Scrum.
                                 </p>
                             </li>
-                        </ul>
+                        </ul><!--
                         <div class="panel-footer">
                             <a href="https://www.tiket.com/scrumday-bandung-2017" target="_blank" class="btn btn-social btn-primary">
                                 <span class="fa fa-ticket"></span> Purchase Ticket Now &raquo;
                             </a>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>
@@ -156,7 +136,7 @@
                     <li>to collaborate with other companies to work on the next big thing;</li>
                 </ul>
             </div>
-
+<!--
             <h3>Merchandises</h3>
             <p>
                 Not only we will work hard to make sure you get an awesome experience during the conference and an inspiration to make changes at your organisation, we will also give you these merchandises as a proof that you were present to support our mission to create an ideal software development ecosystem in Bandung and in Indonesia. 
@@ -187,12 +167,13 @@
                     </div>
                 </div>
             </div>
-
+-->
             <h3>Foods &amp; Beverages</h3>
             <p>
                 What good is a conference without great foods and great drinks? The conference is an exclusive event at an exclusive venue &amp; one of the most iconic hotel in Bandung. We will work hard to ensure that your stomach is well looked after. Exquisite foods and drinks made by well-known chefs in Bandung will be available throughout the conference. 
             </p>
         </div>
+
     </div>
 </div>
 
