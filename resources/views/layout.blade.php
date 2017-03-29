@@ -44,6 +44,7 @@
                         <li><a href="{{ route('faq', ['locale' => 'en']) }}">F.A.Q</a></li>             
                     </ul>
                 </li>
+                <li><a href="{{ route('preconf', ['locale' => 'id']) }}">Pre-conference</a></li>
             </ul>
         </div>
       </div>

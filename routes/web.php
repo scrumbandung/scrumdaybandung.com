@@ -49,6 +49,12 @@ Route::get('/{locale}/downloads', function($locale){
 	return view('downloads');
 })->name('downloads');
 
+Route::get('/{locale}/preconf', function($locale){
+	App::setLocale($locale);
+
+	return view('preconf');
+})->name('preconf');
+
 Route::post('/contact', "Controller@contact")->name('contact');;
 
 Route::get('/{locale}/contact', function ($locale) {
