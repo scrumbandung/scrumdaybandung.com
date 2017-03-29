@@ -38,6 +38,7 @@
 			</p> 
 
 			<h2>Jadwal Pre-conference Workshop</h2>
+			<div class="table-responsive">
 			<table class="table table-striped" width="100%">
 			  <tr>
  				<th>Tanggal</th>
@@ -56,6 +57,7 @@
 			  	<td>Disyam (+628113654829)</td>
 			  </tr>
 			</table>
+			</div>
 		</div>
 	</div>
 </div>
