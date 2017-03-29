@@ -53,6 +53,7 @@
 			<ul>
 				<li><a href="http://scrumdayeurope.com/" target="_blank">Scrum Day Europe</a></li>
 				<li><a href="http://scrumdaylondon.com/" target="_blank">Scrum Day London</a></li>
+				<li><a href="http://scrumdays.pl/" target="_blank">Scrum Days Poland</a></li>
 			</ul>
 		</div>
 	</div>
