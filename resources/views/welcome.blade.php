@@ -43,7 +43,7 @@
             <div class="col-md-offset-2 col-md-8 text-center">
             <h2>Scrum Day Bandung 2018 is Different!</h2>
             <p>
-                Scrum Day Bandung 2018 will be <em>more than just a conference</em>. We think it is a national gathering for change agents in software development ecosystem. Just like the previous edition, people from all over the country will attend the event with one common reason: <strong>to make a positive change in the software development ecosystem</strong>. We have delivered the first edition beyond everyone's expectation. Scrum Day Bandung 2018 will be bigger and better than the previous edition. We have learned and have taken attendees feedbacks seriously.
+                Scrum Day Bandung 2018 will be <em>more than just a conference</em>. It will be a national gathering for change agents in software development ecosystem. Just like the previous edition, people from all over the country will attend the event with one common reason: <strong>to make a positive change in the software development ecosystem</strong>. We have delivered the first edition beyond everyone's expectation and our own expectation. We are excited to make Scrum Day Bandung 2018 to be bigger and better than the previous edition. We have learned and have taken attendees feedbacks seriously. We are currently working hard to ensure that change is really happening in the software development ecosystem so we all can get benefit from it.
             </p>
             </div>
         </div>

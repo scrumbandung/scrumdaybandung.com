@@ -60,7 +60,8 @@
                 <h4>About</h4>
                 <ul>
                     <li><a href="{{ route('about-event', ['locale' => 'en']) }}">The Event</a></li>
-                    <li><a href="{{ route('about-team', ['locale' => 'en']) }}">The Scrum Team</a></li>  
+                    <li><a href="{{ route('about-team', ['locale' => 'en']) }}">The Scrum Team</a></li> 
+                    <li><a href="{{ route('preconf', ['locale' => 'id']) }}">Pre-conference</a></li> 
                 </ul>
               </div>
               <div class="col-sm-12">
