@@ -4,10 +4,11 @@
 
 @section('content')
 
+<img src="/img/Preconf_SDB_2018.png" alt="Scrum Day Bandung 2018 Pre-conference" class="img-responsive"  />
+
 <div id="resources" class="container push-top">
 	<div class="row">
 		<div class="col-md-12">
-			<h1 class="page-header">Scrum Day Bandung 2018 Pre-conference</h1>
 
 			<p>Kami sudah belajar banyak dari edisi pertama Scrum Day Bandung. Kami ingin mempersempit kesenjangan pengetahuan tentang Scrum antara kota-kota di Indonesia dan memberi lebih banyak kesempatan kepada banyak orang untuk dapat mengikuti workshop simulasi Scrum. Oleh karena itu kami akan melibatkan komunitas Scrum lokal yang akan menjadi penyelenggara dalam mengadakan Pre-conference Scrum Day Bandung 2018. Berbeda dengan edisi pertama, Pre-conference Scrum Day Bandung 2018 akan diadakan di masing-masing kota di Indonesia. Semangat Scrum Day Bandung 2018 adalah <em>dari komunitas untuk komunitas</em>.
 			</p> 
