@@ -23,7 +23,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/"></a>
+          <!--a class="navbar-brand" href="/"></a-->
         </div>
         <div id="navbar" class="navbar-collapse collapse">          
             <ul class="nav navbar-nav" data-dropdown-menu>
@@ -44,6 +44,7 @@
                         <li><a href="{{ route('faq', ['locale' => 'en']) }}">F.A.Q</a></li>             
                     </ul>
                 </li>
+                <li><a href="{{ route('preconf', ['locale' => 'id']) }}">Pre-conference</a></li>
             </ul>
         </div>
       </div>
@@ -59,7 +60,8 @@
                 <h4>About</h4>
                 <ul>
                     <li><a href="{{ route('about-event', ['locale' => 'en']) }}">The Event</a></li>
-                    <li><a href="{{ route('about-team', ['locale' => 'en']) }}">The Scrum Team</a></li>  
+                    <li><a href="{{ route('about-team', ['locale' => 'en']) }}">The Scrum Team</a></li> 
+                    <li><a href="{{ route('preconf', ['locale' => 'id']) }}">Pre-conference</a></li> 
                 </ul>
               </div>
               <div class="col-sm-12">

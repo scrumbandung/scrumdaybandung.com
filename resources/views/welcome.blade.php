@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('title', 'National Scrum Gathering for like minded people')
+@section('title', 'National Gathering for Change Agents in Software Ecosystem')
 
 @section('content')
 
@@ -37,11 +37,23 @@
         </div>
     </div>
 -->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-2 col-md-8 text-center">
+            <h2>Scrum Day Bandung 2018 is Different!</h2>
+            <p>
+                Scrum Day Bandung 2018 will be <em>more than just a conference</em>. It will be a national gathering for change agents in software development ecosystem. Just like the previous edition, people from all over the country will attend the event with one common reason: <strong>to make a positive change in the software development ecosystem</strong>. We have delivered the first edition beyond everyone's expectation and our own expectation. We are excited to make Scrum Day Bandung 2018 to be bigger and better than the previous edition. We have learned and have taken attendees feedbacks seriously. We are currently working hard to ensure that change is really happening in the software development ecosystem so we all can get benefit from it.
+            </p>
+            </div>
+        </div>
+    </div>
+    <hr/>
     <div id="event" class="container push-top">
         <div class="row">
             <div class="col-md-6">
                 <h3>What is Scrum Day Bandung</h3>
-                <p>In brief, Scrum Day Bandung 2018 is an exclusive and intense 1-day business agility &amp; modern management with Scrum framework conference specifically for corporate leaders and managers. It will be the 2nd series of Scrum Day Bandung. Scrum Day Bandung 2018 will be <em>more than just a conference</em>. We think it is a national gathering for like minded people who wish to make a change in management. Scrum Day Bandung is one of that event in 2018 you do not want to miss. [&nbsp;<a href="{{ route('about-event', ['locale' => 'en']) }}">Read More <span class="fa fa-arrow-right"></span></a></a>&nbsp;]
+                <p>In brief, Scrum Day Bandung 2018 is an exclusive and intense 1-day conference about business agility &amp; modern management with Scrum framework. The conference is targetted specifically for corporate leaders and managers. It will be the 2nd edition of Scrum Day Bandung. Scrum Day Bandung is one of that event in 2018 you do not want to miss. [&nbsp;<a href="{{ route('about-event', ['locale' => 'en']) }}">Read More <span class="fa fa-arrow-right"></span></a></a>&nbsp;]
                 </p>
                 <h3>Theme</h3>
                 <p>Business Agility through Servant Leadership</p>

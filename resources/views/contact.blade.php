@@ -18,7 +18,7 @@
             @endif
 
 			<h1>Contact Us</h1>
-			<p>Have you got any enquiries for us? Give us a buzz. Registration is already closed, but we still accept limited number of people. Please use the form below to register.</p>
+			<p>Have you got any enquiries for us? Give us a buzz. Registration for Scrum Day Bandung 2018 will be opened in Q4 2017.</p>
 
 	        <form id="contact_form" method="post" action="/contact">
 	          <input type="hidden" name="_token" value="{{ csrf_token() }}">
@@ -46,8 +46,8 @@
 	            <fieldset class="form-group">
                     <label for="delivery_method">@lang('contact.subject') (*)</label>
                     <select class="form-control" name="subject">
-                    	<option value="@lang('contact.reg.enquiries')">@lang('contact.reg.enquiries')</option>
-                    	<option value="@lang('contact.reg.preconf')">@lang('contact.reg.preconf')</option>
+                    	<!--option value="@lang('contact.reg.enquiries')">@lang('contact.reg.enquiries')</option-->
+                    	<option value="@lang('contact.preconf')">@lang('contact.preconf')</option>
                     	<option value="@lang('contact.hotel.special.price')">@lang('contact.hotel.special.price')</option>
                         <option value="@lang('contact.req.sponsor')">@lang('contact.req.sponsor')</option>
                         <option value="@lang('contact.req.media')">@lang('contact.req.media')</option>
