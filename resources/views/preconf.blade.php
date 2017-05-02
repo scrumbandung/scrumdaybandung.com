@@ -38,6 +38,7 @@
 			</p> 
 
 			<h2>Jadwal Pre-conference Workshop</h2>
+			<!--
 			<div class="table-responsive">
 			<table class="table table-striped" width="100%">
 			  <tr>
@@ -58,6 +59,7 @@
 			  </tr>
 			</table>
 			</div>
+			-->
 		</div>
 	</div>
 </div>
