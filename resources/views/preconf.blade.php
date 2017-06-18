@@ -65,6 +65,14 @@
 			  	<td>TBD</td>
 			  	<td>TBD</td>
 			  </tr>
+			  <tr>
+			  	<td>2 September 2017 (08:00 WIB - selesai)</td>
+			  	<td>Surabaya, Jawa Timur</td>
+			  	<td>Scrum Chapter Surabaya</td>
+			  	<td>TBD</td>
+			  	<td>TBD</td>
+			  	<td>TBD</td>
+			  </tr>
 			</table>
 			</div>
 			
