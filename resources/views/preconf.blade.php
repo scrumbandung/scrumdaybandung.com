@@ -38,11 +38,11 @@
 			</p> 
 
 			<h2>Jadwal Pre-conference Workshop</h2>
-			<!--
+			
 			<div class="table-responsive">
 			<table class="table table-striped" width="100%">
 			  <tr>
- 				<th>Tanggal</th>
+ 				<th>Tanggal &amp; Waktu</th>
  				<th>Kota</th>
  				<th>Penyelenggara</th>
  				<th>Biaya</th>
@@ -50,16 +50,24 @@
  				<th>Kontak</th>
 			  </tr>
 			  <tr>
-			  	<td>30 April 2017</td>
-			  	<td>Malang, Jawa Timur</td>
-			  	<td>Scrum Chapter Malang</td>
-			  	<td>Rp. 300,000,-</td>
-			  	<td>Terra Building Lt. 3. Jl. Terusan Candi Mendut</td>
-			  	<td>Disyam (+628113654829)</td>
+			  	<td>29 Juli 2017 (08:00 WITA - selesai)</td>
+			  	<td>Makassar, Sulawesi Selatan</td>
+			  	<td>Scrum Chapter Makassar</td>
+			  	<td>Rp. 600,000,-</td>
+			  	<td>Tree Hotel Makassar</td>
+			  	<td><a href="https://web.facebook.com/events/236932073465152">Ricky (+62813 5555 3758)</a></td>
+			  </tr>
+			  <tr>
+			  	<td>5 Agustus 2017 (08:00 WIB - selesai)</td>
+			  	<td>Yogyakarta</td>
+			  	<td>Scrum Chapter Jogja</td>
+			  	<td>TBD</td>
+			  	<td>TBD</td>
+			  	<td>TBD</td>
 			  </tr>
 			</table>
 			</div>
-			-->
+			
 		</div>
 	</div>
 </div>
