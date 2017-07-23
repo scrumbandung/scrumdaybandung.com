@@ -10,9 +10,12 @@
 			<h1 class="page-header">Who are we</h1>
 			<p>
 			    In mid September 2016 some of us met at a local cafe in Bandung driven by a common purpose that is to develop an ideal Software Development ecosystem in Bandung. Initially we met just to learn how to use Scrum at our workplaces. But after a few hours of discussion we saw something bigger, that is to create an ideal software development ecosystem in Bandung by actively sharing the Scrum practices that we have practiced at our workplace with each other. We believe by supporting each other's journey in using Scrum, we are moving closer towards our dream. From the conversation we had there we decided to initiate Scrum Bandung community and become the torch bearer for software development community that emphasizes agility and professionalism in Indonesia. 
-			</p>
+			</p><!--
 			<p>
 				Scrum Chapter Bandung is a community of Software Development Practitioners, university students and lecturers who are keen to learn and use Scrum to help us reach our mission to create an ideal software development ecosystem. 
+			</p> -->
+			<p>
+			We are a group of people who are passionate about people and Scrum. We are care about people and how Scrum improves people's life. We'd like to share our passion throughout the nation through an national event called Scrum Day Bandung. Scrum Day Bandung is owned by everyone who have the same passion like us. We are purely community driven and not taking any economic advantage from the movement.
 			</p>
 			<p>
 				You can either be a profit driven organisation or a mission driven organisation, but not both. We are a non-profit organisation with an ultimate mission. Our ultimate mission is to develop an ideal Software Development Ecosystem where:

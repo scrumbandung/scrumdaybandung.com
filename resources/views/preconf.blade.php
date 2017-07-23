@@ -53,24 +53,24 @@
 			  	<td>29 Juli 2017 (08:00 WITA - selesai)</td>
 			  	<td>Makassar, Sulawesi Selatan</td>
 			  	<td>Scrum Chapter Makassar</td>
-			  	<td>Rp. 600,000,-</td>
+			  	<td>Rp. 350,000,-</td>
 			  	<td>Tree Hotel Makassar</td>
 			  	<td><a href="https://web.facebook.com/events/236932073465152">Ricky (+62813 5555 3758)</a></td>
 			  </tr>
 			  <tr>
-			  	<td>5 Agustus 2017 (08:00 WIB - selesai)</td>
-			  	<td>Yogyakarta</td>
-			  	<td>Scrum Chapter Jogja</td>
-			  	<td>TBD</td>
-			  	<td>TBD</td>
-			  	<td>TBD</td>
-			  </tr>
-			  <tr>
-			  	<td>2 September 2017 (08:00 WIB - selesai)</td>
+			  	<td>26 Agustus 2017 (08:00 WIB - selesai)</td>
 			  	<td>Surabaya, Jawa Timur</td>
 			  	<td>Scrum Chapter Surabaya</td>
-			  	<td>TBD</td>
-			  	<td>TBD</td>
+			  	<td>Rp. 200,000,-</td>
+			  	<td>Gerdhu</td>
+			  	<td><a href="http://bit.ly/workshopscrumsby2017">Faza (0878 511 22865)</a></td>
+			  </tr>
+			  <tr>
+			  	<td>29 September 2017 (08:00 WIB - selesai)</td>
+			  	<td>Medan, Sumatera Utara</td>
+			  	<td>Scrum Chapter Medan</td>
+			  	<td>Rp. 250,000,-</td>
+			  	<td>Universitas Pelita Harapan</td>
 			  	<td>TBD</td>
 			  </tr>
 			</table>
