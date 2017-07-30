@@ -50,14 +50,6 @@
  				<th>Kontak</th>
 			  </tr>
 			  <tr>
-			  	<td>29 Juli 2017 (08:00 WITA - selesai)</td>
-			  	<td>Makassar, Sulawesi Selatan</td>
-			  	<td>Scrum Chapter Makassar</td>
-			  	<td>Rp. 350,000,-</td>
-			  	<td>Tree Hotel Makassar</td>
-			  	<td><a href="https://web.facebook.com/events/236932073465152">Ricky (+62813 5555 3758)</a></td>
-			  </tr>
-			  <tr>
 			  	<td>26 Agustus 2017 (08:00 WIB - selesai)</td>
 			  	<td>Surabaya, Jawa Timur</td>
 			  	<td>Scrum Chapter Surabaya</td>

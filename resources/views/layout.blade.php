@@ -7,7 +7,7 @@
         <meta name="description" content="Scrum Day Bandung is a business agility and modern management conference using Scrum as its management framework brought to you by Scrum Bandung community. OUr mission is to bring agility and professionalism into software development ecosystem in Indonesia. Pre-conference Scrum Training is also available for Scrum newbies." >
         <meta name="csrf-token" content="{{ csrf_token() }}" />
         <meta name="google-site-verification" content="YxougGVxw7Ijf6vnhM68HlUD7nX3pNH1ryw3y-RbG9I" />
-        <title>Scrum Day Bandung 2018 - @yield('title')</title>
+        <title>@yield('title') | Scrum Day Bandung 2018</title>
 
         <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png">
         <link href="/css/app.css" rel="stylesheet" />
@@ -46,6 +46,7 @@
                     </ul>
                 </li>
                 <li><a href="{{ route('preconf', ['locale' => 'id']) }}">Pre-conference</a></li>
+                <li><a href="{{ route('call-for-presentation', ['locale' => 'en']) }}">Call for Presentation</a></li>
             </ul>
         </div>
       </div>

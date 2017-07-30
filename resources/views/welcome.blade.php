@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('title', 'National Gathering for Change Agents in Software Ecosystem')
+@section('title', 'Gathering for Change Agents in Software Development Ecosystem')
 
 @section('content')
 

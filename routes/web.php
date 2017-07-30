@@ -63,6 +63,14 @@ Route::get('/{locale}/contact', function ($locale) {
 	return view('contact');
 })->name('contact');
 
+Route::get('/{locale}/call-for-presentation', function ($locale) {
+	App::setLocale($locale);
+
+	return view('call-for-presentation');
+})->name('call-for-presentation');
+
+
+
 Route::get('/{locale}/faq', function ($locale) {
 	App::setLocale($locale);
 
