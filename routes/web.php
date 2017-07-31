@@ -69,7 +69,7 @@ Route::get('/{locale}/call-for-presentation', function ($locale) {
 	return view('call-for-presentation');
 })->name('call-for-presentation');
 
-
+Route::post('/submit-presentation', "Controller@submit_presentation")->name('submit_presentation');;
 
 Route::get('/{locale}/faq', function ($locale) {
 	App::setLocale($locale);

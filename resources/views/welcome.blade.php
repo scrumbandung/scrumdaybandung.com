@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('title', 'Gathering for Change Agents in Software Development Ecosystem')
+@section('title', 'Regional Gathering for Change Agents in Software Development Ecosystem')
 
 @section('content')
 
@@ -40,10 +40,16 @@
 
     <div class="container">
         <div class="row">
+
+            <div class="jumbotron text-center">
+                <h1>We are calling for presentation</h1>
+                <p>Please check our <a href="{{ route('call-for-presentation', ['locale' => 'en']) }}">submission page</a> if you have something impactful to deliver to the audience.</p>
+            </div>
+
             <div class="col-md-offset-2 col-md-8 text-center">
             <h2>Scrum Day Bandung 2018 is Different!</h2>
             <p>
-                Scrum Day Bandung 2018 will be <em>more than just a conference</em>. It will be a national gathering for change agents in software development ecosystem. Just like the previous edition, people from all over the country will attend the event with one common reason: <strong>to make a positive change in the software development ecosystem</strong>. We have delivered the first edition beyond everyone's expectation and our own expectation. We are excited to make Scrum Day Bandung 2018 to be bigger and better than the previous edition. We have learned and have taken attendees feedbacks seriously. We are currently working hard to ensure that change is really happening in the software development ecosystem so we all can get benefit from it.
+                Scrum Day Bandung 2018 will be <em>more than just a conference</em>. It will be a regional gathering for change agents in software development ecosystem. Just like the previous edition, people from all over South East Asia will attend the event for one reason: <strong>to make a change in the software development ecosystem</strong>. We have delivered the first edition beyond everyone's expectation and our own expectation. We are excited to make Scrum Day Bandung 2018 to be bigger and better than the previous edition. We have learned and have taken attendees feedbacks seriously. We are currently working hard to ensure that change is really happening in the software development ecosystem in South East Asia so we all can get benefit from it.
             </p>
             <h3>#ScrumDayBdg2018</h3>
             </div>
