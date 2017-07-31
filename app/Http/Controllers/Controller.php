@@ -30,4 +30,18 @@ class Controller extends BaseController
 
     	return redirect('/en/contact')->with('status', trans('contact.thanks.message'));
     }
+
+    public function submit_presentation(Request $request){
+        
+        $this->validate($request, [
+            'fullname' => 'required',
+            'email' => 'required|email',
+        ]);
+
+        $req = $request->all();
+        
+        //Mail::to($req['email'], $req['fullname'])->send(new Contact($req));
+
+        return redirect('/en/call-for-presentation')->with('status', trans('contact.thanks.message'));
+    }
 }

@@ -19,9 +19,9 @@
               </div>
             @endif
 
-			<h1>Call for Presentation</h1>
-
 			<div class="col-md-12">
+				<h1>Call for Presentation</h1>
+
 				<p>Thank you for landing to this page and considering our conference for you to send your message that will change the way people in software development work together. We are one of a few agile conference in the region that still have the idealism to keep commercials factors out of the conference so that we can reach our vision to make an impact in software development ecosystem in South East Asia. Scrum Day Bandung is organised independently by a group of Scrum professionals in Indonesia who are passionate in making a change in the software development ecosystem. We want to make sure that every speakers who will be on the platform have the freedom to speak out the brutal truths to the audience. The organiser of Scrum Day Bandung are not looking for marketers &amp; methodologists, we are looking for change agents who will make an impact in software development ecosystem in South East Asia. If you think you are one of that person, please fill out the form below and send us your presentation for us to assess.
 				</p>
 
@@ -48,7 +48,8 @@
 
 			</div>
 	
-	        <form id="contact_form" class="form-horizontal" method="post" action="/submit-presentation">
+			<div class="panel panel-default">
+	        <form id="contact_form" class="form-horizontal panel-body" method="post" action="/submit-presentation">
 	          <input type="hidden" name="_token" value="{{ csrf_token() }}">
 	          <div class="col-md-12">
 
@@ -144,7 +145,7 @@
 	          </div>
 
 	        </form>
-
+	        </div>
 
 	        <h2>Programme Committee</h2>
 	        <div>
@@ -154,78 +155,78 @@
 
 	        <div class="col-md-12">
 	        	<div class="row">
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
 							<img class="img-responsive img-circle" src="/img/committee/Jiorutte.png" alt="Jiorutte Banjarnahor" />
 
 							<p class="caption text-center">Jiorutte Banjarnahor</p>
 						</div>
 					</div>
-					<div class="col-md-2">
+					<div class="col-md-3">
 						<div class="thumbnail">
 							<img class="img-responsive img-circle" src="/img/committee/Kevin.png" alt="Kevin Kane" />
 						
 							<p class="caption text-center">Kevin Kane</p>
 						</div>
 			        </div>
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
-							<img class="img-responsive img-circle" src="http://placehold.it/150x150?text=Gesit" alt="Gesit Prasasti Alam" />
+							<img class="img-responsive img-circle" src="http://placehold.it/200x200?text=Gesit" alt="Gesit Prasasti Alam" />
 
 							<p class="caption text-center">Gesit Prasasti Alam</p>
 						</div>
 			        </div>
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
-							<img class="img-responsive img-circle" src="http://placehold.it/150x150?text=Fenny" alt="Fenny Valentina" />
+							<img class="img-responsive img-circle" src="http://placehold.it/200x200?text=Fenny" alt="Fenny Valentina" />
 
 							<p class="caption text-center">Fenny Valentina</p>
 						</div>
 			        </div>
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
 							<img class="img-responsive img-circle" src="/img/committee/Melvin.png" alt="Melvin Sumapung" />
 
 							<p class="caption text-center">Melvin Sumapung</p>
 						</div>
 			        </div>
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
-							<img class="img-responsive img-circle" src="http://placehold.it/150x150?text=Edo" alt="Edo Suryo Pamungkas" />
+							<img class="img-responsive img-circle" src="http://placehold.it/200x200?text=Edo" alt="Edo Suryo Pamungkas" />
 
 							<p class="caption text-center">Edo Pamungkas</p>
 						</div>
 			        </div>
 			        
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
 							<img class="img-responsive img-circle" src="/img/committee/Hussein.jpg" alt="Muhammad Hussein" />
 
 							<p class="caption text-center">Muhammad Hussein</p>
 						</div>
 			        </div>
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
 							<img class="img-responsive img-circle" src="/img/committee/Pepe.png" alt="Artanto Ishaam" />
 
 							<p class="caption text-center">Artanto Ishaam</p>
 						</div>
 			        </div>
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
 							<img class="img-responsive img-circle" src="/img/committee/Agung.jpg" alt="Agung Firdaus" />
 
 							<p class="caption text-center">Agung Firdaus</p>
 						</div>
 			        </div>
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
 							<img class="img-responsive img-circle" src="/img/committee/Aditya.png" alt="Agung Firdaus" />
 
 							<p class="caption text-center">Aditya Suryomurtjito</p>
 						</div>
 			        </div>
-			        <div class="col-md-2">
+			        <div class="col-md-3">
 			        	<div class="thumbnail">
 							<img class="img-responsive img-circle" src="/img/committee/Adhitya.jpg" alt="Agung Firdaus" />
 
