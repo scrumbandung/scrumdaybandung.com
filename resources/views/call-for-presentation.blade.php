@@ -22,7 +22,7 @@
 			<div class="col-md-12">
 				<h1>Call for Presentation</h1>
 
-				<p>Thank you for landing to this page and considering our conference for you to send your message that will change the way people in software development work together. Scrum Day Bandung is where great minds come together. We are one of a few agile conference in the region that still have the idealism to keep commercials factors out of the conference so that we can reach our vision to make an impact in software development ecosystem in South East Asia. We are not profit driven, we are mission driven. Scrum Day Bandung is organised independently by a group of Scrum professionals in Indonesia who are passionate in making a change in the software development ecosystem. We want to make sure that every speakers who will be on the platform have the freedom to speak out the brutal truths to the audience. The organiser of Scrum Day Bandung are not looking for marketers &amp; methodologists, we are looking for change agents who will make an impact in software development ecosystem in South East Asia. If you think you are one of that person, please fill out the form below and send us your presentation for us to consider.
+				<p>Thank you for landing to this page and considering our conference for you to send your message that will change the way people in software development work together. Scrum Day Bandung is where great minds come together. We are one of a few agile conference in the region that still have the idealism to keep commercials factors out of the conference so that we can reach our vision to make an impact in software development ecosystem in South East Asia. We are not profit driven, we are mission driven. Scrum Day Bandung is organised independently by a committee of Scrum professionals in Indonesia who are passionate in making a change in the software development ecosystem. We want to make sure that every speakers who will be on the platform have the freedom to speak out the brutal truths to the audience. The organiser of Scrum Day Bandung are not looking for marketers &amp; methodologists, we are looking for change agents who will make an impact in software development ecosystem in South East Asia. If you think you are one of that person, please fill out the form below and send us your presentation for us to consider.
 				</p>
 
 				<p>
@@ -31,7 +31,7 @@
 					<li>No sales &amp; no marketing about your brand or your product. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>You are not allowed to use your opportunity on the stage for hiring people. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>Your presentation must relate to Scrum. You can talk about any other Agile practices but you must explain how the Agile practice fits within the Scrum framework.</li>
-					<li>Make sure the Scrum mechanics, values and principles is according to <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with your own version of Scrum.</li>	
+					<li>Make sure the Scrum mechanics, values and principles in your presentation is according to <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with your own version of Scrum.</li>	
 					<li>No Scrum basics. We only want high quality talks. If it's revolutionary, we would like to hear it. We're looking for a talk where the Scrum framework can be exploited to increase organisation's Agility.</li>							
 				</ul>
 				</p>
@@ -149,7 +149,7 @@
 
 	        <h2>Programme Committee</h2>
 	        <div>
-	        	The program committee are experienced Scrum professionals with specific interests. The members of the committee does not represent any brand or any company and does not have any vested interests. The program committee are independent, objective, neutral, unbiased and sterile from any external influences to ensure that only the highest quality talks gets selected for the conference. The committee have the full rights to reject any talks that does not meet their criteria.
+	        	The programme committee consists of experienced Scrum professionals with specific interests in certain Scrum knowledge areas. The members of the committee does not represent any brand or any company and does not have any vested interests. The program committee are independent, objective, neutral, unbiased and sterile from any external influences to ensure that only the highest quality talks gets selected for the conference. The committee have the full rights to reject any talks that does not meet their criteria.
 	        </div>
 	        <br/>
 
@@ -171,14 +171,14 @@
 			        </div>
 			        <div class="col-md-3">
 			        	<div class="thumbnail">
-							<img class="img-responsive img-circle" src="http://placehold.it/200x200?text=Gesit" alt="Gesit Prasasti Alam" />
+							<img class="img-responsive img-circle" src="/img/committee/Gesit.jpg" alt="Gesit Prasasti Alam" />
 
 							<p class="caption text-center">Gesit Prasasti Alam</p>
 						</div>
 			        </div>
 			        <div class="col-md-3">
 			        	<div class="thumbnail">
-							<img class="img-responsive img-circle" src="http://placehold.it/200x200?text=Fenny" alt="Fenny Valentina" />
+							<img class="img-responsive img-circle" src="/img/committee/Fenny.jpg" alt="Fenny Valentina" />
 
 							<p class="caption text-center">Fenny Valentina</p>
 						</div>
