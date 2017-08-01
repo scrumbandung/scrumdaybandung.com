@@ -65,7 +65,7 @@ Here are the information we have received from you:
 </p>
 
 <p>
-Bear with us as we are assessing your presentation amongst the many others we have received. We will announce our decision around mid-November.
+Bear with us as we are assessing your presentation amongst the many others we have received. We will announce our decision around mid-November 2017.
 </p>
 
 <div>

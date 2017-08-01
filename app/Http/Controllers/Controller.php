@@ -50,6 +50,6 @@ class Controller extends BaseController
         
         Mail::to($req['email'], $req['fullname'])->send(new CallForPresent($req));
 
-        return redirect('/en/call-for-presentation')->with('status', trans('contact.thanks.message'));
+        return redirect('/en/call-for-presentation')->with('status', trans('contact.cfp.thanks.message');
     }
 }
