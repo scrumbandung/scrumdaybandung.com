@@ -120,7 +120,7 @@
 				<fieldset class="form-group">
 	              <label for="message">@lang('contact.message') (*)</label><br/>
 	              
-	              <textarea class="form-control" rows="3" name="message"></textarea>
+	              <textarea class="form-control" rows="3" name="what"></textarea>
 	            </fieldset>
 
 				<fieldset class="form-group">

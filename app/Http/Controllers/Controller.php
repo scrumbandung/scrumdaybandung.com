@@ -41,7 +41,7 @@ class Controller extends BaseController
             'about' => 'required|max:140',
             'talk' => 'required',
             'track' => 'required',
-            'message' => 'required',
+            'what' => 'required',
             'why' => 'required',
             'change' => 'required',
         ]);
@@ -50,6 +50,6 @@ class Controller extends BaseController
         
         Mail::to($req['email'], $req['fullname'])->send(new CallForPresent($req));
 
-        return redirect('/en/call-for-presentation')->with('status', trans('contact.cfp.thanks.message');
+        return redirect('/en/call-for-presentation')->with('status', trans('contact.cfp.thanks.message'));
     }
 }

@@ -45,7 +45,7 @@ Here are the information we have received from you:
 <p>
 <strong>The message you want to send to the audience:</strong><br/>
 
-{{ $message }}
+{{ $what }}
 
 </p>
 

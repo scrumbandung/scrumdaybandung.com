@@ -43,7 +43,7 @@ class CallForPresent extends Mailable
                         'about' => $this->contact['about'],
                         'talk' => $this->contact['talk'],
                         'track' => $this->contact['track'],
-                        'message' => $this->contact['message'],
+                        'what' => $this->contact['what'],
                         'why' => $this->contact['why'],
                         'change' => $this->contact['change'],
                     ]);
