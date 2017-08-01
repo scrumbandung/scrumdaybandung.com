@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Mail\Contact;
+use App\Mail\CallForPresent;
 
 use Illuminate\Http\Request;
 use Illuminate\Foundation\Bus\DispatchesJobs;
@@ -36,11 +36,19 @@ class Controller extends BaseController
         $this->validate($request, [
             'fullname' => 'required',
             'email' => 'required|email',
+            'linkedin' => 'required',
+            'twitter' => 'required',
+            'about' => 'required|max:140',
+            'talk' => 'required',
+            'track' => 'required',
+            'message' => 'required',
+            'why' => 'required',
+            'change' => 'required',
         ]);
 
         $req = $request->all();
         
-        //Mail::to($req['email'], $req['fullname'])->send(new Contact($req));
+        Mail::to($req['email'], $req['fullname'])->send(new CallForPresent($req));
 
         return redirect('/en/call-for-presentation')->with('status', trans('contact.thanks.message'));
     }

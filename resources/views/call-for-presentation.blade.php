@@ -22,7 +22,7 @@
 			<div class="col-md-12">
 				<h1>Call for Presentation</h1>
 
-				<p>Thank you for landing to this page and considering our conference for you to send your message that will change the way people in software development work together. We are one of a few agile conference in the region that still have the idealism to keep commercials factors out of the conference so that we can reach our vision to make an impact in software development ecosystem in South East Asia. Scrum Day Bandung is organised independently by a group of Scrum professionals in Indonesia who are passionate in making a change in the software development ecosystem. We want to make sure that every speakers who will be on the platform have the freedom to speak out the brutal truths to the audience. The organiser of Scrum Day Bandung are not looking for marketers &amp; methodologists, we are looking for change agents who will make an impact in software development ecosystem in South East Asia. If you think you are one of that person, please fill out the form below and send us your presentation for us to assess.
+				<p>Thank you for landing to this page and considering our conference for you to send your message that will change the way people in software development work together. Scrum Day Bandung is where great minds come together. We are one of a few agile conference in the region that still have the idealism to keep commercials factors out of the conference so that we can reach our vision to make an impact in software development ecosystem in South East Asia. We are not profit driven, we are mission driven. Scrum Day Bandung is organised independently by a group of Scrum professionals in Indonesia who are passionate in making a change in the software development ecosystem. We want to make sure that every speakers who will be on the platform have the freedom to speak out the brutal truths to the audience. The organiser of Scrum Day Bandung are not looking for marketers &amp; methodologists, we are looking for change agents who will make an impact in software development ecosystem in South East Asia. If you think you are one of that person, please fill out the form below and send us your presentation for us to consider.
 				</p>
 
 				<p>
@@ -32,12 +32,12 @@
 					<li>You are not allowed to use your opportunity on the stage for hiring people. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>Your presentation must relate to Scrum. You can talk about any other Agile practices but you must explain how the Agile practice fits within the Scrum framework.</li>
 					<li>Make sure the Scrum mechanics, values and principles is according to <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with your own version of Scrum.</li>	
-					<li>No Scrum basics. We only want high quality talks. If it's revolutionary, we would like to hear it.</li>							
+					<li>No Scrum basics. We only want high quality talks. If it's revolutionary, we would like to hear it. We're looking for a talk where the Scrum framework can be exploited to increase organisation's Agility.</li>							
 				</ul>
 				</p>
 
 				<p>
-				Your presentation will go through a rigorous process and will be assessed by a group of Scrum professionals. Here are the schedule for the submission and announcement:
+				Your presentation will go through a rigorous process and will be assessed by a group of Scrum professionals. Here is the schedule for the submission and announcement:
 				<ul>
 				<li><strong>Call for presentation</strong>: Early August 2017</li>
 				<li><strong>Submission closed</strong>: October 31st 2017</li>
@@ -85,13 +85,13 @@
 				<fieldset class="form-group">
 	              <label for="about">@lang('contact.about') (*)</label><br/>
 	              
-	              <textarea class="form-control" rows="3"></textarea>
+	              <textarea class="form-control" rows="2" name="about"></textarea>
 	            </fieldset>
 
 	            <fieldset class="form-group">
 	              <label for="talk">@lang('contact.talk') (*)</label><br/>
 	              
-	              <textarea class="form-control" rows="3"></textarea>
+	              <textarea class="form-control" rows="3" name="talk"></textarea>
 	            </fieldset>
 
 	            <fieldset class="form-group">
@@ -99,19 +99,19 @@
 
 	            	<div class="radio">
 					  <label>
-					    <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1">
+					    <input type="radio" name="track" id="optionsRadios1" value="product">
 					    Product Management &amp; Business Agility (Product Owner subject areas)
 					  </label>
 					</div>
 					<div class="radio">
 					  <label>
-					    <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+					    <input type="radio" name="track" id="optionsRadios2" value="people">
 					    People, Coaching &amp; Servant Leadership (Scrum Master subject areas)
 					  </label>
 					</div>
 					<div class="radio">
 					  <label>
-					    <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+					    <input type="radio" name="track" id="optionsRadios2" value="technical">
 					    Software Craftmanship &amp; Technical Excellence (Development Team subject areas)
 					  </label>
 					</div>
@@ -120,25 +120,25 @@
 				<fieldset class="form-group">
 	              <label for="message">@lang('contact.message') (*)</label><br/>
 	              
-	              <textarea class="form-control" rows="3"></textarea>
+	              <textarea class="form-control" rows="3" name="message"></textarea>
 	            </fieldset>
 
 				<fieldset class="form-group">
 	              <label for="why">@lang('contact.talk.why') (*)</label><br/>
 	              
-	              <textarea class="form-control" rows="3"></textarea>
+	              <textarea class="form-control" rows="3" name="why"></textarea>
 	            </fieldset>
 
 	            <fieldset class="form-group">
 	              <label for="impact">@lang('contact.impact') (*)</label><br/>
 	              
-	              <textarea class="form-control" rows="3"></textarea>
+	              <textarea class="form-control" rows="3" name="change"></textarea>
 	            </fieldset>
 
 				<fieldset class="form-group">
-				    <label for="exampleInputFile">Presentation File</label>
-				    <input type="file" id="exampleInputFile">
-				    <p class="help-block">Please attach your presentation file in .pptx for us to review.</p>
+				    <label for="exampleInputFile">Draft Presentation File</label>
+				    <input type="file" id="exampleInputFile" name="presentation">
+				    <p class="help-block">Please attach your draft presentation file in .pptx for us to assess.</p>
 				</fieldset>
 
 				<input type="submit"/>
@@ -149,7 +149,7 @@
 
 	        <h2>Programme Committee</h2>
 	        <div>
-	        	The program committee are experienced Scrum professionals with specific interests. The program committee are independent, objective, neutral, unbiased and sterile from any external influences to ensure that only the highest quality talks gets selected for the conference. The committee have the full rights to reject any talks that does not match their criteria.
+	        	The program committee are experienced Scrum professionals with specific interests. The members of the committee does not represent any brand or any company and does not have any vested interests. The program committee are independent, objective, neutral, unbiased and sterile from any external influences to ensure that only the highest quality talks gets selected for the conference. The committee have the full rights to reject any talks that does not meet their criteria.
 	        </div>
 	        <br/>
 
@@ -192,9 +192,9 @@
 			        </div>
 			        <div class="col-md-3">
 			        	<div class="thumbnail">
-							<img class="img-responsive img-circle" src="http://placehold.it/200x200?text=Edo" alt="Edo Suryo Pamungkas" />
+							<img class="img-responsive img-circle" src="/img/committee/Edo.jpg" alt="Edo Suryo Pamungkas" />
 
-							<p class="caption text-center">Edo Pamungkas</p>
+							<p class="caption text-center">Edo Suryo Pamungkas</p>
 						</div>
 			        </div>
 			        

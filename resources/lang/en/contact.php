@@ -15,7 +15,7 @@ return [
     'community' => 'What have you contributed to the agile software development community?',
     'track' => 'Which track would you like your talk to be in?',
     'message' => 'What message do you want the audience to hear during your session?',
-    'talk.why' => 'Why do you want the audience to hear your message? What problems do you see in the software development ecosystem right now?',
+    'talk.why' => 'Why do you want the audience to hear this message? What problems do you see in the software development ecosystem currently?',
     'impact' => 'What change do you expect the audience make in their organisation after attending your session?',
     'reg.enquiries' => 'Registration Enquiries',
     'preconf' => 'Scrum Day Bandung 2018 Pre-conference workshop',
