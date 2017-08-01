@@ -29,7 +29,7 @@ class CallForPresent extends Mailable
      */
     public function build()
     {
-        $emailto = "scrumdaybandung@gmail.com";
+        $emailto = "sdb2018pc@gmail.com";
 
         return $this->from($emailto)
                     ->cc($emailto)

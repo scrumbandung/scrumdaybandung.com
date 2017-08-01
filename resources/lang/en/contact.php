@@ -23,5 +23,5 @@ return [
     'req.media' => 'Request to become media partner',
     'hotel.special.price' => 'Special price for staying at Hotel',
     'thanks.message' => 'Thank you for the enquiries. We will get back to you as soon as possible.',
-    'contact.cfp.thanks.message' => 'Thank you for submitting your presentation. We will announce our decision on mid November 2017.'
+    'cfp.thanks.message' => 'Thank you for submitting your presentation. We will announce our decision on mid November 2017.'
 ];
