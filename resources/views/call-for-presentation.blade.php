@@ -22,22 +22,22 @@
 			<div class="col-md-12">
 				<h1>Call for Presentation</h1>
 
-				<p>Thank you for landing to this page and considering our conference for you to send your message that will change the way people in software development work together. Scrum Day Bandung is where great minds come together. We are one of a few agile conference in the region that still have the idealism to keep commercials factors out of the conference so that we can reach our vision to make an impact in software development ecosystem in South East Asia. We are not profit driven, we are mission driven. Scrum Day Bandung is organised independently by a committee of Scrum professionals in Indonesia who are passionate in making a change in the software development ecosystem. We want to make sure that every speakers who will be on the platform have the freedom to speak out the brutal truths to the audience. The organiser of Scrum Day Bandung are not looking for marketers &amp; methodologists, we are looking for change agents who will make an impact in software development ecosystem in South East Asia. If you think you are one of that person, please fill out the form below and send us your presentation for us to consider.
+				<p>Thank you for landing to this page and considering our conference for you to send your message that will change the way people in software development work together and deliver value to their customers. Scrum Day Bandung is where great minds come together. We are one of a few agile conference in the region that still have the idealism to keep commercials factors out of the conference so that we can reach our vision to make an impact in software development ecosystem in South East Asia. We are not profit driven, we are mission driven. Scrum Day Bandung is organised independently by a committee of Scrum professionals in Indonesia who are passionate in making a change in the software development ecosystem. We want to make sure that every speakers who will be on the platform have the freedom to speak out the brutal truths to the audience. The organiser of Scrum Day Bandung are not looking for marketers &amp; methodologists, we are looking for change agents and thought leaders who will make an impact in software development ecosystem in South East Asia. If you think you are one of that person, please fill out the form below and send us your presentation for us to consider.
 				</p>
 
 				<p>
 				<strong>Guidelines for your presentation:</strong>
 				<ul>
-					<li>No sales &amp; no marketing about your brand or your product but case study is encouraged.. The organiser will ban any speaker who does not respect this rule.</li>
+					<li>No sales &amp; no marketing about your brand or your product but case study is encouraged. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>You are not allowed to use your opportunity on the stage for hiring people. The organiser will ban any speaker who does not respect this rule.</li>
-					<li>Your presentation must relate to Scrum. You can talk about any other Agile practices but you must explain how the Agile practice fits within the Scrum framework.</li>
-					<li>Make sure the Scrum mechanics, values and principles in your presentation is according to <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with your own version of Scrum.</li>	
-					<li>No Scrum basics. We want high quality talks. If it's revolutionary, we would like to hear it. We're looking for a talk where the Scrum framework can be exploited to help organisations increase their Agility.</li>							
+					<li>Your presentation must relate to Scrum. You can talk about any other Agile practices but you must explain how the presented Agile practice fits within the Scrum framework.</li>
+					<li>Make sure the Scrum mechanics, values and principles in your presentation is aligned with <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with your own version of Scrum and fix their wrong understandings after the conference.</li>	
+					<li>No Scrum basics. We want high quality talks. If it's revolutionary, we would like to learn from you. People are attending the conference to hear something new. We're looking for a talk where the Scrum framework can be exploited to help organisations increase their Agility and bring the very best out of their people.</li>							
 				</ul>
 				</p>
 
 				<p>
-				Your presentation will go through a rigorous process and will be assessed by a group of Scrum professionals. Here is the schedule for the submission and announcement:
+				Your presentation will go through a rigorous process and will be assessed by a committee of Scrum professionals. Here is the schedule for the submission and announcement:
 				<ul>
 				<li><strong>Call for presentation</strong>: Early August 2017</li>
 				<li><strong>Submission closed</strong>: October 31st 2017</li>

@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Scrum Day Bandung is a business agility and modern management conference using Scrum as its management framework brought to you by Scrum Bandung community. OUr mission is to bring agility and professionalism into software development ecosystem in Indonesia. Pre-conference Scrum Training is also available for Scrum newbies." >
+        <meta name="description" content="Scrum Day Bandung is a business agility and modern management conference using Scrum as its management framework brought to you by Scrum Bandung community. Our sole mission is to bring agility and professionalism into software development ecosystem in South East Asia." >
         <meta name="csrf-token" content="{{ csrf_token() }}" />
         <meta name="google-site-verification" content="YxougGVxw7Ijf6vnhM68HlUD7nX3pNH1ryw3y-RbG9I" />
         <title>@yield('title') | Scrum Day Bandung 2018</title>
