@@ -30,8 +30,8 @@
 				<ul>
 					<li>No sales &amp; no marketing about your brand or your product but case study is encouraged. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>You are not allowed to use your opportunity on the stage for hiring people. The organiser will ban any speaker who does not respect this rule.</li>
-					<li>If you want to talk about any other Agile practices, explain to the audience how the presented Agile practice work together with Scrum framework.</li>
-					<li>Any Scrum terms used should the same with the terms used in <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with your own version of Scrum.</li>	
+					<li>If you want to talk about any other Agile practices, please explain to the audience how the presented Agile practice work together with Scrum framework.</li>
+					<li>Any Scrum terms used should the same with the terms used in <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with different version of Scrum.</li>	
 					<li>We want high quality talks. If it's revolutionary, we would like to learn from you. People are attending the conference to hear something new. We're looking for a talk where the Scrum framework can be exploited to help organisations increase their Agility and bring the very best out of their people.</li>							
 				</ul>
 				</p>

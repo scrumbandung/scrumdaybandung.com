@@ -64,6 +64,8 @@ Here are the information we have received from you:
 
 </p>
 
+<p><a href="{{ $presentation }}">Draft Presentation</a></p>
+
 <p>
 Bear with us as we are assessing your presentation amongst the many others we have received. We will announce our decision around mid-November 2017.
 </p>

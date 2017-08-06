@@ -45,7 +45,8 @@ class Controller extends BaseController
             'track' => 'required',
             'what' => 'required',
             'why' => 'required',
-            'change' => 'required'        
+            'change' => 'required',
+            'presentation' => 'required'        
         ]);
 
         //$presentationpath = Storage::putFile('presentations', $request->file('presentation'));

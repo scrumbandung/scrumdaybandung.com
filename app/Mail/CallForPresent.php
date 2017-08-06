@@ -49,7 +49,7 @@ class CallForPresent extends Mailable
                         'what' => $this->contact['what'],
                         'why' => $this->contact['why'],
                         'change' => $this->contact['change'],
-                    ])
-                    ->attach($this->file);
+                        'presentation' => $this->file
+                    ]);
     }
 }
