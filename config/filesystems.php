@@ -58,7 +58,7 @@ return [
             'driver' => 's3',
             'key' => env('S3_KEY'),
             'secret' => env('S3_SECRET'),
-            'region' => 'Asia Pacific (Singapore)',
+            'region' => env('S3_REGION'),
             'bucket' => 'scrumdaybandung',
         ],
 
