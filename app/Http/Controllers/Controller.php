@@ -11,6 +11,8 @@ use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Support\Facades\Mail;
 
+use Storage;
+    
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
@@ -43,12 +45,15 @@ class Controller extends BaseController
             'track' => 'required',
             'what' => 'required',
             'why' => 'required',
-            'change' => 'required',
+            'change' => 'required'        
         ]);
 
+        //$presentationpath = Storage::putFile('presentations', $request->file('presentation'));
+        $path = $request->file('presentation')->store('presentations');
+
         $req = $request->all();
-        
-        Mail::to($req['email'], $req['fullname'])->send(new CallForPresent($req));
+
+        Mail::to($req['email'], $req['fullname'])->send(new CallForPresent($req, $path));
 
         return redirect('/en/call-for-presentation')->with('status', trans('contact.cfp.thanks.message'));
     }

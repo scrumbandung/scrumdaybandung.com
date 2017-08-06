@@ -12,14 +12,16 @@ class CallForPresent extends Mailable
     use Queueable, SerializesModels;
 
     protected $contact;
+    protected $file;
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct($contact)
+    public function __construct($contact, $file)
     {
         $this->contact = $contact;
+        $this->file = $file;
     }
 
     /**
@@ -29,7 +31,8 @@ class CallForPresent extends Mailable
      */
     public function build()
     {
-        $emailto = "sdb2018pc@gmail.com";
+        $emailto = "scrumdaybandung@gmail.com"; // Should not be hardcoded here.
+        //$emailto = "sdb2018pc@gmail.com";
 
         return $this->from($emailto)
                     ->cc($emailto)
@@ -46,6 +49,7 @@ class CallForPresent extends Mailable
                         'what' => $this->contact['what'],
                         'why' => $this->contact['why'],
                         'change' => $this->contact['change'],
-                    ]);
+                    ])
+                    ->attach($this->file);
     }
 }

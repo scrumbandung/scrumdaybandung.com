@@ -30,8 +30,8 @@
 				<ul>
 					<li>No sales &amp; no marketing about your brand or your product but case study is encouraged. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>You are not allowed to use your opportunity on the stage for hiring people. The organiser will ban any speaker who does not respect this rule.</li>
-					<li>Your presentation must relate to Scrum. You can talk about any other Agile practices but you must explain how the presented Agile practice fits within the Scrum framework.</li>
-					<li>Make sure the Scrum mechanics, values and principles in your presentation is aligned with <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with your own version of Scrum and fix their wrong understandings after the conference.</li>	
+					<li>If you want to talk about any other Agile practices, explain to the audience how the presented Agile practice work together with Scrum framework.</li>
+					<li>Any Scrum terms used should the same with the terms used in <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with your own version of Scrum.</li>	
 					<li>No Scrum basics. We want high quality talks. If it's revolutionary, we would like to learn from you. People are attending the conference to hear something new. We're looking for a talk where the Scrum framework can be exploited to help organisations increase their Agility and bring the very best out of their people.</li>							
 				</ul>
 				</p>
@@ -49,7 +49,7 @@
 			</div>
 	
 			<div class="panel panel-default">
-	        <form id="contact_form" class="form-horizontal panel-body" method="post" action="/submit-presentation">
+	        <form id="contact_form" class="form-horizontal panel-body" method="post" action="/submit-presentation" enctype="multipart/form-data">
 	          <input type="hidden" name="_token" value="{{ csrf_token() }}">
 	          <div class="col-md-12">
 
@@ -137,7 +137,7 @@
 
 				<fieldset class="form-group">
 				    <label for="exampleInputFile">Draft Presentation File</label>
-				    <input type="file" id="exampleInputFile" name="presentation">
+				    <input type="file" id="presentation" name="presentation">
 				    <p class="help-block">Please attach your draft presentation file in .pptx for us to assess.</p>
 				</fieldset>
 
