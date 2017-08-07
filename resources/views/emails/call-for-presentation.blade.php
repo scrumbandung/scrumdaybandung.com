@@ -64,7 +64,7 @@ Here are the information we have received from you:
 
 </p>
 
-<p><a href="{{ $presentation }}">Draft Presentation</a></p>
+<p><a href="https://s3-{{ env('S3_REGION') }}.amazonaws.com/{{ env('S3_BUCKET') }}/{{ $presentation }}">Draft Presentation</a></p>
 
 <p>
 Bear with us as we are assessing your presentation amongst the many others we have received. We will announce our decision around mid-November 2017.
