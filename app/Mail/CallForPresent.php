@@ -31,12 +31,13 @@ class CallForPresent extends Mailable
      */
     public function build()
     {
-        $emailto = env('COMMITTEE_EMAIL'); // Should not be hardcoded here.
+        $committee_email = env('COMMITTEE_EMAIL'); // Should not be hardcoded here.
         //$emailto = "sdb2018pc@gmail.com";
 
-        return $this->from($emailto)
-                    ->cc($emailto)
-                    ->replyto($emailto)
+        return $this->to($committee_email)
+                    ->from($committee_email)
+                    ->cc($committee_email)
+                    ->replyto($committee_email)
                     ->view('emails.call-for-presentation')
                     ->subject("[SDB 2018] Presentation Submission")
                     ->with([
