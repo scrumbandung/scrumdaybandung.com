@@ -99,19 +99,19 @@
 
 	            	<div class="radio">
 					  <label>
-					    <input type="radio" name="track" id="optionsRadios1" value="product">
+					    <input type="radio" name="track" id="productOwnerTrack" value="product">
 					    Product Management &amp; Business Agility (Product Owner subject areas)
 					  </label>
 					</div>
 					<div class="radio">
 					  <label>
-					    <input type="radio" name="track" id="optionsRadios2" value="people">
+					    <input type="radio" name="track" id="scrumMasterTrack" value="people">
 					    People, Coaching &amp; Servant Leadership (Scrum Master subject areas)
 					  </label>
 					</div>
 					<div class="radio">
 					  <label>
-					    <input type="radio" name="track" id="optionsRadios2" value="technical">
+					    <input type="radio" name="track" id="devTeamTrack" value="technical">
 					    Software Craftmanship &amp; Technical Excellence (Development Team subject areas)
 					  </label>
 					</div>

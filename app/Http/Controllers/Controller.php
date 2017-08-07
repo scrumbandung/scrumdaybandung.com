@@ -30,7 +30,7 @@ class Controller extends BaseController
       	
         Mail::to($req['email'], $req['fullname'])->send(new Contact($req));
 
-    	return redirect('/en/contact')->with('status', trans('contact.thanks.message'));
+    	return redirect()->route('contact', ['locale' => 'en'])->with('status', trans('contact.thanks.message'));
     }
 
     public function submit_presentation(Request $request){
@@ -49,13 +49,12 @@ class Controller extends BaseController
             'presentation' => 'required'        
         ]);
 
-        //$presentationpath = Storage::putFile('presentations', $request->file('presentation'));
         $path = $request->file('presentation')->storePublicly('presentations');
 
         $req = $request->all();
 
         Mail::to($req['email'], $req['fullname'])->send(new CallForPresent($req, $path));
 
-        return redirect('/en/call-for-presentation')->with('status', trans('contact.cfp.thanks.message'));
+        return redirect()->route( 'call-for-presentation', ['locale' => 'en'] )->with('status', trans('contact.cfp.thanks.message'));
     }
 }
