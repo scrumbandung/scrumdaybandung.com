@@ -50,7 +50,7 @@ class Controller extends BaseController
         ]);
 
         //$presentationpath = Storage::putFile('presentations', $request->file('presentation'));
-        $path = $request->file('presentation')->store('presentations');
+        $path = $request->file('presentation')->storePublicly('presentations');
 
         $req = $request->all();
 
