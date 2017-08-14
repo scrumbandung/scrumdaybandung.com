@@ -28,10 +28,12 @@
 				<p>
 				<strong>Guidelines for your presentation:</strong>
 				<ul>
+					<li><strong>Duration &amp; Timing:</strong> You presentation duration will be 50 minutes long. 5 minutes will be reserved after your presentation for Q&amp;A.</li>
+					<li><strong>Language of delivery:</strong> As there will be some international speakers attending the event, it would be a plus if you can present it in English. But if you are from Indonesia and more comfortable to present in Bahasa Indonesia then it will not be an issue.</li>		
 					<li>No sales &amp; no marketing about your brand or your product but case study is encouraged. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>You are not allowed to use your opportunity on the stage for hiring people. The organiser will ban any speaker who does not respect this rule.</li>
-					<li>If you want to talk about any other Agile practices, please explain to the audience how the presented Agile practice work together with Scrum framework.</li>
-					<li>Any Scrum terms used should the same with the terms used in <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with different version of Scrum.</li>	
+					<li>We want to be as inclusive as possible, when you are talking about other Agile practices, be ready to explain to the audience how the presented Agile practice work together with Scrum framework.</li>
+					<li>Any Scrum terms mentioned in the presentation should the same with the terms used in <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with different version of Scrum.</li>	
 					<li>We want high quality talks. If it's revolutionary, we would like to learn from you. People are attending the conference to hear something new. We're looking for a talk where the Scrum framework can be exploited to help organisations increase their Agility and bring the very best out of their people.</li>							
 				</ul>
 				</p>
@@ -44,6 +46,9 @@
 				<li><strong>Selection announcement</strong>: Mid November 2017</li>
 				</ul>
 				The selection process will take some time. We're not only looking for quality talks but we also look at you and your contribution to the Agile software development community. Please be patient to wait for the announcement email from the programme committee. We will send you an email if your talk is selected. If your talk is selected by the programme committee, you are expected to support your own travel and accommodation to and from Bandung, Indonesia. We would like stay independent hence not relying on big sponsors and keep the cost affordable for the participants. We would like to keep Scrum Day Bandung purely for learning from each other's experience.  
+				</p>
+				<p>
+				Do you have any questions for us? Do not hesitate to contact us using the <a href="{{ route('contact', ['locale' => 'en']) }}">contact form</a>. When you are ready, please fill out the form below and submit it to us.
 				</p>
 
 			</div>

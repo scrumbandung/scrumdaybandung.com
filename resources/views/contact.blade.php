@@ -47,6 +47,7 @@
                     <label for="delivery_method">@lang('contact.subject') (*)</label>
                     <select class="form-control" name="subject">
                     	<!--option value="@lang('contact.reg.enquiries')">@lang('contact.reg.enquiries')</option-->
+                    	<option value="@lang('contact.submit.presentation')">@lang('contact.submit.presentation')</option>
                     	<option value="@lang('contact.preconf')">@lang('contact.preconf')</option>
                     	<option value="@lang('contact.hotel.special.price')">@lang('contact.hotel.special.price')</option>
                         <option value="@lang('contact.req.sponsor')">@lang('contact.req.sponsor')</option>

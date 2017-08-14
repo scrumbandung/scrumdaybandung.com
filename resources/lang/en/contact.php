@@ -7,6 +7,7 @@ return [
     'subject' => 'Subject',
     'message' => 'Message',
     'send' => 'Send',
+    'submit.presentation' => 'Presentation Submission',
     'linkedin' => 'Your LinkedIn ID',
     'twitter' => 'Your Twitter handle',
     'about' => 'Please tell us about yourself in 140 characters or less',
