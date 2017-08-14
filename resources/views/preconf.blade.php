@@ -50,19 +50,19 @@
  				<th>Kontak</th>
 			  </tr>
 			  <tr>
-			  	<td>26 Agustus 2017 (08:00 WIB - selesai)</td>
-			  	<td>Surabaya, Jawa Timur</td>
-			  	<td>Scrum Chapter Surabaya</td>
-			  	<td>Rp. 200,000,-</td>
-			  	<td>Gerdhu</td>
-			  	<td><a href="http://bit.ly/workshopscrumsby2017">Faza (0878 511 22865)</a></td>
-			  </tr>
-			  <tr>
-			  	<td>29 September 2017 (08:00 WIB - selesai)</td>
+			  	<td>30 September 2017 (08:00 WIB - selesai)</td>
 			  	<td>Medan, Sumatera Utara</td>
 			  	<td>Scrum Chapter Medan</td>
 			  	<td>Rp. 250,000,-</td>
 			  	<td>Universitas Pelita Harapan</td>
+			  	<td><a href="http://cs.medan.uph.edu/">Darsono (08116186822)</a></td>
+			  </tr>
+			  <tr>
+			  	<td>7 Oktober 2017 (08:00 WIB - selesai)</td>
+			  	<td>Bandung, Jawa Barat</td>
+			  	<td>Scrum Chapter Bandung</td>
+			  	<td>Rp. 350,000,-</td>
+			  	<td>TBD</td>
 			  	<td>TBD</td>
 			  </tr>
 			</table>
