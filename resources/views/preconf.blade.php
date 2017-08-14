@@ -68,6 +68,18 @@
 			</table>
 			</div>
 			
+			<h2>Video Road to #ScrumDayBdg2018 di kota-kota di Indonesia</h2>
+			<div class="row">
+				<div class="col-md-6">
+	                <div class="panel panel-default">
+	                    <div class="panel-body">
+	                        <div class="embed-responsive embed-responsive-16by9">
+	                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/B1882pvDakE"></iframe>
+	                        </div>
+	                    </div>
+	                </div>
+	            </div>
+            </div>
 		</div>
 	</div>
 </div>
