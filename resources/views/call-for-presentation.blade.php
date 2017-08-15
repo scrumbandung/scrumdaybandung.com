@@ -29,10 +29,10 @@
 				<strong>Guidelines for your presentation:</strong>
 				<ul>
 					<li><strong>Duration &amp; Timing:</strong> You presentation duration will be 50 minutes long. 5 minutes will be reserved after your presentation for Q&amp;A.</li>
-					<li><strong>Language of delivery:</strong> As there will be some international speakers attending the event, it would be a plus if you can present it in English. But if you are from Indonesia and more comfortable to present in Bahasa Indonesia then it will not be an issue.</li>		
+					<li><strong>Language of delivery:</strong> As there will be some international speakers &amp; participants attending the event, it would be a plus if you can present it in English. But if you Indonesian and more comfortable to present in Bahasa Indonesia don't feel obligated to present it in English.</li>	
 					<li>No sales &amp; no marketing about your brand or your product but case study is encouraged. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>You are not allowed to use your opportunity on the stage for hiring people. The organiser will ban any speaker who does not respect this rule.</li>
-					<li>We want to be as inclusive as possible, when you are talking about other Agile practices, be ready to explain to the audience how the presented Agile practice work together with Scrum framework.</li>
+					<li>We want to be as inclusive as possible, we see Scrum as a container for other Agile practices. When you are talking about other Agile practices, be prepared to explain to the audience how the presented Agile practice would work together with Scrum framework.</li>
 					<li>Any Scrum terms mentioned in the presentation should the same with the terms used in <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with different version of Scrum.</li>	
 					<li>We want high quality talks. If it's revolutionary, we would like to learn from you. People are attending the conference to hear something new. We're looking for a talk where the Scrum framework can be exploited to help organisations increase their Agility and bring the very best out of their people.</li>							
 				</ul>
@@ -106,18 +106,21 @@
 					  <label>
 					    <input type="radio" name="track" id="productOwnerTrack" value="product">
 					    Product Management &amp; Business Agility (Product Owner subject areas)
+					    <p class="help-block">e.g: Design Thinking, Lean UI/UX, Agile Forecasting Techniques, Growth Hacking etc.</p>
 					  </label>
 					</div>
 					<div class="radio">
 					  <label>
 					    <input type="radio" name="track" id="scrumMasterTrack" value="people">
 					    People, Coaching &amp; Servant Leadership (Scrum Master subject areas)
+					    <p class="help-block">e.g: Organisation Behaviour &amp; Culture, The Path to Agility, Scaling Agility, Coaching &amp; Group Facilitation etc.</p>
 					  </label>
 					</div>
 					<div class="radio">
 					  <label>
 					    <input type="radio" name="track" id="devTeamTrack" value="technical">
 					    Software Craftmanship &amp; Technical Excellence (Development Team subject areas)
+					    <p class="help-block">e.g: Refactoring &amp; Clean Coding, DevOps, Continuous Delivery, Emergent Architecture, Automated Testing etc.</p>
 					  </label>
 					</div>
 	            </fieldset>
