@@ -29,12 +29,12 @@
 				<strong>Guidelines for your presentation:</strong>
 				<ul>
 					<li><strong>Duration &amp; Timing:</strong> You presentation duration will be 50 minutes long. 5 minutes will be reserved after your presentation for Q&amp;A.</li>
-					<li><strong>Language of delivery:</strong> As there will be some international speakers &amp; participants attending the event, it would be a plus if you can present it in English. But if you Indonesian and more comfortable to present in Bahasa Indonesia don't feel obligated to present it in English.</li>	
+					<li><strong>Language of delivery:</strong> As there will be some international speakers &amp; participants attending the event, it would be a plus if you can present it in English. But if you are Indonesian and more comfortable to present in Bahasa Indonesia don't feel obligated to present it in English.</li>	
 					<li>No sales &amp; no marketing about your brand or your product but case study is encouraged. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>You are not allowed to use your opportunity on the stage for hiring people. The organiser will ban any speaker who does not respect this rule.</li>
 					<li>We want to be as inclusive as possible, we see Scrum as a container for other Agile practices. When you are talking about other Agile practices, be prepared to explain to the audience how the presented Agile practice would work together with Scrum framework.</li>
 					<li>Any Scrum terms mentioned in the presentation should the same with the terms used in <a href="http://www.scrumguides.org">Scrum Guide</a>. We don't want to confuse the audience with different version of Scrum.</li>	
-					<li>We want high quality talks. If it's revolutionary, we would like to learn from you. People are attending the conference to hear something new. We're looking for a talk where the Scrum framework can be exploited to help organisations increase their Agility and bring the very best out of their people.</li>							
+					<li>We want high quality talks. If it's revolutionary, we would like to learn from you. People are attending the conference to hear something new. We're looking for a talk where other Agile practices to help organisations increase their Agility and bring the very best out of their people.</li>							
 				</ul>
 				</p>
 
