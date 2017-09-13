@@ -57,14 +57,6 @@
 			  	<td>Universitas Pelita Harapan</td>
 			  	<td><a href="http://cs.medan.uph.edu/">Darsono (08116186822)</a></td>
 			  </tr>
-			  <tr>
-			  	<td>7 Oktober 2017 (08:00 WIB - selesai)</td>
-			  	<td>Bandung, Jawa Barat</td>
-			  	<td>Scrum Chapter Bandung</td>
-			  	<td>Rp. 350,000,-</td>
-			  	<td>TBD</td>
-			  	<td>TBD</td>
-			  </tr>
 			</table>
 			</div>
 			

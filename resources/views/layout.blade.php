@@ -47,6 +47,7 @@
                 </li>
                 <li><a href="{{ route('preconf', ['locale' => 'id']) }}">Pre-conference</a></li>
                 <li><a href="{{ route('call-for-presentation', ['locale' => 'en']) }}">Call for Presentation</a></li>
+                <li><a href="{{ route('volunteer', ['locale' => 'id']) }}">Call for Volunteers</a></li>
             </ul>
         </div>
       </div>

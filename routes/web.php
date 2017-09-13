@@ -76,3 +76,10 @@ Route::get('/{locale}/faq', function ($locale) {
 
 	return view('faq');
 })->name('faq');
+
+Route::get('/{locale}/volunteer', function ($locale) {
+	App::setLocale($locale);
+
+	return view('volunteer');
+
+})->name('volunteer');
