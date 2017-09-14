@@ -29,7 +29,11 @@
 			</p>
 
 			<p>
-			Panitia Scrum Day Bandung 2018 saat ini sedang mencari agen perubahan dari Bandung dan sekitarnya untuk membantu kami dalam mencapai misi kami menciptakan ekosistem software development yang ideal di Indonesia. Misi besar membutuhkan banyak orang-orang yang berhati besar. Perubahan ini tentunya kita juga yang akan menikmatinya. Simak video berikut untuk mendengarkan alasan kenapa kami semua termotivasi untuk menjadi panitia Scrum Day Bandung 2017. Bila kalian terinspirasi oleh motivasi kami silahkan isi form di bawah dan tunggu email balasan dari kami untuk bertemu dan berbincang-bincang di sebuah kafe di sekitar Bandung mengenai harapan dan komitmen kamu di acara ini. Scrum On!
+			Scrum Day Bandung bukanlah sekedar konferensi seperti yang lainnya namun sebuah gerakan dengan misi menciptakan ekosistem software development yang ideal di Indonesia. Semua anggota panitia Scrum Day Bandung memiliki misi yang sama. <em>We are mission driven NOT money driven</em>. Panitia Scrum Day Bandung 2018 saat ini sedang mencari agen perubahan dari Bandung dan sekitarnya untuk membantu kami dalam mencapai misi kami menciptakan ekosistem software development yang ideal di Indonesia. Misi besar membutuhkan banyak orang-orang yang berhati besar. Perubahan ini tentunya kita juga yang akan menikmatinya. 
+			</p>
+
+			<p>
+				Simak video berikut untuk mendengarkan alasan kenapa kami semua termotivasi untuk menjadi panitia Scrum Day Bandung 2017. Bila kalian terinspirasi oleh motivasi kami silahkan isi form di bawah dan tunggu email balasan dari kami untuk bertemu dan berbincang-bincang di sebuah kafe di sekitar Bandung mengenai harapan dan komitmen kamu di acara ini. Scrum On!
 			</p>
 
 			<div class="panel panel-default">
