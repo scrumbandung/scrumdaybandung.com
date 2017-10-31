@@ -29,10 +29,11 @@ class Contact extends Mailable
      */
     public function build()
     {
-        return $this->from('Filipustian@gmail.com')
-                    ->cc('Filipustian@gmail.com')
-                    ->cc('scrumdaybandung@gmail.com')
-                    ->replyto('scrumdaybandung@gmail.com')
+        $team_email = env('TEAM_EMAIL');
+
+        return $this->from($team_email)
+                    ->cc($team_email)
+                    ->replyto($team_email)
                     ->view('emails.contact')
                     ->subject($this->contact['subject'])
                     ->with([

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Mail\CallForPresent;
+use App\Mail\Contact;
 
 use Illuminate\Http\Request;
 use Illuminate\Foundation\Bus\DispatchesJobs;

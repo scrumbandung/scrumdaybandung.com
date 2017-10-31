@@ -15,7 +15,7 @@ return [
     'change' => 'What have you done to change the way people in organisations work?',
     'community' => 'What have you contributed to the agile software development community?',
     'track' => 'Which track would you like your talk to be in?',
-    'message' => 'What message do you want the audience to hear during your session?',
+    'present.message' => 'What message do you want the audience to hear during your session?',
     'talk.why' => 'Why do you want the audience to hear this message? What problems do you currently see in the software development ecosystem?',
     'impact' => 'What change do you expect the audience make in their organisation after attending your session?',
     'reg.enquiries' => 'Registration Enquiries',
