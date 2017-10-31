@@ -36,7 +36,7 @@
 
 <p>
 Best Regards, <br/>
-Filipus Septian <br/>
+Najla Seff <br/>
 Product Owner Scrum Day Bandung
 </p>
 
